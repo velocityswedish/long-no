@@ -19,7 +19,7 @@ SCENIC_STYLES = [
 
 
 def generate_scenic_image(category_english: str, category_norwegian: str, output_path: str):
-    if POLLINATIONS_API_KEY:
+    if False and POLLINATIONS_API_KEY:  # disabled
         import time as ttime
         session = requests.Session()
         session.timeout = 300

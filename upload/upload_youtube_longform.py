@@ -146,6 +146,7 @@ def upload_to_youtube(video_info):
     
     # Build YouTube API client
     youtube = build(API_SERVICE_NAME, API_VERSION, credentials=credentials)
+    youtube._http.timeout = 600
     
     # Get title and description
     title = "Learn Norwegian with Velocity Norwegian"
