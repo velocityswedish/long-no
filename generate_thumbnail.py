@@ -1,6 +1,9 @@
 import os, io, base64, random, requests
 from pathlib import Path
 from dotenv import load_dotenv
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "thumbnails"))
+from thumbnail_manager import get_thumbnail
 
 load_dotenv()
 
@@ -19,7 +22,12 @@ SCENIC_STYLES = [
 
 
 def generate_scenic_image(category_english: str, category_norwegian: str, output_path: str):
-    if False and POLLINATIONS_API_KEY:  # disabled
+    # Try pre-made thumbnail first
+    premade = get_thumbnail("Norwegian", category_english)
+    if premade:
+        return premade
+    
+        if False and POLLINATIONS_API_KEY:  # disabled
         import time as ttime
         session = requests.Session()
         session.timeout = 300
