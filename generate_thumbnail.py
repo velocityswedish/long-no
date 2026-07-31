@@ -27,52 +27,6 @@ def generate_scenic_image(category_english: str, category_norwegian: str, output
     if premade:
         return premade
     
-        if False and POLLINATIONS_API_KEY:  # disabled
-        import time as ttime
-        session = requests.Session()
-        session.timeout = 300
-        for attempt in range(4):
-            style = random.choice(SCENIC_STYLES)
-            prompt = (
-                f"Professional YouTube thumbnail for Norwegian language learning video. "
-                f"{style}. "
-                f"16:9 landscape 1920x1080 exact. High contrast, vibrant, click-worthy. "
-                f"Important: The image MUST contain the following text rendered in bold clear font: "
-                f"At top: '120 NORWEGIAN PHRASES'. In center: '{category_english}'. "
-                f"At bottom: 'VELOCITY NORWEGIAN'. Also: '10 MINUTE LESSON' badge."
-            )
-            try:
-                resp = session.post("https://gen.pollinations.ai/v1/images/generations", json={
-                    "model": "gpt-image-2",
-                    "prompt": prompt,
-                    "n": 1,
-                    "size": "1792x1024",
-                }, headers={"Authorization": f"Bearer {POLLINATIONS_API_KEY}"}, timeout=300)
-                if resp.status_code == 200 and resp.json().get("data"):
-                    raw = base64.b64decode(resp.json()["data"][0]["b64_json"])
-                    if raw:
-                        from PIL import Image
-                        img = Image.open(io.BytesIO(raw)).convert("RGB")
-                        img = img.resize((1920, 1080), Image.LANCZOS)
-                        thumb_bytes = io.BytesIO()
-                        quality = 85
-                        img.save(thumb_bytes, format="JPEG", quality=quality)
-                        while thumb_bytes.tell() > 2097152 and quality > 10:
-                            quality -= 10
-                            thumb_bytes = io.BytesIO()
-                            img.save(thumb_bytes, format="JPEG", quality=quality)
-                        thumb_bytes.seek(0)
-                        Path(output_path).parent.mkdir(parents=True, exist_ok=True)
-                        with open(output_path, "wb") as f:
-                            f.write(thumb_bytes.read())
-                        print(f"[thumbnail] gpt-image-2 thumbnail saved")
-                        return output_path
-            except Exception as e:
-                print(f"[thumbnail] Attempt {attempt+1} failed ({str(e)[:60]}), retrying..." if attempt < 3 else f"[thumbnail] Fallback after {attempt+1} attempts")
-                if attempt < 3:
-                    ttime.sleep(10 * (attempt + 1))
-
-    from PIL import Image, ImageDraw, ImageFont
     img = Image.new('RGB', (1920, 1080), (45, 35, 65))
     draw = ImageDraw.Draw(img)
 
@@ -133,3 +87,5 @@ def generate_scenic_image(category_english: str, category_norwegian: str, output
         f.write(thumb_bytes.read())
     print(f"[thumbnail] Fallback thumbnail saved (AI unavailable)")
     return output_path
+
+

@@ -1065,10 +1065,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_NORWEGIAN[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_NORWEGIAN[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
