@@ -1050,7 +1050,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         if (i + 1) % 10 == 0:
             print(f"  Progress: {i+1}/{len(phrases)} images...")
 
-    print(f"\n    print(f"\n[3/6] Using first phrase image as thumbnail...")
+    print(f"\n[3/6] Using first phrase image as thumbnail...")
     thumbnail_path = video_dir / "thumbnail.jpg"
     first_phrase = sorted(video_dir.glob("phrase_*.jpg"))
     if first_phrase:
@@ -1069,7 +1069,8 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
             generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
-    video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"[4/6] Generating audio for {len(phrases)} phrases...")
+    video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
+    print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
 
     final_audio = video_dir / "narration.mp3"
