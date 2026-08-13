@@ -839,6 +839,9 @@ def generate_title_description(category_english: str, category_norwegian: str, p
         f"Speak Norwegian Fluently | {category_english} Phrases | English + Norwegian + Pronunciation",
     ]
 
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
+
     description = f"""🇳🇴 Learn Norwegian with Velocity Norwegian! 🇳🇴
 
 In this video, you'll learn 60 essential Norwegian phrases about {category_english} ({category_norwegian}).

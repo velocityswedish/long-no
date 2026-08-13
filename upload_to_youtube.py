@@ -144,6 +144,8 @@ def upload_to_youtube(video_info):
         with open(video_info["metadata"], "r", encoding="utf-8") as f:
             meta = json.load(f)
             title = meta.get("selected_title", title)
+            if len(title) > 100:
+                title = title[:97] + "..."
             description = meta.get("description", "")
 
     video_metadata = {
