@@ -2,7 +2,7 @@
 YouTube Upload Script for Velocity Norwegian
 """
 
-import os, sys, json
+import os, sys, json, time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -53,8 +53,17 @@ def ensure_playlist(youtube, title="Velocity Norwegian - Norwegian Phrases", des
             "status": {"privacyStatus": "public"}
         }
         resp = youtube.playlists().insert(part="snippet,status", body=body).execute()
-        print(f"[youtube] Created playlist: {title} (id={resp['id']})")
-        return resp["id"]
+        pid = resp["id"]
+        print(f"[youtube] Created playlist: {title} (id={pid})")
+        # YouTube API propagation lag - wait until the playlist is visible
+        for _ in range(5):
+            try:
+                youtube.playlists().list(part="id", mine=True, maxResults=50).execute()
+                youtube.playlistItems().list(part="id", playlistId=pid, maxResults=1).execute()
+                break
+            except Exception:
+                time.sleep(2)
+        return pid
     except Exception as e:
         print(f"[youtube] Playlist creation failed: {e}")
         return None
