@@ -279,9 +279,6 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                 # Filter by similarity against history AND phrases already
                 # collected in THIS run (prevents same-run duplicates)
                 filtered_phrases = filter_similar_phrases(phrases, history)
-                filtered_phrases = filter_similar_phrases(
-                    filtered_phrases, {"phrases": [{"english": p["english"]} for p in all_phrases]},
-                    similarity_threshold=0.7)
                 unique_phrases = []
                 for phrase in filtered_phrases:
                     if len(phrase["english"].split()) > 15:
