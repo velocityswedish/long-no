@@ -3,6 +3,7 @@ YouTube Upload Script for Velocity Norwegian
 """
 
 import os, sys, json, time
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -36,7 +37,7 @@ def get_latest_video():
 
 
 
-def ensure_playlist(youtube, title="Velocity Norwegian - Norwegian Phrases", description="All Norwegian phrases videos in one playlist. Learn Norwegian with Velocity Norwegian!"):
+def ensure_playlist(youtube, title="Learn Norwegian Phrases for Beginners | Velocity Norwegian", description="All norwegian phrases videos in one playlist. 🇳🇴 Learn Norwegian with Velocity Norwegian!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
