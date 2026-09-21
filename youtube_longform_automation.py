@@ -78,7 +78,7 @@ CATEGORIES_NORWEGIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "nb-NO-PernilleNeural"
 
 # Phrase history file
