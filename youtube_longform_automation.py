@@ -78,7 +78,7 @@ CATEGORIES_NORWEGIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-GuyNeural"
+ENGLISH_VOICE = "en-US-AndrewNeural"
 LANG_VOICE = "nb-NO-PernilleNeural"
 
 # Phrase history file
@@ -188,6 +188,52 @@ def calculate_phrases_needed(target_minutes: int) -> int:
     return int(total_seconds / avg_phrase_duration)
 
 
+def repair_and_parse_json(content: str):
+    """Robustly parse JSON from LLM output with truncation repair and regex recovery."""
+    import re
+    cleaned = content.strip()
+    if "```json" in cleaned:
+        cleaned = cleaned.split("```json", 1)[1].split("```", 1)[0].strip()
+    elif "```" in cleaned:
+        cleaned = cleaned.split("```", 1)[1].split("```", 1)[0].strip()
+    
+    try:
+        return json.loads(cleaned)
+    except Exception:
+        pass
+
+    start = cleaned.find("[")
+    end = cleaned.rfind("]")
+    if start != -1 and end != -1 and end > start:
+        try:
+            return json.loads(cleaned[start:end+1])
+        except Exception:
+            pass
+
+    if start != -1:
+        sub = cleaned[start:]
+        last_brace = sub.rfind("}")
+        if last_brace != -1:
+            try:
+                return json.loads(sub[:last_brace+1] + "]")
+            except Exception:
+                pass
+
+    matches = re.findall(r'\{[^{}]*\"english\"[^{}]*\}', cleaned)
+    results = []
+    for m in matches:
+        try:
+            obj = json.loads(m)
+            if isinstance(obj, dict) and "english" in obj:
+                results.append(obj)
+        except Exception:
+            continue
+    if results:
+        return results
+
+    raise ValueError("Could not parse or repair JSON from content")
+
+
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     category_norwegian = CATEGORIES_NORWEGIAN[category_english]
     history = load_phrase_history()
@@ -275,7 +321,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                 elif "```" in content:
                     content = content.split("```")[1].split("```")[0].strip()
 
-                phrases = json.loads(content)
+                phrases = repair_and_parse_json(content)
                 # Filter by similarity against history AND phrases already
                 # collected in THIS run (prevents same-run duplicates)
                 filtered_phrases = filter_similar_phrases(phrases, history)
@@ -295,6 +341,16 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
         if len(all_phrases) < num_phrases:
             import time
             time.sleep(1)
+
+    if not all_phrases:
+        print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
+        all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
+    elif len(all_phrases) < num_phrases:
+        print(f"[content] Only {len(all_phrases)} phrases generated. Padding with fresh fallback phrases...")
+        extras = get_fresh_fallback_phrases(category_english, num_phrases - len(all_phrases))
+        for ex in extras:
+            if ex not in all_phrases:
+                all_phrases.append(ex)
 
     final_phrases = all_phrases[:num_phrases]
     if final_phrases:
@@ -466,15 +522,20 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
-    try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        return True
-    except Exception as e:
-        print(f"  TTS error: {e}")
-        return False
+async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 3):
+    import edge_tts
+    for attempt in range(retries):
+        try:
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 300:
+                return True
+        except Exception as e:
+            if attempt < retries - 1:
+                await asyncio.sleep(0.8 * (attempt + 1))
+            else:
+                print(f"  TTS error after {retries} attempts: {e}")
+    return False
 
 
 def generate_all_audio(phrases: list, output_dir: str):
@@ -510,7 +571,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             "ffmpeg", "-y",
             "-i", str(english_file),
             "-i", str(lang_file),
-            "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
+            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
