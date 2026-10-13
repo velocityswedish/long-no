@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 15  # Target ~15-minute videos (~170 phrases)
-TARGET_PHRASES = 170  # Number of phrases to generate
+TARGET_DURATION_MINUTES = 5
+TARGET_PHRASES = 120
 
 # English category names
 CATEGORIES_ENGLISH = [
@@ -163,24 +163,19 @@ def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
 
 
 def add_phrases_to_history(phrases, category):
-    """Add new phrases to history (deduplicated)"""
     history = load_phrase_history()
-    existing = {p.get("english", "").lower().strip() for p in history.get("phrases", [])}
-    added = 0
     for phrase in phrases:
-        key = phrase.get("english", "").lower().strip()
-        if not key or key in existing:
-            continue
-        existing.add(key)
         history["phrases"].append({
             "english": phrase["english"],
             "norwegian": phrase["norwegian"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
-        added += 1
     save_phrase_history(history)
-    print(f"[history] Added {added} unique phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+
+
+# ============== CONTENT GENERATION ==============
 
 def calculate_phrases_needed(target_minutes: int) -> int:
     avg_phrase_duration = 5.0
@@ -294,7 +289,6 @@ For each phrase:
 1. English phrase (pure English, zero Norwegian words) with commas for natural pauses
 2. Norwegian translation
 3. Pronunciation guide (phonetic English spelling)
-CRITICAL: Every translation MUST be in Norwegian. NEVER use German, Spanish, or any other language. Only Norwegian.
 
 Return as JSON array:
 [{{"english": "...", "norwegian": "...", "pronunciation": "..."}}]
@@ -322,8 +316,6 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                     content = content.split("```")[1].split("```")[0].strip()
 
                 phrases = repair_and_parse_json(content)
-                # Filter by similarity against history AND phrases already
-                # collected in THIS run (prevents same-run duplicates)
                 filtered_phrases = filter_similar_phrases(phrases, history)
                 unique_phrases = []
                 for phrase in filtered_phrases:
@@ -522,7 +514,53 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
-async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 3):
+def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool:
+    """Fallback TTS using Google Translate TTS if Edge TTS fails."""
+    import urllib.request
+    import urllib.parse
+
+    lang_code = "en"
+    voice_lower = str(voice_or_lang).lower()
+    if voice_lower.startswith("en"):
+        lang_code = "en"
+    elif "-" in str(voice_or_lang):
+        part = str(voice_or_lang).split("-")[0].lower()
+        if part == "zh":
+            lang_code = "zh-CN"
+        elif part == "fil":
+            lang_code = "tl"
+        elif part == "nb":
+            lang_code = "no"
+        else:
+            lang_code = part
+    else:
+        lang_code = voice_lower
+
+    clean_text = text.replace("*", "").replace("#", "").strip()
+    if not clean_text:
+        return False
+
+    try:
+        url = f"https://translate.google.com/translate_tts?ie=UTF-8&q={urllib.parse.quote(clean_text)}&tl={lang_code}&client=tw-ob"
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            }
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = resp.read()
+        if len(data) > 200:
+            with open(output_path, "wb") as f:
+                f.write(data)
+            return True
+    except Exception as e:
+        print(f"  Google TTS fallback error ({lang_code}): {e}")
+    return False
+
+
+async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 2):
+    """Generate audio using Edge TTS with automatic Google TTS fallback"""
     import edge_tts
     for attempt in range(retries):
         try:
@@ -531,10 +569,13 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
             if Path(output_path).exists() and Path(output_path).stat().st_size > 300:
                 return True
         except Exception as e:
-            if attempt < retries - 1:
-                await asyncio.sleep(0.8 * (attempt + 1))
-            else:
-                print(f"  TTS error after {retries} attempts: {e}")
+            if attempt == retries - 1:
+                print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
+
+    # Fallback to Google TTS
+    if generate_google_tts(text, voice, output_path):
+        return True
+
     return False
 
 
@@ -898,61 +939,54 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
 def generate_title_description(category_english: str, category_norwegian: str, phrases: list, duration_minutes: float, output_dir: str):
-    """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
-
-    # Generate viral title variations
-    duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
-        f"Learn Norwegian in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_norwegian})",
-        f"{int(round(duration_minutes))} Norwegian Phrases for {category_english} | Speak Norwegian Like a Native! ({category_norwegian})",
-        f"Master Norwegian {category_english} | Essential Norwegian Phrases with Phonetic | Velocity Norwegian",
-        f"Norwegian Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
-        f"Speak Norwegian Fluently | {category_english} Phrases | English + Norwegian + Phonetic",
+        f"Learn Norwegian in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_norwegian})",
+        f"60 Norwegian Phrases for {category_english} | Speak Norwegian Like a Native! ({category_norwegian})",
+        f"Master Norwegian {category_english} | 60 Essential Norwegian Phrases with Pronunciation | Velocity Norwegian",
+        f"Norwegian Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Speak Norwegian Fluently | {category_english} Phrases | English + Norwegian + Pronunciation",
     ]
-    # YouTube title limit is 100 chars - truncate any overlong title safely
-    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
 
-    # Generate comprehensive description
-    phrase_count = len(phrases)
     description = f"""🇳🇴 Learn Norwegian with Velocity Norwegian! 🇳🇴
 
-In this video, you'll learn {phrase_count} essential Norwegian phrases about {category_english} ({category_norwegian}).
+In this video, you'll learn 60 essential Norwegian phrases about {category_english} ({category_norwegian}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• {phrase_count} practical {category_english} phrases in Norwegian
-• Correct pronunciation with Phonetic guide
+• 60 practical {category_english} phrases in Norwegian
+• Correct pronunciation guide
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
 
 ⏱️ VIDEO TIMESTAMPS:
 """
-    # Add timestamps for each phrase (every 10 phrases grouped)
-    avg_phrase_duration = duration_minutes * 60 / len(phrases) if phrases else 0
+
+    avg_phrase_duration = duration_minutes * 60 / len(phrases)
     for i in range(0, len(phrases), 10):
-        seconds = int(i * avg_phrase_duration)
-        minute = seconds // 60
-        second = seconds % 60
+        timestamp = int(i * avg_phrase_duration / 60)
+        minute = timestamp
+        second = int((i * avg_phrase_duration) % 60)
         end_phrase = min(i + 10, len(phrases))
-        description += f"{minute:02d}:{second:02d}  Phrases {i+1}-{end_phrase}\n"
+        description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
 
-    description += f"""
-📝 ALL {phrase_count} PHRASES IN THIS VIDEO:
+    description += """
+📝 ALL PHRASES IN THIS VIDEO:
 """
-    # Add all phrases (clean aligned list)
-    for i, phrase in enumerate(phrases, 1):
-        description += (
-            f"\n{i}. {phrase['english']}\n"
-            f"    🇳🇴 {phrase['norwegian']}\n"
-            f"    🔤 {phrase['pronunciation']}"
-        )
 
-    description += f"""
+    for i, phrase in enumerate(phrases, 1):
+        description += f"""
+{i}. {phrase['english']}
+   Norwegian: {phrase['norwegian']}
+    Pronunciation: {phrase['pronunciation']}
+"""
+
+    description += """
 🎯 PERFECT FOR:
 • Norwegian beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in Norwegian
+• Anyone interested in Norwegian language and culture
 • Language enthusiasts and polyglots
+• Students preparing for exams
 
 💡 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -965,56 +999,61 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-#LearnNorwegian #NorwegianPhrases #NorwegianLanguage #{category_english.replace(' ', '')} #VelocityNorwegian #NorwegianForBeginners #SpeakNorwegian #NorwegianVocabulary #Phonetic #LanguageLearning
+📱 FOLLOW VELOCITY NORWEGIAN:
+[Add your social media links here]
 
+🎵 MUSIC:
+[Add music credits if applicable]
+
+📖 RELATED VIDEOS:
+• Norwegian Motivation Phrases
+• Norwegian Love Expressions
+• Basic Norwegian Greetings
+
+#LearnNorwegian #NorwegianPhrases #NorwegianLanguage #{category_english.replace(' ', '')} #VelocityNorwegian #NorwegianForBeginners #SpeakNorwegian #NorwegianVocabulary #Pronunciation #LanguageLearning #Norwegian101 #NorwegianLesson
+
+---
 © Velocity Norwegian - Making Norwegian learning accessible to everyone!
 """
 
-    # Write to COMBINED file (title + description in one)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Combined YouTube upload file (title + description)
     with open(output_dir / "youtube_upload_info.txt", "w", encoding="utf-8") as f:
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-
-        f.write("📌 RECOMMENDED TITLES (Choose one):\n")
+        f.write("RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
-
         f.write("\n" + "=" * 80 + "\n")
-        f.write("📝 SELECTED TITLE (Recommended):\n")
+        f.write("SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
-
         f.write("\n" + "=" * 80 + "\n")
-        f.write("📄 VIDEO DESCRIPTION:\n")
+        f.write("VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
-
         f.write("\n" + "=" * 80 + "\n")
-        f.write("🏷️ VIDEO TAGS (for YouTube):\n")
+        f.write("VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
             "Learn Norwegian",
             "Norwegian Phrases",
-            "Norwegian",
-            "{category_english}",
-            "{category_english} in Norwegian",
+            "Norwegian Language",
+            category_english,
             "Velocity Norwegian",
             "Norwegian for Beginners",
             "Speak Norwegian",
             "Norwegian Vocabulary",
-            "Phonetic",
+            "Pronunciation",
             "Language Learning",
+            "Norwegian 101",
             "Norwegian Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
-    # Metadata JSON (for easy parsing)
     metadata = {
         "recommended_titles": titles,
         "selected_title": titles[0],
@@ -1029,13 +1068,14 @@ Perfect for beginners and intermediate learners!
     with open(output_dir / "video_metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-    print(f"\n[metadata] \u2713 Generated YouTube upload files")
-    print(f"  \U0001F4C4 youtube_upload_info.txt (title + description + tags)")
-    print(f"  \U0001F4C4 video_metadata.json")
+    print(f"\n[metadata] Generated YouTube upload files")
+    print(f"  youtube_upload_info.txt (title + description + tags)")
+    print(f"  video_metadata.json")
 
     return metadata
 
 
+# ============== VIDEO CREATION ==============
 
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
