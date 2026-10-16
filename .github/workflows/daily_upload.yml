@@ -1,4 +1,4 @@
-name: Velocity Norwegian - Daily YouTube Upload
+name: Velocity Norwegian - Daily Long-Form Upload
 
 on:
   schedule:
@@ -19,73 +19,76 @@ on:
         required: false
         default: ''
       phrases:
-        description: 'Number of phrases (default: 60)'
+        description: 'Number of phrases (default: 120)'
         required: false
-        default: '60'
+        default: '120'
+
+permissions:
+  contents: write
+  actions: write
 
 jobs:
-  generate-youtube-video:
+  generate-and-upload:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      actions: write
 
     steps:
-      - name: Checkout repository
+      - name: ⬇️ Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Download phrase history
+      - name: 📥 Download phrase history
         uses: actions/download-artifact@v4
-        id: download-history
         continue-on-error: true
         with:
-          name: norwegian-longform-phrase-history
+          name: norwegian-phrase-history
           path: output/history/
 
-      - name: Initialize history if not found
+      - name: 📝 Initialize history if not found
         run: |
           mkdir -p output/history
           if [ ! -f "output/history/all_generated_phrases.json" ]; then
             echo '{"phrases": [], "last_updated": null}' > output/history/all_generated_phrases.json
           fi
+          if [ ! -f "output/history/used_categories.json" ]; then
+            echo '{"categories": []}' > output/history/used_categories.json
+          fi
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install system dependencies
+      - name: 📦 Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg
-          echo "System dependencies installed (fonts are in repo)"
-
-      - name: Install Python dependencies
-        run: |
+          sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-noto-cjk-extra fonts-noto-color-emoji
+          sudo fc-cache -fv || true
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f "requirements.txt" ]; then
+            pip install -r requirements.txt
+          fi
           if [ -f "upload/requirements.txt" ]; then
             pip install -r upload/requirements.txt
           fi
 
-      - name: Create .env file from secrets
+      - name: 🔐 Create .env file from secrets
         run: |
           echo "POLLINATIONS_API_KEY=${{ secrets.POLLINATIONS_API_KEY }}" >> .env
           echo "AI_MODEL=${{ secrets.AI_MODEL || 'gemini-fast' }}" >> .env
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> .env
           echo "YT_CLIENT_ID=${{ secrets.YT_CLIENT_ID }}" >> .env
           echo "YT_CLIENT_SECRET=${{ secrets.YT_CLIENT_SECRET }}" >> .env
           echo "YT_REFRESH_TOKEN=${{ secrets.YT_REFRESH_TOKEN }}" >> .env
           echo "FACEBOOK_ACCESS_TOKEN=${{ secrets.FACEBOOK_ACCESS_TOKEN }}" >> .env
           echo "FACEBOOK_PAGE_ID=${{ secrets.FACEBOOK_PAGE_ID }}" >> .env
 
-      - name: Generate Long-Form YouTube Video
+      - name: 🎬 Generate Long-Form Video
         id: generate
         run: |
           python youtube_longform_automation.py
-          LATEST_DIR=$(ls -td output/longform_videos/*/ | head -1)
-          echo "LATEST_VIDEO_DIR=$LATEST_DIR" >> $GITHUB_OUTPUT
+          LATEST_DIR=$(ls -td output/longform_videos/*/ 2>/dev/null | head -1)
+          echo "LATEST_VIDEO_DIR=$LATEST_DIR" >> "$GITHUB_OUTPUT"
 
       - name: 📅 Check YouTube upload schedule (Alternate days)
         id: yt_schedule
@@ -112,20 +115,28 @@ jobs:
             fi
           fi
 
-      - name: Upload to YouTube
+      - name: 📺 Upload to YouTube (Alternate Days Only)
         if: steps.yt_schedule.outputs.should_upload == 'true'
         id: youtube-upload
         continue-on-error: true
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: |
-          LATEST_DIR=$(ls -td output/longform_videos/*/ | head -1)
-          export YT_CLIENT_ID="${{ secrets.YT_CLIENT_ID }}"
-          export YT_CLIENT_SECRET="${{ secrets.YT_CLIENT_SECRET }}"
-          export YT_REFRESH_TOKEN="${{ secrets.YT_REFRESH_TOKEN }}"
-          export PYTHONPATH="${{ github.workspace }}/upload:$PYTHONPATH"
-          cd upload
-          python upload_youtube_longform.py
+          export PYTHONPATH="${{ github.workspace }}:${{ github.workspace }}/upload:$PYTHONPATH"
+          if [ -f "upload_to_youtube.py" ]; then
+            python upload_to_youtube.py
+          elif [ -f "upload/upload_youtube_longform.py" ]; then
+            cd upload && python upload_youtube_longform.py
+          elif [ -f "upload/upload_to_youtube.py" ]; then
+            cd upload && python upload_to_youtube.py
+          else
+            echo "❌ Error: Could not find YouTube upload script."
+            exit 1
+          fi
 
-      - name: 📘 Upload to Facebook Page
+      - name: 📘 Upload to Facebook Page (Daily)
         id: facebook-upload
         continue-on-error: true
         env:
@@ -137,22 +148,41 @@ jobs:
             python upload_to_facebook.py
           elif [ -f "upload/upload_facebook.py" ]; then
             cd upload && python upload_facebook.py
+          else
+            echo "ℹ️ No Facebook upload script found - skipping."
           fi
 
-      - name: Upload Video Artifact
+      - name: 📤 Upload Video Artifact
         uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: velocity-norwegian-video-${{ github.run_number }}
           path: |
-            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}final_video.mp4
-            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}thumbnail.jpg
+            output/longform_videos/*/final_video.mp4
+            output/longform_videos/*/thumbnail.jpg
+            output/longform_videos/*/video_metadata.json
+            output/longform_videos/*/youtube_upload_info.txt
+            output/longform_videos/*/facebook_upload_result.json
           retention-days: 7
 
-      - name: Upload Phrase History
+      - name: 💾 Upload Phrase History Artifact
         uses: actions/upload-artifact@v4
         if: success()
         with:
-          name: norwegian-longform-phrase-history
-          path: output/history/all_generated_phrases.json
+          name: norwegian-phrase-history
+          path: |
+            output/history/all_generated_phrases.json
+            output/history/used_categories.json
           retention-days: 90
           overwrite: true
+
+      - name: 💾 Commit Phrase History to Repository
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/history/
+          if ! git diff --staged --quiet; then
+            git commit -m "Update phrase history - Run #${{ github.run_number }}"
+            git push
+          fi
