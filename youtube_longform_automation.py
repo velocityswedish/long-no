@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
-CATEGORIES_ENGLISH = list(CATEGORIES_NORWEGIAN.keys())
 
 # Norwegian translations
 CATEGORIES_NORWEGIAN = {
@@ -98,6 +97,9 @@ CATEGORIES_NORWEGIAN = {
     "Cultural Traditions": "Kulturtradisjoner",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_NORWEGIAN.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "nb-NO-PernilleNeural"
