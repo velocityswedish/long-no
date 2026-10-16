@@ -40,13 +40,7 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
-CATEGORIES_ENGLISH = [
-    "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
-    "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
-    "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
-    "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
-]
+CATEGORIES_ENGLISH = list(CATEGORIES_NORWEGIAN.keys())
 
 # Norwegian translations
 CATEGORIES_NORWEGIAN = {
@@ -75,6 +69,33 @@ CATEGORIES_NORWEGIAN = {
     "Growth": "Vekst",
     "Purpose": "Formål",
     "Mindfulness": "Oppmerksomhet",
+
+    # 26-50: Practical Conversational & Real-World Life Scenarios
+    "Travel & Airport": "Reise og flyplass",
+    "Ordering Food & Dining": "Bestille mat og spise ute",
+    "Shopping & Prices": "Shopping og priser",
+    "Asking for Directions": "Spørre om veien",
+    "Hotel & Accommodation": "Hotell og overnatting",
+    "Daily Routine": "Daglig rutine",
+    "Meeting People & Greetings": "Møte folk og hilse",
+    "Emergency & Health": "Nødsituasjoner og helse",
+    "Public Transportation": "Kollektivtransport",
+    "Work & Office": "Jobb og kontor",
+    "Weather & Small Talk": "Vær og småprat",
+    "Coffee Shop & Bakery": "Kafé og bakeri",
+    "Family & Home": "Familie og hjem",
+    "Hobbies & Free Time": "Hobbyer og fritid",
+    "Dating & Romance": "Dating og romantikk",
+    "Phone Calls & Messages": "Telefonsamtaler og meldinger",
+    "Banking & Money": "Bank og penger",
+    "Doctor & Pharmacy": "Lege og apotek",
+    "Sports & Fitness": "Sport og trening",
+    "Celebrations & Parties": "Feiringer og fester",
+    "Feelings & Emotions": "Følelser",
+    "Agreeing & Disagreeing": "Enig og uenig",
+    "Making Plans": "Lage planer",
+    "Common Native Slang": "Vanlig gatespråk",
+    "Cultural Traditions": "Kulturtradisjoner",
 }
 
 # Edge TTS voices
@@ -247,6 +268,37 @@ SUBTHEMES = [
     ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
     ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
 ]
+
+
+def get_next_category(categories_dict: dict) -> str:
+    """Select the least recently used category to guarantee a smooth, non-repeating cycle"""
+    recent_file = HISTORY_DIR / "recent_categories.json"
+    recent = []
+    if recent_file.exists():
+        try:
+            with open(recent_file, "r", encoding="utf-8") as f:
+                recent = json.load(f)
+        except Exception:
+            recent = []
+
+    all_cats = list(categories_dict.keys())
+    cooldown = max(1, len(all_cats) - 10)
+    available = [c for c in all_cats if c not in recent[-cooldown:]]
+    if not available:
+        available = all_cats
+
+    chosen = random.choice(available)
+    recent.append(chosen)
+    if len(recent) > 100:
+        recent = recent[-100:]
+
+    try:
+        with open(recent_file, "w", encoding="utf-8") as f:
+            json.dump(recent, f, indent=2, ensure_ascii=False)
+    except Exception:
+        pass
+
+    return chosen
 
 
 def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
@@ -788,6 +840,25 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         anchor="mm"
     )
 
+    # Top Right Lesson Progress Indicator
+    prog_text = "120 ESSENTIAL PHRASES"
+    prog_bbox = draw.textbbox((0, 0), prog_text, font=font_branding)
+    prog_w = prog_bbox[2] - prog_bbox[0]
+    prog_pad_x = 30
+    prog_container_w = prog_w + (prog_pad_x * 2)
+    prog_x = VIDEO_WIDTH - prog_container_w - 60
+    draw.rounded_rectangle(
+        [(prog_x, container_y), (prog_x + prog_container_w, container_y + badge_h)],
+        radius=15, fill=(255, 210, 160, 255)
+    )
+    draw.text(
+        (prog_x + prog_container_w // 2, container_y + badge_h // 2 + 2),
+        prog_text,
+        fill=(70, 45, 25, 255),
+        font=font_branding,
+        anchor="mm"
+    )
+
     CONTENT_Y_CENTER = VIDEO_HEIGHT // 2
     GAP = 60
 
@@ -1155,7 +1226,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
 def generate_longform_video(category_english: str = None, target_phrases: int = None):
     if not category_english:
-        category_english = random.choice(CATEGORIES_ENGLISH)
+        category_english = get_next_category(CATEGORIES_NORWEGIAN)
 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
