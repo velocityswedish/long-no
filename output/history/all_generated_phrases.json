@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Party time, let's go!",
+      "norwegian": "Festtid, la oss dra!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521724"
+    },
+    {
+      "english": "Are you coming, or not?",
+      "norwegian": "Kommer du, eller ikke?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521740"
+    },
+    {
+      "english": "This is a great party!",
+      "norwegian": "Dette er en flott fest!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521743"
+    },
+    {
+      "english": "What a surprise, wow!",
+      "norwegian": "For en overraskelse, wow!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521745"
+    },
+    {
+      "english": "Happy birthday, by the way!",
+      "norwegian": "Gratulerer med dagen, forresten!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521749"
+    },
+    {
+      "english": "Cheers to us, my friend!",
+      "norwegian": "Skål for oss, min venn!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521752"
+    },
+    {
+      "english": "Let's have some fun!",
+      "norwegian": "La oss ha det gøy!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521755"
+    },
+    {
+      "english": "Where is the music?",
+      "norwegian": "Hvor er musikken?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521760"
+    },
+    {
+      "english": "Dance with me, come on!",
+      "norwegian": "Dans med meg, kom igjen!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521763"
+    },
+    {
+      "english": "This cake is delicious!",
+      "norwegian": "Denne kaken er nydelig!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521766"
+    },
+    {
+      "english": "Thank you for the invite!",
+      "norwegian": "Takk for invitasjonen!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521769"
+    },
+    {
+      "english": "It's getting late, sadly.",
+      "norwegian": "Det begynner å bli sent, dessverre.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521772"
+    },
+    {
+      "english": "See you next time then!",
+      "norwegian": "Vi ses neste gang da!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521774"
+    },
+    {
+      "english": "What are we celebrating?",
+      "norwegian": "Hva feirer vi?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521776"
+    },
+    {
+      "english": "Another round of drinks!",
+      "norwegian": "En runde til med drikke!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521778"
+    },
+    {
+      "english": "Great to see everyone!",
+      "norwegian": "Så hyggelig å se alle!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521780"
+    },
+    {
+      "english": "Is there food available?",
+      "norwegian": "Er det mat tilgjengelig?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521782"
+    },
+    {
+      "english": "This is loads of fun!",
+      "norwegian": "Dette er kjempegøy!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521784"
+    },
+    {
+      "english": "Happy New Year, everyone!",
+      "norwegian": "Godt nytt år, alle sammen!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521788"
+    },
+    {
+      "english": "Let's make a toast!",
+      "norwegian": "La oss skåle!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521790"
+    },
+    {
+      "english": "Can I have some water?",
+      "norwegian": "Kan jeg få litt vann?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521792"
+    },
+    {
+      "english": "This party is amazing!",
+      "norwegian": "Denne festen er fantastisk!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521794"
+    },
+    {
+      "english": "Don't be shy, join us!",
+      "norwegian": "Ikke vær sjenert, bli med!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521797"
+    },
+    {
+      "english": "When does it end?",
+      "norwegian": "Når slutter det?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521799"
+    },
+    {
+      "english": "Let's take a photo!",
+      "norwegian": "La oss ta et bilde!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521801"
+    },
+    {
+      "english": "This is the best party!",
+      "norwegian": "Dette er den beste festen!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521803"
+    },
+    {
+      "english": "More snacks, please!",
+      "norwegian": "Mer snacks, takk!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521805"
+    },
+    {
+      "english": "I'm having a blast!",
+      "norwegian": "Jeg har det kjempegøy!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521808"
+    },
+    {
+      "english": "Happy anniversary, dear!",
+      "norwegian": "Gratulerer med dagen, kjære!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521810"
+    },
+    {
+      "english": "Let's sing a song!",
+      "norwegian": "La oss synge en sang!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521812"
+    },
+    {
+      "english": "What are you planning, for tonight?",
+      "norwegian": "Hva planlegger du, for i kveld?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521815"
+    },
+    {
+      "english": "Do you need help, with preparations?",
+      "norwegian": "Trenger du hjelp, med forberedelsene?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521817"
+    },
+    {
+      "english": "When should we arrive, exactly?",
+      "norwegian": "Når bør vi ankomme, nøyaktig?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521820"
+    },
+    {
+      "english": "What should I bring, perhaps?",
+      "norwegian": "Hva bør jeg ta med, kanskje?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521823"
+    },
+    {
+      "english": "Is there a dress code, do you know?",
+      "norwegian": "Er det kleskode, vet du?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521826"
+    },
+    {
+      "english": "Who else is coming, to the party?",
+      "norwegian": "Hvem andre kommer, på festen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521828"
+    },
+    {
+      "english": "Can you recommend, a good song?",
+      "norwegian": "Kan du anbefale, en god sang?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521831"
+    },
+    {
+      "english": "Where is the host, I want to say hi.",
+      "norwegian": "Hvor er verten, jeg vil si hei.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521833"
+    },
+    {
+      "english": "Did you enjoy, the last song?",
+      "norwegian": "Likte du, den forrige sangen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521835"
+    },
+    {
+      "english": "What is your favorite, part of the event?",
+      "norwegian": "Hva er din favoritt, del av arrangementet?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521838"
+    },
+    {
+      "english": "Could you show me, where the restrooms are?",
+      "norwegian": "Kan du vise meg, hvor toalettene er?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521840"
+    },
+    {
+      "english": "Do you want a drink, first?",
+      "norwegian": "Vil du ha en drink, først?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521856"
+    },
+    {
+      "english": "Is it okay, if I bring a friend?",
+      "norwegian": "Er det greit, om jeg tar med en venn?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521858"
+    },
+    {
+      "english": "What time does it start, exactly?",
+      "norwegian": "Hva tid begynner det, nøyaktig?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521861"
+    },
+    {
+      "english": "Are you having, a good time?",
+      "norwegian": "Har du det, gøy?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521863"
+    },
+    {
+      "english": "What kind of music, are they playing?",
+      "norwegian": "Hva slags musikk, spiller de?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521865"
+    },
+    {
+      "english": "Can I help, with serving food?",
+      "norwegian": "Kan jeg hjelpe, med å servere mat?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521868"
+    },
+    {
+      "english": "Who is this person, you are talking to?",
+      "norwegian": "Hvem er denne personen, du snakker med?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521870"
+    },
+    {
+      "english": "What's the occasion, for this party?",
+      "norwegian": "Hva er anledningen, for denne festen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521872"
+    },
+    {
+      "english": "Do you know the birthday person, well?",
+      "norwegian": "Kjenner du bursdagsbarnet, godt?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521875"
+    },
+    {
+      "english": "Should we get them, a gift together?",
+      "norwegian": "Skal vi gi dem, en gave sammen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521877"
+    },
+    {
+      "english": "What is that delicious, smell coming from the kitchen?",
+      "norwegian": "Hva er den deilige, lukten fra kjøkkenet?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521879"
+    },
+    {
+      "english": "Are there any, vegetarian options?",
+      "norwegian": "Finnes det noen, vegetariske alternativer?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521881"
+    },
+    {
+      "english": "How do you know, the hosts?",
+      "norwegian": "Hvordan kjenner du, vertskapet?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521912"
+    },
+    {
+      "english": "Is it okay, to invite more people?",
+      "norwegian": "Er det greit, å invitere flere folk?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521916"
+    },
+    {
+      "english": "Do you have, any allergies?",
+      "norwegian": "Har du noen, allergier?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521919"
+    },
+    {
+      "english": "What is your favorite, type of party?",
+      "norwegian": "Hva er din favoritt, type fest?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521923"
+    },
+    {
+      "english": "When do the fireworks, start?",
+      "norwegian": "Når begynner fyrverkeriet,?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521927"
+    },
+    {
+      "english": "Can you tell me, more about the plan?",
+      "norwegian": "Kan du fortelle meg, mer om planen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521930"
+    },
+    {
+      "english": "You've got this, believe in yourself!",
+      "norwegian": "Du klarer dette, tro på deg selv!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521933"
+    },
+    {
+      "english": "Your energy is contagious, keep it up!",
+      "norwegian": "Din energi smitter, hold den gående!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521935"
+    },
+    {
+      "english": "Let's celebrate every small victory.",
+      "norwegian": "La oss feire hver eneste lille seier.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521938"
+    },
+    {
+      "english": "Focus on the joy, let worries fade.",
+      "norwegian": "Fokuser på gleden, la bekymringene forsvinne.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521940"
+    },
+    {
+      "english": "You bring such great vibes, thanks!",
+      "norwegian": "Du sprer så god stemning, takk!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521943"
+    },
+    {
+      "english": "It's a good day, for happiness.",
+      "norwegian": "Det er en god dag, for lykke.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521946"
+    },
+    {
+      "english": "Keep that positive spirit, shining bright!",
+      "norwegian": "Behold den positive ånden, den skinner!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521949"
+    },
+    {
+      "english": "Every moment is a chance, to shine.",
+      "norwegian": "Hvert øyeblikk er en sjanse, til å skinne.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521951"
+    },
+    {
+      "english": "Your smile, makes this event better.",
+      "norwegian": "Ditt smil, gjør denne samlingen bedre.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521953"
+    },
+    {
+      "english": "Embrace the fun, be present now.",
+      "norwegian": "Omfavn moroa, vær til stede nå.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521955"
+    },
+    {
+      "english": "You're doing great, keep going strong!",
+      "norwegian": "Du gjør en kjempeinnsats, fortsett slik!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521958"
+    },
+    {
+      "english": "Let's fill this space, with good cheer.",
+      "norwegian": "La oss fylle dette rommet, med godt humør.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521960"
+    },
+    {
+      "english": "Your optimism is inspiring, truly.",
+      "norwegian": "Ditt optimisme er inspirerende, virkelig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521963"
+    },
+    {
+      "english": "This is your time, to enjoy fully.",
+      "norwegian": "Dette er din tid, til å nyte fullt ut.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521968"
+    },
+    {
+      "english": "You deserve all this, happiness.",
+      "norwegian": "Du fortjener alt dette, herligheten.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521970"
+    },
+    {
+      "english": "Keep spreading that good feeling.",
+      "norwegian": "Fortsett å spre den gode følelsen.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521972"
+    },
+    {
+      "english": "You make every party, brighter.",
+      "norwegian": "Du gjør enhver fest, lysere.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521974"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "norwegian": "Tro på ditt potensial, alltid.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521978"
+    },
+    {
+      "english": "Let's create wonderful memories, together.",
+      "norwegian": "La oss skape fantastiske minner, sammen.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521983"
+    },
+    {
+      "english": "Your presence, is a gift.",
+      "norwegian": "Din tilstedeværelse, er en gave.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521985"
+    },
+    {
+      "english": "This atmosphere is perfect, thanks to you.",
+      "norwegian": "Denne atmosfæren er perfekt, takket være deg.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521987"
+    },
+    {
+      "english": "Stay positive, no matter what.",
+      "norwegian": "Hold deg positiv, uansett hva.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521990"
+    },
+    {
+      "english": "You bring out the best, in people.",
+      "norwegian": "Du fremkaller det beste, hos folk.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521994"
+    },
+    {
+      "english": "Let's make this a night, to remember.",
+      "norwegian": "La oss gjøre dette til en natt, å huske.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521997"
+    },
+    {
+      "english": "Your enthusiasm is truly infectious.",
+      "norwegian": "Din entusiasme er virkelig smittsom.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.521999"
+    },
+    {
+      "english": "Enjoy this celebration, you've earned it.",
+      "norwegian": "Nyt denne feiringen, du har fortjent den.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522001"
+    },
+    {
+      "english": "What a fantastic mood, you create!",
+      "norwegian": "For et fantastisk humør, du skaper!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522004"
+    },
+    {
+      "english": "Keep shining your light, for all.",
+      "norwegian": "Fortsett å skinne ditt lys, for alle.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522006"
+    },
+    {
+      "english": "You are a wonderful addition, to any party.",
+      "norwegian": "Du er et fantastisk tilskudd, til enhver fest.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522008"
+    },
+    {
+      "english": "Let's make today, a happy occasion.",
+      "norwegian": "La oss gjøre denne dagen, til en lykkelig anledning.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522011"
+    },
+    {
+      "english": "Taking a moment, to just be.",
+      "norwegian": "Tar et øyeblikk, til å bare være.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522023"
+    },
+    {
+      "english": "This feeling, is something special.",
+      "norwegian": "Denne følelsen, er noe spesielt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522026"
+    },
+    {
+      "english": "Cherish these memories, deeply.",
+      "norwegian": "Sett pris på disse minnene, dypt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522029"
+    },
+    {
+      "english": "Sometimes, quiet reflection is best.",
+      "norwegian": "Noen ganger, er stille ettertanke best.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522031"
+    },
+    {
+      "english": "What are you, truly grateful for?",
+      "norwegian": "Hva er du, virkelig takknemlig for?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522034"
+    },
+    {
+      "english": "Patience brings, understanding.",
+      "norwegian": "Tålmodighet gir, forståelse.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522036"
+    },
+    {
+      "english": "Letting go, of what doesn't serve.",
+      "norwegian": "Slippe tak, i det som ikke tjener.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522039"
+    },
+    {
+      "english": "Thinking about, what truly matters.",
+      "norwegian": "Tenker på, hva som virkelig betyr noe.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522041"
+    },
+    {
+      "english": "This moment, feels perfect.",
+      "norwegian": "Dette øyeblikket, føles perfekt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522044"
+    },
+    {
+      "english": "Finding peace, within the chaos.",
+      "norwegian": "Finne fred, midt i kaoset.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522046"
+    },
+    {
+      "english": "Honest feelings, are valuable.",
+      "norwegian": "Ærlige følelser, er verdifulle.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522048"
+    },
+    {
+      "english": "What does this celebration, mean to you?",
+      "norwegian": "Hva betyr denne feiringen, for deg?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522050"
+    },
+    {
+      "english": "I feel, a deep connection.",
+      "norwegian": "Jeg føler, en dyp forbindelse.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522052"
+    },
+    {
+      "english": "Reflecting on, the journey here.",
+      "norwegian": "Reflekterer over, reisen hit.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522055"
+    },
+    {
+      "english": "It's okay, to be vulnerable.",
+      "norwegian": "Det er greit, å være sårbar.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522057"
+    },
+    {
+      "english": "Letting my true self, show.",
+      "norwegian": "Lar mitt sanne jeg, vise seg.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522059"
+    },
+    {
+      "english": "This atmosphere, feels right.",
+      "norwegian": "Denne atmosfæren, føles riktig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522061"
+    },
+    {
+      "english": "Appreciating, simple moments.",
+      "norwegian": "Setter pris på, enkle øyeblikk.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522063"
+    },
+    {
+      "english": "What brings you, the most joy?",
+      "norwegian": "Hva gir deg, mest glede?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522065"
+    },
+    {
+      "english": "Trusting the process, slowly.",
+      "norwegian": "Stoler på prosessen, langsomt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522068"
+    },
+    {
+      "english": "Sharing this warmth, generously.",
+      "norwegian": "Deler denne varmen, sjenerøst.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522070"
+    },
+    {
+      "english": "My heart, feels full.",
+      "norwegian": "Hjertet mitt, føles fullt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522072"
+    },
+    {
+      "english": "Embracing, this collective energy.",
+      "norwegian": "Omfavner, denne kollektive energien.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522074"
+    },
+    {
+      "english": "Learning from, each experience.",
+      "norwegian": "Lærer av, hver erfaring.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522079"
+    },
+    {
+      "english": "This connection, feels genuine.",
+      "norwegian": "Denne koblingen, føles ekte.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522081"
+    },
+    {
+      "english": "Allowing myself, to feel.",
+      "norwegian": "Lar meg selv, føle.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522083"
+    },
+    {
+      "english": "What is your deepest, wish tonight?",
+      "norwegian": "Hva er ditt dypeste, ønske i kveld?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522085"
+    },
+    {
+      "english": "Finding beauty, in the present.",
+      "norwegian": "Finner skjønnhet, i nåtiden.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522087"
+    },
+    {
+      "english": "This shared joy, is powerful.",
+      "norwegian": "Denne delte gleden, er kraftig.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522090"
+    },
+    {
+      "english": "Understanding takes, time.",
+      "norwegian": "Forståelse tar, tid.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522092"
+    },
+    {
+      "english": "Remember to bring a small gift, always.",
+      "norwegian": "Husk å ta med en liten gave, alltid.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-17T07:36:24.522094"
+    }
+  ],
+  "last_updated": "2026-10-17T07:36:24.522095"
+}
