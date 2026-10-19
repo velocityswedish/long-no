@@ -1439,7 +1439,727 @@
       "norwegian": "Ta én ting om gangen.",
       "category": "Self Improvement",
       "generated_at": "2026-10-18T07:51:28.491435"
+    },
+    {
+      "english": "Have a creative day, my friend.",
+      "norwegian": "Ha en kreativ dag, min venn.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605848"
+    },
+    {
+      "english": "That's a brilliant idea!",
+      "norwegian": "Det er en strålende idé!",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605860"
+    },
+    {
+      "english": "Let's brainstorm some thoughts.",
+      "norwegian": "La oss idémyldre litt.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605864"
+    },
+    {
+      "english": "Think outside the box.",
+      "norwegian": "Tenk utenfor boksen.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605867"
+    },
+    {
+      "english": "What inspires you today?",
+      "norwegian": "Hva inspirerer deg i dag?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605870"
+    },
+    {
+      "english": "This sparks my imagination.",
+      "norwegian": "Dette vekker fantasien min.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605872"
+    },
+    {
+      "english": "Your creativity is amazing.",
+      "norwegian": "Din kreativitet er fantastisk.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605875"
+    },
+    {
+      "english": "Let your ideas flow.",
+      "norwegian": "La ideene dine flyte.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605880"
+    },
+    {
+      "english": "I love this new concept.",
+      "norwegian": "Jeg elsker dette nye konseptet.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605883"
+    },
+    {
+      "english": "Let's get inspired together.",
+      "norwegian": "La oss bli inspirert sammen.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605886"
+    },
+    {
+      "english": "What a unique perspective!",
+      "norwegian": "For et unikt perspektiv!",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605889"
+    },
+    {
+      "english": "This is so original.",
+      "norwegian": "Dette er så originalt.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605891"
+    },
+    {
+      "english": "Let's try something different.",
+      "norwegian": "La oss prøve noe annet.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605894"
+    },
+    {
+      "english": "Your vision is clear.",
+      "norwegian": "Din visjon er klar.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605898"
+    },
+    {
+      "english": "Don't be afraid to experiment.",
+      "norwegian": "Vær ikke redd for å eksperimentere.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605901"
+    },
+    {
+      "english": "This feels very innovative.",
+      "norwegian": "Dette føles veldig nyskapende.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605904"
+    },
+    {
+      "english": "How did you come up with that?",
+      "norwegian": "Hvordan kom du på det?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605906"
+    },
+    {
+      "english": "Let's make something beautiful.",
+      "norwegian": "La oss lage noe vakkert.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605909"
+    },
+    {
+      "english": "Your mind is so full of ideas.",
+      "norwegian": "Hjernen din er full av ideer.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605911"
+    },
+    {
+      "english": "This is a creative spark.",
+      "norwegian": "Dette er en kreativ gnist.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605914"
+    },
+    {
+      "english": "Let's explore new possibilities.",
+      "norwegian": "La oss utforske nye muligheter.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605917"
+    },
+    {
+      "english": "This is pure imagination.",
+      "norwegian": "Dette er ren fantasi.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605919"
+    },
+    {
+      "english": "I'm feeling inspired now.",
+      "norwegian": "Jeg føler meg inspirert nå.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605921"
+    },
+    {
+      "english": "Can you imagine that?",
+      "norwegian": "Kan du forestille deg det?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605926"
+    },
+    {
+      "english": "This is truly original work.",
+      "norwegian": "Dette er virkelig originalt arbeid.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605928"
+    },
+    {
+      "english": "What a fantastic creation!",
+      "norwegian": "For en fantastisk kreasjon!",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605931"
+    },
+    {
+      "english": "Let your creativity shine.",
+      "norwegian": "La kreativiteten din skinne.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605933"
+    },
+    {
+      "english": "This is a great concept.",
+      "norwegian": "Dette er et flott konsept.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605935"
+    },
+    {
+      "english": "Let's get creative, shall we?",
+      "norwegian": "La oss bli kreative, hva sier du?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605938"
+    },
+    {
+      "english": "Wow, what a creative mind!",
+      "norwegian": "Wow, for et kreativt sinn!",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605942"
+    },
+    {
+      "english": "Could you share your process?",
+      "norwegian": "Kan du dele prosessen din?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605944"
+    },
+    {
+      "english": "What do you think of this?",
+      "norwegian": "Hva tenker du om dette?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605947"
+    },
+    {
+      "english": "Any suggestions for improvement?",
+      "norwegian": "Noen forslag til forbedring?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605950"
+    },
+    {
+      "english": "How can we approach this?",
+      "norwegian": "Hvordan kan vi angripe dette?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605953"
+    },
+    {
+      "english": "What's your take on this?",
+      "norwegian": "Hva er ditt syn på dette?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605956"
+    },
+    {
+      "english": "Does this idea resonate?",
+      "norwegian": "Gir denne ideen gjenklang?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605958"
+    },
+    {
+      "english": "Could you explain further?",
+      "norwegian": "Kan du forklare mer?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.605961"
+    },
+    {
+      "english": "What are your initial thoughts?",
+      "norwegian": "Hva er dine første tanker?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606024"
+    },
+    {
+      "english": "May I offer a suggestion?",
+      "norwegian": "Kan jeg komme med et forslag?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606027"
+    },
+    {
+      "english": "What if we tried this instead?",
+      "norwegian": "Hva om vi prøvde dette i stedet?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606030"
+    },
+    {
+      "english": "How do you see this evolving?",
+      "norwegian": "Hvordan ser du dette utvikle seg?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606033"
+    },
+    {
+      "english": "Is there another angle?",
+      "norwegian": "Finnes det en annen vinkel?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606035"
+    },
+    {
+      "english": "What feedback do you have?",
+      "norwegian": "Hvilken tilbakemelding har du?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606038"
+    },
+    {
+      "english": "Can we collaborate on this?",
+      "norwegian": "Kan vi samarbeide om dette?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606040"
+    },
+    {
+      "english": "What's the core message here?",
+      "norwegian": "Hva er kjernen i budskapet?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606043"
+    },
+    {
+      "english": "Could you elaborate a bit?",
+      "norwegian": "Kan du utdype litt?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606048"
+    },
+    {
+      "english": "What do you feel about this?",
+      "norwegian": "Hva føler du om dette?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606050"
+    },
+    {
+      "english": "Any reservations or doubts?",
+      "norwegian": "Noen forbehold eller tvil?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606053"
+    },
+    {
+      "english": "How can we make it stronger?",
+      "norwegian": "Hvordan kan vi gjøre det sterkere?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606055"
+    },
+    {
+      "english": "What are your expectations?",
+      "norwegian": "Hva er dine forventninger?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606060"
+    },
+    {
+      "english": "Shall we discuss the details?",
+      "norwegian": "Skal vi diskutere detaljene?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606062"
+    },
+    {
+      "english": "What's missing, in your opinion?",
+      "norwegian": "Hva mangler, etter din mening?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606065"
+    },
+    {
+      "english": "Could this be interpreted differently?",
+      "norwegian": "Kan dette tolkes annerledes?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606068"
+    },
+    {
+      "english": "What's the intended outcome?",
+      "norwegian": "Hva er det tiltenkte resultatet?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606071"
+    },
+    {
+      "english": "Do you agree with this direction?",
+      "norwegian": "Er du enig i denne retningen?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606073"
+    },
+    {
+      "english": "What's your honest assessment?",
+      "norwegian": "Hva er din ærlige vurdering?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606078"
+    },
+    {
+      "english": "Are there any alternative paths?",
+      "norwegian": "Finnes det noen alternative veier?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606080"
+    },
+    {
+      "english": "How does this make you feel?",
+      "norwegian": "Hvordan får dette deg til å føle?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606083"
+    },
+    {
+      "english": "Believe in your creative power.",
+      "norwegian": "Tro på din kreative kraft.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606086"
+    },
+    {
+      "english": "Your ideas are valuable.",
+      "norwegian": "Dine ideer er verdifulle.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606088"
+    },
+    {
+      "english": "Embrace the unknown, create.",
+      "norwegian": "Ommfavn det ukjente, skap.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606091"
+    },
+    {
+      "english": "Every step forward counts.",
+      "norwegian": "Hvert skritt fremover teller.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606094"
+    },
+    {
+      "english": "You have a unique perspective.",
+      "norwegian": "Du har et unikt perspektiv.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606096"
+    },
+    {
+      "english": "Let your imagination run wild.",
+      "norwegian": "La fantasien din løpe løpsk.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606099"
+    },
+    {
+      "english": "Keep pushing your boundaries.",
+      "norwegian": "Fortsett å tøye grensene dine.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606101"
+    },
+    {
+      "english": "This is a brilliant thought!",
+      "norwegian": "Dette er en strålende tanke!",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606104"
+    },
+    {
+      "english": "You're doing great work.",
+      "norwegian": "Du gjør en kjempejobb.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606114"
+    },
+    {
+      "english": "Trust your creative intuition.",
+      "norwegian": "Stol på din kreative intuisjon.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606117"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "norwegian": "Ditt potensial er ubegrenset.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606119"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "norwegian": "Feir små seire.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606123"
+    },
+    {
+      "english": "You have a gift for this.",
+      "norwegian": "Du har et talent for dette.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606125"
+    },
+    {
+      "english": "Let go of perfectionism.",
+      "norwegian": "Slipp perfeksjonismen.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606128"
+    },
+    {
+      "english": "Your courage is inspiring.",
+      "norwegian": "Ditt mot er inspirerende.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606130"
+    },
+    {
+      "english": "Keep exploring, keep inventing.",
+      "norwegian": "Fortsett å utforske, fortsett å finne opp.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606133"
+    },
+    {
+      "english": "This idea has real potential.",
+      "norwegian": "Denne ideen har stort potensial.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606135"
+    },
+    {
+      "english": "You're on the right track.",
+      "norwegian": "Du er på rett spor.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606140"
+    },
+    {
+      "english": "Never stop creating.",
+      "norwegian": "Slutt aldri å skape.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606143"
+    },
+    {
+      "english": "Think differently, act boldly.",
+      "norwegian": "Tenk annerledes, handle modig.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606147"
+    },
+    {
+      "english": "What a wonderful contribution!",
+      "norwegian": "For et fantastisk bidrag!",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606150"
+    },
+    {
+      "english": "Trust the process, stay open.",
+      "norwegian": "Stol på prosessen, vær åpen.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606153"
+    },
+    {
+      "english": "You bring fresh energy.",
+      "norwegian": "Du bringer ny energi.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606155"
+    },
+    {
+      "english": "Dare to be different.",
+      "norwegian": "Våg å være annerledes.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606157"
+    },
+    {
+      "english": "Your persistence pays off.",
+      "norwegian": "Din utholdenhet gir resultater.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606160"
+    },
+    {
+      "english": "This is truly innovative.",
+      "norwegian": "Dette er virkelig nyskapende.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606162"
+    },
+    {
+      "english": "You've unlocked something new.",
+      "norwegian": "Du har låst opp noe nytt.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606165"
+    },
+    {
+      "english": "Deep down, it feels right.",
+      "norwegian": "Dypt inni, føles det riktig.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606168"
+    },
+    {
+      "english": "My gut tells me, it's good.",
+      "norwegian": "Magen min sier, det er bra.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606170"
+    },
+    {
+      "english": "This needs time, to bloom.",
+      "norwegian": "Dette trenger tid, til å blomstre.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606173"
+    },
+    {
+      "english": "Honesty is key, here.",
+      "norwegian": "Ærlighet er nøkkelen, her.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606176"
+    },
+    {
+      "english": "Patience, with the outcome.",
+      "norwegian": "Tålmodighet, med resultatet.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606194"
+    },
+    {
+      "english": "What's truly important, is this.",
+      "norwegian": "Hva som virkelig betyr noe, er dette.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606198"
+    },
+    {
+      "english": "I feel a strong pull, towards it.",
+      "norwegian": "Jeg føler en sterk dragning, mot det.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606201"
+    },
+    {
+      "english": "Let's be real, about the feelings.",
+      "norwegian": "La oss være ekte, om følelsene.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606204"
+    },
+    {
+      "english": "My heart says, yes.",
+      "norwegian": "Hjertet mitt sier, ja.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606206"
+    },
+    {
+      "english": "This resonates, with my soul.",
+      "norwegian": "Dette gir gjenklang, i sjelen min.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606209"
+    },
+    {
+      "english": "Take a breath, and think.",
+      "norwegian": "Ta et pust, og tenk.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606211"
+    },
+    {
+      "english": "I'm feeling inspired, truly.",
+      "norwegian": "Jeg føler meg inspirert, virkelig.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606214"
+    },
+    {
+      "english": "No pressure, just expression.",
+      "norwegian": "Ingen press, bare uttrykk.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606217"
+    },
+    {
+      "english": "It's a slow burn, you see.",
+      "norwegian": "Det er en sakte glød, skjønner du.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606220"
+    },
+    {
+      "english": "I'm being completely open.",
+      "norwegian": "Jeg er helt åpen.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606222"
+    },
+    {
+      "english": "This touches me, deeply.",
+      "norwegian": "Dette berører meg, dypt.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606225"
+    },
+    {
+      "english": "My inner voice, speaks now.",
+      "norwegian": "Min indre stemme, snakker nå.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606228"
+    },
+    {
+      "english": "It feels authentic, to me.",
+      "norwegian": "Det føles autentisk, for meg.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606233"
+    },
+    {
+      "english": "Letting it unfold, naturally.",
+      "norwegian": "Lar det utfolde seg, naturlig.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606236"
+    },
+    {
+      "english": "My intuition, is guiding me.",
+      "norwegian": "Min intuisjon, veileder meg.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606239"
+    },
+    {
+      "english": "It's a quiet confidence, building.",
+      "norwegian": "Det er en stille selvtillit, som bygger.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606241"
+    },
+    {
+      "english": "I need to process this, slowly.",
+      "norwegian": "Jeg må fordøye dette, langsomt.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606244"
+    },
+    {
+      "english": "This is personal, you know.",
+      "norwegian": "Dette er personlig, vet du.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606247"
+    },
+    {
+      "english": "I'm embracing the doubt, too.",
+      "norwegian": "Jeg omfavner tvilen, også.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606251"
+    },
+    {
+      "english": "A gentle nudge, felt good.",
+      "norwegian": "Et forsiktig dytt, føltes bra.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606254"
+    },
+    {
+      "english": "The honest truth, matters most.",
+      "norwegian": "Den ærlige sannheten, betyr mest.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606257"
+    },
+    {
+      "english": "My feelings are valid, here.",
+      "norwegian": "Mine følelser er gyldige, her.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606259"
+    },
+    {
+      "english": "Allowing for imperfection, is freeing.",
+      "norwegian": "Å tillate ufullkommenhet, er befriende.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606262"
+    },
+    {
+      "english": "Let's brainstorm, some new ideas.",
+      "norwegian": "La oss idémyldre, noen nye tanker.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606266"
+    },
+    {
+      "english": "What sparks joy, for you?",
+      "norwegian": "Hva gir deg glede, egentlig?",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606268"
+    },
+    {
+      "english": "Try a different path, sometimes.",
+      "norwegian": "Prøv en annen vei, av og til.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606271"
+    },
+    {
+      "english": "Focus on the small steps, first.",
+      "norwegian": "Fokuser på de små stegene, først.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606273"
+    },
+    {
+      "english": "Ask 'what if', more often.",
+      "norwegian": "Spør 'hva om', oftere.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606279"
+    },
+    {
+      "english": "Collaborate, and share your vision.",
+      "norwegian": "Samarbeid, og del visjonen din.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606281"
+    },
+    {
+      "english": "Don't fear, the blank page.",
+      "norwegian": "Ikke vær redd, for den tomme siden.",
+      "category": "Creativity",
+      "generated_at": "2026-10-19T08:37:56.606284"
     }
   ],
-  "last_updated": "2026-10-18T07:51:28.491437"
+  "last_updated": "2026-10-19T08:37:56.606286"
 }
