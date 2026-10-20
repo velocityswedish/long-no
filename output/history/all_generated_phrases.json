@@ -2159,7 +2159,727 @@
       "norwegian": "Ikke vær redd, for den tomme siden.",
       "category": "Creativity",
       "generated_at": "2026-10-19T08:37:56.606284"
+    },
+    {
+      "english": "That's really strong, wow!",
+      "norwegian": "Det er skikkelig sterkt, wow!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888439"
+    },
+    {
+      "english": "You're so strong, amazing!",
+      "norwegian": "Du er så sterk, fantastisk!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888454"
+    },
+    {
+      "english": "Can you lift this, maybe?",
+      "norwegian": "Kan du løfte dette, kanskje?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888457"
+    },
+    {
+      "english": "Wow, that weight is heavy!",
+      "norwegian": "Oi, den vekten er tung!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888459"
+    },
+    {
+      "english": "It feels quite solid, right?",
+      "norwegian": "Det kjennes ganske solid, ikke sant?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888461"
+    },
+    {
+      "english": "This is built to last, surely.",
+      "norwegian": "Dette er bygget for å vare, absolutt.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888463"
+    },
+    {
+      "english": "I need more strength for this.",
+      "norwegian": "Jeg trenger mer styrke til dette.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888465"
+    },
+    {
+      "english": "It takes a lot of effort.",
+      "norwegian": "Det krever mye kraft.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888469"
+    },
+    {
+      "english": "Are you feeling strong today?",
+      "norwegian": "Føler du deg sterk i dag?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888472"
+    },
+    {
+      "english": "That requires real power.",
+      "norwegian": "Det krever ekte kraft.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888474"
+    },
+    {
+      "english": "It's a sturdy construction, yes.",
+      "norwegian": "Det er en solid konstruksjon, ja.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888476"
+    },
+    {
+      "english": "Hold on tight, it's strong!",
+      "norwegian": "Hold godt fast, det er sterkt!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888478"
+    },
+    {
+      "english": "This material is very robust.",
+      "norwegian": "Dette materialet er veldig robust.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888482"
+    },
+    {
+      "english": "Can you push it harder?",
+      "norwegian": "Kan du dytte det hardere?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888484"
+    },
+    {
+      "english": "I'm feeling quite energetic now.",
+      "norwegian": "Jeg føler meg ganske energisk nå.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888486"
+    },
+    {
+      "english": "It won't break easily, no.",
+      "norwegian": "Det knekker ikke lett, nei.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888488"
+    },
+    {
+      "english": "That must have taken strength.",
+      "norwegian": "Det må ha krevd styrke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888490"
+    },
+    {
+      "english": "Is this handle strong enough?",
+      "norwegian": "Er dette håndtaket sterkt nok?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888492"
+    },
+    {
+      "english": "Let's see how much it holds.",
+      "norwegian": "La oss se hvor mye det tåler.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888494"
+    },
+    {
+      "english": "This door is very solid.",
+      "norwegian": "Denne døren er veldig solid.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888496"
+    },
+    {
+      "english": "He has incredible endurance.",
+      "norwegian": "Han har utrolig utholdenhet.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888498"
+    },
+    {
+      "english": "It feels very secure, good.",
+      "norwegian": "Det føles veldig trygt, bra.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888502"
+    },
+    {
+      "english": "You did that with such ease!",
+      "norwegian": "Du gjorde det med slik letthet!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888504"
+    },
+    {
+      "english": "The structure is quite powerful.",
+      "norwegian": "Strukturen er ganske kraftig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888506"
+    },
+    {
+      "english": "It can handle a lot, really.",
+      "norwegian": "Det tåler mye, virkelig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888508"
+    },
+    {
+      "english": "My muscles feel really strong.",
+      "norwegian": "Musklene mine føles veldig sterke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888510"
+    },
+    {
+      "english": "This needs a strong grip, watch.",
+      "norwegian": "Dette trenger et sterkt grep, pass.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888512"
+    },
+    {
+      "english": "It's designed for heavy loads.",
+      "norwegian": "Den er laget for tunge laster.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888514"
+    },
+    {
+      "english": "Feel the stability, it's firm.",
+      "norwegian": "Kjenn stabiliteten, den er fast.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888516"
+    },
+    {
+      "english": "That sounds like a tough job.",
+      "norwegian": "Det høres ut som en tøff jobb.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888518"
+    },
+    {
+      "english": "How much weight, can you manage?",
+      "norwegian": "Hvor mye veier, kan du klare?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888521"
+    },
+    {
+      "english": "Is this tool, reliable for heavy work?",
+      "norwegian": "Er dette verktøyet, til å stole på for tungt arbeid?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888523"
+    },
+    {
+      "english": "Do you think, we need more support here?",
+      "norwegian": "Tror du, vi trenger mer støtte her?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888526"
+    },
+    {
+      "english": "What's the maximum, load capacity?",
+      "norwegian": "Hva er den maksimale, lastekapasiteten?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888528"
+    },
+    {
+      "english": "Can this structure, withstand strong winds?",
+      "norwegian": "Kan denne konstruksjonen, tåle sterk vind?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888530"
+    },
+    {
+      "english": "How do you build, something so robust?",
+      "norwegian": "Hvordan bygger man, noe så solid?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888533"
+    },
+    {
+      "english": "Is the foundation, strong enough for this?",
+      "norwegian": "Er fundamentet, sterkt nok for dette?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888535"
+    },
+    {
+      "english": "What kind of technique, did you use?",
+      "norwegian": "Hva slags teknikk, brukte du?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888540"
+    },
+    {
+      "english": "Is this bolt, securely fastened?",
+      "norwegian": "Er denne bolten, forsvarlig festet?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888542"
+    },
+    {
+      "english": "Can you explain, the strength of this material?",
+      "norwegian": "Kan du forklare, styrken i dette materialet?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888545"
+    },
+    {
+      "english": "How did you achieve, such resilience?",
+      "norwegian": "Hvordan oppnådde du, slik motstandskraft?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888547"
+    },
+    {
+      "english": "Is it safe, to apply more pressure?",
+      "norwegian": "Er det trygt, å legge på mer press?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888551"
+    },
+    {
+      "english": "What makes this design, so durable?",
+      "norwegian": "Hva gjør dette designet, så holdbart?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888553"
+    },
+    {
+      "english": "Do you have, the necessary force?",
+      "norwegian": "Har du, den nødvendige kraften?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888558"
+    },
+    {
+      "english": "Could you demonstrate, its resistance?",
+      "norwegian": "Kunne du demonstrere, motstanden?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888560"
+    },
+    {
+      "english": "What's the secret, to your endurance?",
+      "norwegian": "Hva er hemmeligheten, bak utholdenheten din?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888562"
+    },
+    {
+      "english": "Will this hold, under extreme conditions?",
+      "norwegian": "Vil dette holde, under ekstreme forhold?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888564"
+    },
+    {
+      "english": "How do you measure, its tensile strength?",
+      "norwegian": "Hvordan måler man, strekkfastheten?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888566"
+    },
+    {
+      "english": "Is this part, reinforced sufficiently?",
+      "norwegian": "Er denne delen, godt forsterket?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888568"
+    },
+    {
+      "english": "Can you feel, the solid build quality?",
+      "norwegian": "Kan du kjenne, den solide byggekvaliteten?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888570"
+    },
+    {
+      "english": "What makes it, so resistant to impact?",
+      "norwegian": "Hva gjør den, så motstandsdyktig mot slag?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888572"
+    },
+    {
+      "english": "Do you recommend, a stronger alternative?",
+      "norwegian": "Anbefaler du, et sterkere alternativ?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888574"
+    },
+    {
+      "english": "How many people, can it support?",
+      "norwegian": "Hvor mange mennesker, kan den støtte?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888576"
+    },
+    {
+      "english": "Is the frame, built for heavy duty?",
+      "norwegian": "Er rammen, bygget for tung bruk?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888580"
+    },
+    {
+      "english": "What's its compression strength, approximately?",
+      "norwegian": "Hva er trykkfastheten, omtrent?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888583"
+    },
+    {
+      "english": "Did you reinforce, this critical area?",
+      "norwegian": "Forsterket du, dette kritiske området?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888585"
+    },
+    {
+      "english": "How long will this, maintain its integrity?",
+      "norwegian": "Hvor lenge vil dette, beholde integriteten?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888587"
+    },
+    {
+      "english": "Is the material, inherently strong?",
+      "norwegian": "Er materialet, iboende sterkt?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888589"
+    },
+    {
+      "english": "Can you apply, controlled force here?",
+      "norwegian": "Kan du legge på, kontrollert kraft her?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888591"
+    },
+    {
+      "english": "You've got this, totally.",
+      "norwegian": "Du fikser dette, helt.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888593"
+    },
+    {
+      "english": "Keep pushing, you're close.",
+      "norwegian": "Fortsett å presse, du er nær.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888596"
+    },
+    {
+      "english": "That's amazing progress!",
+      "norwegian": "Så utrolig fremgang!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888598"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "norwegian": "Du er sterkere enn du tror.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888600"
+    },
+    {
+      "english": "Awesome effort, really.",
+      "norwegian": "Fantastisk innsats, virkelig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888602"
+    },
+    {
+      "english": "Never give up, man.",
+      "norwegian": "Aldri gi opp, mann.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888604"
+    },
+    {
+      "english": "That resilience, is impressive.",
+      "norwegian": "Den motstandskraften, er imponerende.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888607"
+    },
+    {
+      "english": "You can handle anything.",
+      "norwegian": "Du takler hva som helst.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888609"
+    },
+    {
+      "english": "Keep that positive vibe.",
+      "norwegian": "Behold den positive stemningen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888611"
+    },
+    {
+      "english": "That shows real grit.",
+      "norwegian": "Det viser ekte pågangsmot.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888613"
+    },
+    {
+      "english": "This is your moment.",
+      "norwegian": "Dette er ditt øyeblikk.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888615"
+    },
+    {
+      "english": "You are capable of great things.",
+      "norwegian": "Du er kapabel til store ting.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888617"
+    },
+    {
+      "english": "Your determination shines.",
+      "norwegian": "Din besluttsomhet skinner.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888619"
+    },
+    {
+      "english": "Face challenges head-on.",
+      "norwegian": "Møt utfordringer rett på.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888621"
+    },
+    {
+      "english": "That inner strength, is key.",
+      "norwegian": "Den indre styrken, er nøkkelen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888624"
+    },
+    {
+      "english": "You've built serious momentum.",
+      "norwegian": "Du har bygget seriøs fart.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888626"
+    },
+    {
+      "english": "That's the spirit!",
+      "norwegian": "Det er ånden!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888630"
+    },
+    {
+      "english": "You can overcome this.",
+      "norwegian": "Du kan overvinne dette.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888632"
+    },
+    {
+      "english": "Hold your ground firmly.",
+      "norwegian": "Hold standhaftig fast.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888634"
+    },
+    {
+      "english": "Your efforts are paying off.",
+      "norwegian": "Innsatsen din gir resultater.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888636"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "norwegian": "Hold fokus, hold deg sterk.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888637"
+    },
+    {
+      "english": "That courage is inspiring.",
+      "norwegian": "Det motet er inspirerende.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888639"
+    },
+    {
+      "english": "You're unstoppable now.",
+      "norwegian": "Du er ustoppelig nå.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888642"
+    },
+    {
+      "english": "Embrace the struggle.",
+      "norwegian": "Omfavn kampen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888644"
+    },
+    {
+      "english": "That's the power within.",
+      "norwegian": "Det er kraften inni deg.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888645"
+    },
+    {
+      "english": "You handle pressure well.",
+      "norwegian": "Du håndterer press godt.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888647"
+    },
+    {
+      "english": "Keep that strong mindset.",
+      "norwegian": "Behold den sterke tankegangen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888651"
+    },
+    {
+      "english": "You're truly resilient.",
+      "norwegian": "Du er virkelig motstandsdyktig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888653"
+    },
+    {
+      "english": "I feel it, deep inside.",
+      "norwegian": "Jeg kjenner det, dypt inni meg.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888655"
+    },
+    {
+      "english": "This feeling, takes patience.",
+      "norwegian": "Denne følelsen, krever tålmodighet.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888658"
+    },
+    {
+      "english": "My inner voice, whispers calm.",
+      "norwegian": "Min indre stemme, hvisker ro.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888660"
+    },
+    {
+      "english": "Letting go, is a strength too.",
+      "norwegian": "Å gi slipp, er en styrke også.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888662"
+    },
+    {
+      "english": "This moment, feels important.",
+      "norwegian": "Dette øyeblikket, føles viktig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888664"
+    },
+    {
+      "english": "I'm learning, to trust myself.",
+      "norwegian": "Jeg lærer, å stole på meg selv.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888667"
+    },
+    {
+      "english": "My vulnerability, is not weakness.",
+      "norwegian": "Min sårbarhet, er ikke svakhet.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888669"
+    },
+    {
+      "english": "This clarity, feels freeing.",
+      "norwegian": "Denne klarheten, føles befriende.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888672"
+    },
+    {
+      "english": "What truly matters, is this.",
+      "norwegian": "Det som virkelig betyr noe, er dette.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888674"
+    },
+    {
+      "english": "I'm finding peace, right here.",
+      "norwegian": "Jeg finner fred, akkurat her.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888676"
+    },
+    {
+      "english": "This reflection, is honest.",
+      "norwegian": "Denne refleksjonen, er ærlig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888679"
+    },
+    {
+      "english": "Accepting flaws, builds character.",
+      "norwegian": "Å akseptere feil, bygger karakter.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888681"
+    },
+    {
+      "english": "Breathing deep, helps clarity.",
+      "norwegian": "Å puste dypt, gir klarhet.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888683"
+    },
+    {
+      "english": "This journey, requires inner strength.",
+      "norwegian": "Denne reisen, krever indre styrke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888685"
+    },
+    {
+      "english": "I understand now, my limits.",
+      "norwegian": "Jeg forstår nå, mine grenser.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888689"
+    },
+    {
+      "english": "Gentleness, is a powerful force.",
+      "norwegian": "Mildhet, er en mektig kraft.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888694"
+    },
+    {
+      "english": "This quiet strength, resonates.",
+      "norwegian": "Denne stille styrken, gir gjenklang.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888696"
+    },
+    {
+      "english": "I’m being honest, with myself.",
+      "norwegian": "Jeg er ærlig, med meg selv.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888702"
+    },
+    {
+      "english": "This truth, sets me free.",
+      "norwegian": "Denne sannheten, setter meg fri.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888705"
+    },
+    {
+      "english": "My resilience, is growing.",
+      "norwegian": "Min motstandskraft, vokser.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888707"
+    },
+    {
+      "english": "I can wait, with calm.",
+      "norwegian": "Jeg kan vente, med ro.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888709"
+    },
+    {
+      "english": "This emotional honesty, is vital.",
+      "norwegian": "Denne emosjonelle ærligheten, er avgjørende.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888711"
+    },
+    {
+      "english": "I’m embracing, my true self.",
+      "norwegian": "Jeg omfavner, mitt sanne jeg.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888714"
+    },
+    {
+      "english": "Letting feelings flow, is healing.",
+      "norwegian": "Å la følelser flyte, er helbredende.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888716"
+    },
+    {
+      "english": "This self-awareness, is strength.",
+      "norwegian": "Denne selvbevisstheten, er styrke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888719"
+    },
+    {
+      "english": "I feel grounded, and steady.",
+      "norwegian": "Jeg føler meg jordet, og stødig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888721"
+    },
+    {
+      "english": "Patience reveals, deeper truths.",
+      "norwegian": "Tålmodighet avslører, dypere sannheter.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888723"
+    },
+    {
+      "english": "This quiet confidence, is enough.",
+      "norwegian": "Denne stille selvtilliten, er nok.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888725"
+    },
+    {
+      "english": "I am strong, in my own way.",
+      "norwegian": "Jeg er sterk, på min egen måte.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888727"
+    },
+    {
+      "english": "Just start, it gets easier.",
+      "norwegian": "Bare begynn, det blir lettere.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888731"
+    },
+    {
+      "english": "Ask for help, it's smart.",
+      "norwegian": "Be om hjelp, det er smart.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888734"
+    },
+    {
+      "english": "Small steps, big results.",
+      "norwegian": "Små steg, store resultater.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888736"
+    },
+    {
+      "english": "What's the plan, then act?",
+      "norwegian": "Hva er planen, så handling?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:17:29.888738"
     }
   ],
-  "last_updated": "2026-10-19T08:37:56.606286"
+  "last_updated": "2026-10-20T08:17:29.888740"
 }
