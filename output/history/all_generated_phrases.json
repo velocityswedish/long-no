@@ -2879,7 +2879,727 @@
       "norwegian": "Hva er planen, så handling?",
       "category": "Strength",
       "generated_at": "2026-10-20T08:17:29.888738"
+    },
+    {
+      "english": "I feel sick, suddenly.",
+      "norwegian": "Jeg føler meg plutselig dårlig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860817"
+    },
+    {
+      "english": "I need a doctor, urgently.",
+      "norwegian": "Jeg trenger en lege, fort.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860830"
+    },
+    {
+      "english": "Do you have an appointment?",
+      "norwegian": "Har du en timeavtale?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860834"
+    },
+    {
+      "english": "I have a terrible headache.",
+      "norwegian": "Jeg har fryktelig hodepine.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860836"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "norwegian": "Hvor er nærmeste apotek?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860839"
+    },
+    {
+      "english": "I need medicine, please.",
+      "norwegian": "Jeg trenger medisin, takk.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860842"
+    },
+    {
+      "english": "What are your symptoms?",
+      "norwegian": "Hva er symptomene dine?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860844"
+    },
+    {
+      "english": "I have a fever, I think.",
+      "norwegian": "Jeg har feber, tror jeg.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860852"
+    },
+    {
+      "english": "Can you prescribe this?",
+      "norwegian": "Kan du skrive ut dette?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860856"
+    },
+    {
+      "english": "I need painkillers, strong ones.",
+      "norwegian": "Jeg trenger smertestillende, sterke.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860859"
+    },
+    {
+      "english": "How much is it?",
+      "norwegian": "Hvor mye koster det?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860862"
+    },
+    {
+      "english": "I have a sore throat.",
+      "norwegian": "Jeg har vondt i halsen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860865"
+    },
+    {
+      "english": "Is this prescription valid?",
+      "norwegian": "Er denne resepten gyldig?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860867"
+    },
+    {
+      "english": "I think I broke my arm.",
+      "norwegian": "Jeg tror jeg brakk armen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860870"
+    },
+    {
+      "english": "What time does the pharmacy close?",
+      "norwegian": "Når stenger apoteket?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860872"
+    },
+    {
+      "english": "I have allergies, be careful.",
+      "norwegian": "Jeg har allergier, vær forsiktig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860875"
+    },
+    {
+      "english": "Do you have anything for coughs?",
+      "norwegian": "Har du noe mot hoste?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860878"
+    },
+    {
+      "english": "I need to see a specialist.",
+      "norwegian": "Jeg må se en spesialist.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860880"
+    },
+    {
+      "english": "My stomach hurts, a lot.",
+      "norwegian": "Magen min gjør vondt, veldig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860883"
+    },
+    {
+      "english": "Can I get a refund?",
+      "norwegian": "Kan jeg få pengene tilbake?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860958"
+    },
+    {
+      "english": "I feel dizzy, lightheaded.",
+      "norwegian": "Jeg føler meg svimmel.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860962"
+    },
+    {
+      "english": "What is this medication for?",
+      "norwegian": "Hva er denne medisinen for?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860964"
+    },
+    {
+      "english": "I need an ambulance, quickly!",
+      "norwegian": "Jeg trenger en ambulanse, fort!",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860967"
+    },
+    {
+      "english": "My leg is injured.",
+      "norwegian": "Beinet mitt er skadet.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860969"
+    },
+    {
+      "english": "Do you accept insurance?",
+      "norwegian": "Godtar dere forsikring?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860972"
+    },
+    {
+      "english": "I have a rash, everywhere.",
+      "norwegian": "Jeg har utslett, overalt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860974"
+    },
+    {
+      "english": "When is my next dose?",
+      "norwegian": "Når er neste dose?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860977"
+    },
+    {
+      "english": "I feel very weak.",
+      "norwegian": "Jeg føler meg veldig svak.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860980"
+    },
+    {
+      "english": "Could you repeat that?",
+      "norwegian": "Kan du gjenta det?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860982"
+    },
+    {
+      "english": "This is an emergency.",
+      "norwegian": "Dette er en nødsituasjon.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860987"
+    },
+    {
+      "english": "Could you explain, this side effect?",
+      "norwegian": "Kan du forklare, denne bivirkningen?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860990"
+    },
+    {
+      "english": "What dosage, should I take?",
+      "norwegian": "Hvilken dose, bør jeg ta?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860994"
+    },
+    {
+      "english": "When should I, stop taking this?",
+      "norwegian": "Når bør jeg, slutte med denne?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.860997"
+    },
+    {
+      "english": "Is there, an alternative?",
+      "norwegian": "Finnes det, et alternativ?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861000"
+    },
+    {
+      "english": "How long, does this take to work?",
+      "norwegian": "Hvor lang tid, tar dette før det virker?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861004"
+    },
+    {
+      "english": "Can I pick up, someone else's prescription?",
+      "norwegian": "Kan jeg hente, en annens resept?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861008"
+    },
+    {
+      "english": "Do I need, a follow-up appointment?",
+      "norwegian": "Trenger jeg, en ny time?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861011"
+    },
+    {
+      "english": "Is this covered, by my insurance?",
+      "norwegian": "Dekkes dette, av min forsikring?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861014"
+    },
+    {
+      "english": "What are the, opening hours?",
+      "norwegian": "Hva er åpningstidene?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861017"
+    },
+    {
+      "english": "Can I pay, with card?",
+      "norwegian": "Kan jeg betale, med kort?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861020"
+    },
+    {
+      "english": "I have a, minor cut.",
+      "norwegian": "Jeg har et, lite kutt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861023"
+    },
+    {
+      "english": "Could you check, my blood pressure?",
+      "norwegian": "Kan du sjekke, blodtrykket mitt?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861028"
+    },
+    {
+      "english": "What should I do, for this bruise?",
+      "norwegian": "Hva bør jeg gjøre, for dette blåmerket?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861031"
+    },
+    {
+      "english": "I need some, advice, please.",
+      "norwegian": "Jeg trenger, litt råd, takk.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861036"
+    },
+    {
+      "english": "Is this, suitable for children?",
+      "norwegian": "Er dette, egnet for barn?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861039"
+    },
+    {
+      "english": "Can I get, a doctor's note?",
+      "norwegian": "Kan jeg få, en sykemelding?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861042"
+    },
+    {
+      "english": "I have a, small wound.",
+      "norwegian": "Jeg har et, lite sår.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861045"
+    },
+    {
+      "english": "What is the, best treatment?",
+      "norwegian": "Hva er den, beste behandlingen?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861047"
+    },
+    {
+      "english": "Should I rest, for a few days?",
+      "norwegian": "Bør jeg hvile, noen dager?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861050"
+    },
+    {
+      "english": "Where can I find, a dentist?",
+      "norwegian": "Hvor kan jeg finne, en tannlege?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861053"
+    },
+    {
+      "english": "I have a, minor burn.",
+      "norwegian": "Jeg har en, liten forbrenning.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861055"
+    },
+    {
+      "english": "What are the, ingredients?",
+      "norwegian": "Hva er innholdsstoffene?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861058"
+    },
+    {
+      "english": "Can I get, a referral?",
+      "norwegian": "Kan jeg få, en henvisning?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861061"
+    },
+    {
+      "english": "I need, a bandage.",
+      "norwegian": "Jeg trenger, en bandasje.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861063"
+    },
+    {
+      "english": "Are there, any generics?",
+      "norwegian": "Finnes det, noen generiske?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861081"
+    },
+    {
+      "english": "How do I, apply this?",
+      "norwegian": "Hvordan skal jeg, bruke dette?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861084"
+    },
+    {
+      "english": "I have a, mild rash.",
+      "norwegian": "Jeg har et, mildt utslett.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861087"
+    },
+    {
+      "english": "Can I speak, with the pharmacist?",
+      "norwegian": "Kan jeg snakke, med farmasøyten?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861089"
+    },
+    {
+      "english": "What is the, expiry date?",
+      "norwegian": "Hva er holdbarhetsdatoen?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861092"
+    },
+    {
+      "english": "I need, sterile water.",
+      "norwegian": "Jeg trenger, sterilt vann.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861095"
+    },
+    {
+      "english": "A little sick, nothing serious.",
+      "norwegian": "Litt pjusk, ikke noe alvorlig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861097"
+    },
+    {
+      "english": "He's feeling under the weather.",
+      "norwegian": "Han er litt uggen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861105"
+    },
+    {
+      "english": "Just a bit off, you know?",
+      "norwegian": "Bare litt redusert, du skjønner?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861107"
+    },
+    {
+      "english": "It's just a bug going around.",
+      "norwegian": "Det er bare en dèt som går.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861110"
+    },
+    {
+      "english": "I think I caught a cold.",
+      "norwegian": "Jeg tror jeg har pådratt meg en forkjølelse.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861113"
+    },
+    {
+      "english": "My stomach's been a bit funny.",
+      "norwegian": "Magen har vært litt rar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861116"
+    },
+    {
+      "english": "Just need some rest, then I'll be fine.",
+      "norwegian": "Trenger bare litt hvile, så blir jeg frisk.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861119"
+    },
+    {
+      "english": "He's never been a hypochondriac.",
+      "norwegian": "Han har aldri vært en hypokonder.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861122"
+    },
+    {
+      "english": "She tends to worry, but it's nothing.",
+      "norwegian": "Hun bekymrer seg fort, men det er ingenting.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861125"
+    },
+    {
+      "english": "Are you sure it's not serious?",
+      "norwegian": "Er du sikker på at det ikke er alvorlig?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861128"
+    },
+    {
+      "english": "It's probably just nerves.",
+      "norwegian": "Det er sikkert bare nerver.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861131"
+    },
+    {
+      "english": "Don't let it get to you.",
+      "norwegian": "Ikke la det gå inn på deg.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861134"
+    },
+    {
+      "english": "I need something for my throat.",
+      "norwegian": "Jeg trenger noe for halsen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861136"
+    },
+    {
+      "english": "This cough is really stubborn.",
+      "norwegian": "Denne hosten er skikkelig sta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861139"
+    },
+    {
+      "english": "My back is killing me.",
+      "norwegian": "Ryggen tar knekken på meg.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861141"
+    },
+    {
+      "english": "Just a little headache, nothing more.",
+      "norwegian": "Bare litt hodepine, ikke mer.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861144"
+    },
+    {
+      "english": "I need something to help me sleep.",
+      "norwegian": "Jeg trenger noe som hjelper meg å sove.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861147"
+    },
+    {
+      "english": "He's finally on the mend.",
+      "norwegian": "Han er endelig på bedringens vei.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861150"
+    },
+    {
+      "english": "She's feeling much better now.",
+      "norwegian": "Hun føler seg mye bedre nå.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861152"
+    },
+    {
+      "english": "It's just a passing thing.",
+      "norwegian": "Det går nok over.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861155"
+    },
+    {
+      "english": "I think I need a doctor's visit.",
+      "norwegian": "Jeg tror jeg trenger legebesøk.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861158"
+    },
+    {
+      "english": "Can I get a refill, please?",
+      "norwegian": "Kan jeg få en påfylling, takk?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861161"
+    },
+    {
+      "english": "I'm feeling a bit run down.",
+      "norwegian": "Jeg føler meg litt sliten.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861164"
+    },
+    {
+      "english": "Just need some fresh air.",
+      "norwegian": "Trenger bare litt frisk luft.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861166"
+    },
+    {
+      "english": "It'll pass, don't worry.",
+      "norwegian": "Det går over, ikke bekymre deg.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861169"
+    },
+    {
+      "english": "Are you feeling alright?",
+      "norwegian": "Går det bra med deg?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861172"
+    },
+    {
+      "english": "I've got a sore throat.",
+      "norwegian": "Jeg har vondt i halsen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861174"
+    },
+    {
+      "english": "Take it easy for a few days.",
+      "norwegian": "Ta det med ro noen dager.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861177"
+    },
+    {
+      "english": "My head is pounding.",
+      "norwegian": "Hodet mitt dunker.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861179"
+    },
+    {
+      "english": "I just need a little pick-me-up.",
+      "norwegian": "Jeg trenger bare litt oppkvikkende.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861182"
+    },
+    {
+      "english": "This medicine, makes me tired.",
+      "norwegian": "Denne medisinen, gjør meg trøtt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861188"
+    },
+    {
+      "english": "I hope this, works quickly.",
+      "norwegian": "Jeg håper denne, virker fort.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861190"
+    },
+    {
+      "english": "It feels like, a deep ache.",
+      "norwegian": "Det føles som, en dyp verk.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861193"
+    },
+    {
+      "english": "My mood, has been low.",
+      "norwegian": "Humøret mitt, har vært dårlig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861197"
+    },
+    {
+      "english": "This has been, quite a journey.",
+      "norwegian": "Dette har vært, en hel reise.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861200"
+    },
+    {
+      "english": "I'm learning, to be patient.",
+      "norwegian": "Jeg lærer, å være tålmodig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861203"
+    },
+    {
+      "english": "It’s more than, just pain.",
+      "norwegian": "Det er mer enn, bare smerte.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861207"
+    },
+    {
+      "english": "I feel, a bit vulnerable.",
+      "norwegian": "Jeg føler meg, litt sårbar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861210"
+    },
+    {
+      "english": "This is a, serious reflection.",
+      "norwegian": "Dette er en, alvorlig refleksjon.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861213"
+    },
+    {
+      "english": "My thoughts, are racing.",
+      "norwegian": "Tankene mine, kverner rundt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861215"
+    },
+    {
+      "english": "I need some, quiet time.",
+      "norwegian": "Jeg trenger, litt rolig tid.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861218"
+    },
+    {
+      "english": "This feels, quite heavy.",
+      "norwegian": "Dette føles, ganske tungt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861220"
+    },
+    {
+      "english": "I need to, understand this.",
+      "norwegian": "Jeg må, forstå dette.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861223"
+    },
+    {
+      "english": "It's a, slow recovery.",
+      "norwegian": "Det er en, langsom bedring.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861226"
+    },
+    {
+      "english": "My worries, are growing.",
+      "norwegian": "Bekymringene mine, vokser.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861228"
+    },
+    {
+      "english": "I need to, trust the process.",
+      "norwegian": "Jeg må, stole på prosessen.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861231"
+    },
+    {
+      "english": "This has been, tough emotionally.",
+      "norwegian": "Dette har vært, tøft følelsesmessig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861234"
+    },
+    {
+      "english": "I'm trying, to stay positive.",
+      "norwegian": "Jeg prøver, å forbli positiv.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861249"
+    },
+    {
+      "english": "It's hard, to explain.",
+      "norwegian": "Det er vanskelig, å forklare.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861253"
+    },
+    {
+      "english": "This requires, deep thought.",
+      "norwegian": "Dette krever, dyp ettertanke.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861256"
+    },
+    {
+      "english": "I feel, a bit lost.",
+      "norwegian": "Jeg føler meg, litt fortapt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861258"
+    },
+    {
+      "english": "This is a, significant change.",
+      "norwegian": "Dette er en, betydelig endring.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861261"
+    },
+    {
+      "english": "I need to, find strength.",
+      "norwegian": "Jeg må, finne styrke.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861264"
+    },
+    {
+      "english": "My outlook, is changing.",
+      "norwegian": "Mitt syn, er i endring.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861268"
+    },
+    {
+      "english": "This is, an emotional toll.",
+      "norwegian": "Dette er en, følelsesmessig belastning.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861273"
+    },
+    {
+      "english": "I need to, communicate honestly.",
+      "norwegian": "Jeg må, kommunisere ærlig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861276"
+    },
+    {
+      "english": "This has given me, perspective.",
+      "norwegian": "Dette har gitt meg, perspektiv.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861279"
+    },
+    {
+      "english": "I feel, surprisingly calm.",
+      "norwegian": "Jeg føler meg, overraskende rolig.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861281"
+    },
+    {
+      "english": "This requires, self-compassion.",
+      "norwegian": "Dette krever, selvironi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861284"
+    },
+    {
+      "english": "What are the side effects, please?",
+      "norwegian": "Hva er bivirkningene, takk?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-21T08:21:57.861287"
     }
   ],
-  "last_updated": "2026-10-20T08:17:29.888740"
+  "last_updated": "2026-10-21T08:21:57.861289"
 }
