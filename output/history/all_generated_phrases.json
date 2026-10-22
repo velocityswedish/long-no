@@ -3599,7 +3599,727 @@
       "norwegian": "Hva er bivirkningene, takk?",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-10-21T08:21:57.861287"
+    },
+    {
+      "english": "Hi there, what's up?",
+      "norwegian": "Hei, hva skjer?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781102"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "norwegian": "Hyggelig å møte deg, virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781117"
+    },
+    {
+      "english": "How's it going, friend?",
+      "norwegian": "Hvordan går det, venn?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781120"
+    },
+    {
+      "english": "What a surprise, seeing you!",
+      "norwegian": "For en overraskelse, å se deg!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781122"
+    },
+    {
+      "english": "Hello, long time no see.",
+      "norwegian": "Hallo, lenge siden sist.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781125"
+    },
+    {
+      "english": "Good to see you again.",
+      "norwegian": "Godt å se deg igjen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781127"
+    },
+    {
+      "english": "Hope you're doing well.",
+      "norwegian": "Håper det går bra med deg.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781129"
+    },
+    {
+      "english": "Are you new here?",
+      "norwegian": "Er du ny her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781133"
+    },
+    {
+      "english": "What brings you here today?",
+      "norwegian": "Hva bringer deg hit i dag?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781135"
+    },
+    {
+      "english": "Fancy meeting you here!",
+      "norwegian": "For en tilfeldighet å møtes her!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781140"
+    },
+    {
+      "english": "You look familiar, do I know you?",
+      "norwegian": "Du ser kjent ut, kjenner jeg deg?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781142"
+    },
+    {
+      "english": "I don't think we've met.",
+      "norwegian": "Jeg tror ikke vi har møttes.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781145"
+    },
+    {
+      "english": "My name is [Name].",
+      "norwegian": "Jeg heter [Navn].",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781147"
+    },
+    {
+      "english": "What should I call you?",
+      "norwegian": "Hva skal jeg kalle deg?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781149"
+    },
+    {
+      "english": "Pleased to make your acquaintance.",
+      "norwegian": "Glad for å bli kjent med deg.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781151"
+    },
+    {
+      "english": "Can I join you?",
+      "norwegian": "Kan jeg slå meg ned?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781153"
+    },
+    {
+      "english": "Mind if I sit here?",
+      "norwegian": "Har du noe imot at jeg sitter her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781155"
+    },
+    {
+      "english": "Lovely weather we're having.",
+      "norwegian": "Nydelig vær vi har.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781157"
+    },
+    {
+      "english": "It's a beautiful day.",
+      "norwegian": "Det er en vakker dag.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781159"
+    },
+    {
+      "english": "Busy day, isn't it?",
+      "norwegian": "Travel dag, ikke sant?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781161"
+    },
+    {
+      "english": "How's your day going?",
+      "norwegian": "Hvordan går dagen din?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781163"
+    },
+    {
+      "english": "I'm having a good day.",
+      "norwegian": "Jeg har en fin dag.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781184"
+    },
+    {
+      "english": "Thanks for stopping by.",
+      "norwegian": "Takk for at du kom innom.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781185"
+    },
+    {
+      "english": "Have a great day ahead.",
+      "norwegian": "Ha en fin dag videre.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781187"
+    },
+    {
+      "english": "See you around soon.",
+      "norwegian": "Vi sees snart igjen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781189"
+    },
+    {
+      "english": "Take care, bye now.",
+      "norwegian": "Pass på deg, ha det bra.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781191"
+    },
+    {
+      "english": "It was nice talking.",
+      "norwegian": "Det var hyggelig å prate.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781193"
+    },
+    {
+      "english": "Enjoy your evening.",
+      "norwegian": "Nyt kvelden din.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781195"
+    },
+    {
+      "english": "Welcome to [Place].",
+      "norwegian": "Velkommen til [Sted].",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781197"
+    },
+    {
+      "english": "Glad you could make it.",
+      "norwegian": "Glad du kunne komme.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781199"
+    },
+    {
+      "english": "Could you introduce yourself, please?",
+      "norwegian": "Kan du introdusere deg, vær så snill?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781201"
+    },
+    {
+      "english": "What's your name, by the way?",
+      "norwegian": "Hva heter du, forresten?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781204"
+    },
+    {
+      "english": "Where are you from originally?",
+      "norwegian": "Hvor er du opprinnelig fra?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781208"
+    },
+    {
+      "english": "Do you live nearby, perhaps?",
+      "norwegian": "Bor du i nærheten, kanskje?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781211"
+    },
+    {
+      "english": "Is this your first time here?",
+      "norwegian": "Er dette første gangen din her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781213"
+    },
+    {
+      "english": "What are you doing in Oslo?",
+      "norwegian": "Hva driver du med i Oslo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781215"
+    },
+    {
+      "english": "How long have you been here?",
+      "norwegian": "Hvor lenge har du vært her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781217"
+    },
+    {
+      "english": "Are you enjoying your visit?",
+      "norwegian": "Trives du med besøket ditt?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781221"
+    },
+    {
+      "english": "What do you do for work?",
+      "norwegian": "Hva jobber du med?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781225"
+    },
+    {
+      "english": "Do you know many people here?",
+      "norwegian": "Kjenner du mange folk her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781228"
+    },
+    {
+      "english": "Can you recommend a good place?",
+      "norwegian": "Kan du anbefale et bra sted?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781230"
+    },
+    {
+      "english": "What brings you to this event?",
+      "norwegian": "Hva får deg til dette arrangementet?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781232"
+    },
+    {
+      "english": "Have you tried the local food?",
+      "norwegian": "Har du smakt den lokale maten?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781234"
+    },
+    {
+      "english": "What are your hobbies, generally?",
+      "norwegian": "Hva er dine hobbyer, generelt?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781237"
+    },
+    {
+      "english": "Do you speak any other languages?",
+      "norwegian": "Snakker du noen andre språk?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781239"
+    },
+    {
+      "english": "How do you find Norwegian culture?",
+      "norwegian": "Hvordan synes du norsk kultur er?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781241"
+    },
+    {
+      "english": "Is there anything I can help with?",
+      "norwegian": "Er det noe jeg kan hjelpe med?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781243"
+    },
+    {
+      "english": "What are your plans for the weekend?",
+      "norwegian": "Hva er planene dine for helgen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781245"
+    },
+    {
+      "english": "It's nice to finally meet you.",
+      "norwegian": "Hyggelig å endelig møte deg.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781247"
+    },
+    {
+      "english": "Are you here alone today?",
+      "norwegian": "Er du her alene i dag?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781249"
+    },
+    {
+      "english": "What do you think of the music?",
+      "norwegian": "Hva synes du om musikken?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781251"
+    },
+    {
+      "english": "Have we met before somewhere?",
+      "norwegian": "Har vi møttes før et sted?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781253"
+    },
+    {
+      "english": "I'm trying to learn some Norwegian.",
+      "norwegian": "Jeg prøver å lære litt norsk.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781255"
+    },
+    {
+      "english": "What's the best way to learn?",
+      "norwegian": "Hva er den beste måten å lære på?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781257"
+    },
+    {
+      "english": "Do you have any tips for me?",
+      "norwegian": "Har du noen tips til meg?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781259"
+    },
+    {
+      "english": "It's good to connect with you.",
+      "norwegian": "Det er godt å knytte kontakt med deg.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781261"
+    },
+    {
+      "english": "How was your journey here?",
+      "norwegian": "Hvordan var reisen din hit?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781263"
+    },
+    {
+      "english": "Shall we exchange contact details?",
+      "norwegian": "Skal vi utveksle kontaktinformasjon?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781266"
+    },
+    {
+      "english": "What a pleasant surprise, really.",
+      "norwegian": "For en hyggelig overraskelse, virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781268"
+    },
+    {
+      "english": "Believe you can, you're halfway there.",
+      "norwegian": "Tro på deg selv, du er nesten der.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781271"
+    },
+    {
+      "english": "Every conversation is a chance to learn.",
+      "norwegian": "Hver samtale er en sjanse til å lære.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781273"
+    },
+    {
+      "english": "Don't be shy, just give it a try.",
+      "norwegian": "Ikke vær sjenert, bare prøv.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781276"
+    },
+    {
+      "english": "You're doing great, keep up the spirit!",
+      "norwegian": "Du gjør det bra, hold motet oppe!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781278"
+    },
+    {
+      "english": "Small steps forward, count them all.",
+      "norwegian": "Små skritt fremover, tell dem alle.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781280"
+    },
+    {
+      "english": "Be open, new friends await you.",
+      "norwegian": "Vær åpen, nye venner venter.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781285"
+    },
+    {
+      "english": "Your effort, it truly shows.",
+      "norwegian": "Din innsats, den vises virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781287"
+    },
+    {
+      "english": "Embrace the awkwardness, it's normal.",
+      "norwegian": "Omfavn det klein, det er normalt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781290"
+    },
+    {
+      "english": "You have a lovely smile, you know.",
+      "norwegian": "Du har et nydelig smil, vet du.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781292"
+    },
+    {
+      "english": "Keep practicing, you're improving fast.",
+      "norwegian": "Fortsett å øve, du blir bedre raskt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781294"
+    },
+    {
+      "english": "It's okay to make mistakes, really.",
+      "norwegian": "Det er greit å gjøre feil, virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781297"
+    },
+    {
+      "english": "Be curious, ask interesting questions.",
+      "norwegian": "Vær nysgjerrig, still interessante spørsmål.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781301"
+    },
+    {
+      "english": "Each person has a story to share.",
+      "norwegian": "Hver person har en historie å dele.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781303"
+    },
+    {
+      "english": "You're making connections, that's progress.",
+      "norwegian": "Du knytter kontakter, det er fremgang.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781305"
+    },
+    {
+      "english": "Positive vibes attract positive people.",
+      "norwegian": "Positive vibber tiltrekker positive folk.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781309"
+    },
+    {
+      "english": "Don't overthink, just say hello.",
+      "norwegian": "Ikke tenk for mye, bare si hei.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781311"
+    },
+    {
+      "english": "You are more capable than you think.",
+      "norwegian": "Du er mer kapabel enn du tror.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781313"
+    },
+    {
+      "english": "Be authentic, people appreciate that.",
+      "norwegian": "Vær ekte, folk setter pris på det.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781316"
+    },
+    {
+      "english": "Your willingness to try is key.",
+      "norwegian": "Din vilje til å prøve er viktig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781318"
+    },
+    {
+      "english": "You're handling this really well.",
+      "norwegian": "Du håndterer dette veldig bra.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781320"
+    },
+    {
+      "english": "Focus on listening, understand more.",
+      "norwegian": "Fokuser på å lytte, forstå mer.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781322"
+    },
+    {
+      "english": "What a great attitude you have!",
+      "norwegian": "For en flott holdning du har!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781324"
+    },
+    {
+      "english": "Every interaction builds your confidence.",
+      "norwegian": "Hver interaksjon bygger selvtilliten din.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781326"
+    },
+    {
+      "english": "You're doing wonderful things here.",
+      "norwegian": "Du gjør fantastiske ting her.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781328"
+    },
+    {
+      "english": "Embrace the journey, it's rewarding.",
+      "norwegian": "Omfavn reisen, den er givende.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781330"
+    },
+    {
+      "english": "Be kind, it goes a long way.",
+      "norwegian": "Vær snill, det kommer man langt med.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781333"
+    },
+    {
+      "english": "You make people feel welcome, really.",
+      "norwegian": "Du får folk til å føle seg velkommen, virkelig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781335"
+    },
+    {
+      "english": "Keep that positive energy flowing.",
+      "norwegian": "Hold den positive energien flytende.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781337"
+    },
+    {
+      "english": "It feels good, talking like this.",
+      "norwegian": "Det føles bra, å snakke slik.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781339"
+    },
+    {
+      "english": "I'm genuinely glad we met.",
+      "norwegian": "Jeg er oppriktig glad vi møttes.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781341"
+    },
+    {
+      "english": "This connection feels quite real.",
+      "norwegian": "Denne koblingen føles ganske ekte.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781343"
+    },
+    {
+      "english": "It's nice to share this moment.",
+      "norwegian": "Det er fint å dele dette øyeblikket.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781345"
+    },
+    {
+      "english": "Your perspective is very interesting.",
+      "norwegian": "Ditt perspektiv er veldig interessant.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781347"
+    },
+    {
+      "english": "I appreciate your honest thoughts.",
+      "norwegian": "Jeg setter pris på dine ærlige tanker.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781349"
+    },
+    {
+      "english": "Let's take our time with this.",
+      "norwegian": "La oss ta oss god tid med dette.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781351"
+    },
+    {
+      "english": "Patience leads to deeper understanding.",
+      "norwegian": "Tålmodighet fører til dypere forståelse.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781353"
+    },
+    {
+      "english": "What's truly on your mind?",
+      "norwegian": "Hva er det egentlig som bekymrer deg?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781355"
+    },
+    {
+      "english": "I feel a real sense of calm here.",
+      "norwegian": "Jeg føler en ekte ro her.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781360"
+    },
+    {
+      "english": "This conversation means quite a lot.",
+      "norwegian": "Denne samtalen betyr ganske mye.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781364"
+    },
+    {
+      "english": "It’s refreshing to be so open.",
+      "norwegian": "Det er forfriskende å være så åpen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781366"
+    },
+    {
+      "english": "I'm reflecting on our chat.",
+      "norwegian": "Jeg tenker tilbake på praten vår.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781369"
+    },
+    {
+      "english": "This sincerity is very welcome.",
+      "norwegian": "Denne oppriktigheten er veldig velkommen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781371"
+    },
+    {
+      "english": "I value these honest exchanges.",
+      "norwegian": "Jeg verdsetter disse ærlige utvekslingene.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781373"
+    },
+    {
+      "english": "It feels honest, our interaction.",
+      "norwegian": "Det føles ærlig, samspillet vårt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781377"
+    },
+    {
+      "english": "Let's not rush this feeling.",
+      "norwegian": "La oss ikke forhaste denne følelsen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781379"
+    },
+    {
+      "english": "Your vulnerability is appreciated.",
+      "norwegian": "Din sårbarhet blir verdsatt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781381"
+    },
+    {
+      "english": "I feel a genuine understanding.",
+      "norwegian": "Jeg føler en ekte forståelse.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781385"
+    },
+    {
+      "english": "What are your deeper feelings?",
+      "norwegian": "Hva er dine dypere følelser?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781387"
+    },
+    {
+      "english": "This warmth is truly comforting.",
+      "norwegian": "Denne varmen er virkelig trøstende.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781389"
+    },
+    {
+      "english": "I'm taking mental notes, you know.",
+      "norwegian": "Jeg tar mentale notater, skjønner du.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781391"
+    },
+    {
+      "english": "It’s good to reflect openly.",
+      "norwegian": "Det er godt å reflektere åpent.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781393"
+    },
+    {
+      "english": "This authenticity is inspiring.",
+      "norwegian": "Denne autentisiteten er inspirerende.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781396"
+    },
+    {
+      "english": "Let's cherish this honest moment.",
+      "norwegian": "La oss verdsette dette ærlige øyeblikket.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781398"
+    },
+    {
+      "english": "Your kindness really shines through.",
+      "norwegian": "Din vennlighet skinner virkelig gjennom.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781400"
+    },
+    {
+      "english": "I feel a genuine connection forming.",
+      "norwegian": "Jeg føler en ekte forbindelse som dannes.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781401"
+    },
+    {
+      "english": "It’s pleasant to be understood.",
+      "norwegian": "Det er behagelig å bli forstått.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781404"
+    },
+    {
+      "english": "Let's just be present now.",
+      "norwegian": "La oss bare være til stede nå.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781406"
+    },
+    {
+      "english": "This exchange feels truly meaningful.",
+      "norwegian": "Denne utvekslingen føles virkelig meningsfull.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781409"
+    },
+    {
+      "english": "Just say hello, first thing.",
+      "norwegian": "Bare si hei, først.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781411"
+    },
+    {
+      "english": "Ask about the weather, easy.",
+      "norwegian": "Spør om været, enkelt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781413"
+    },
+    {
+      "english": "Compliment their style, they like it.",
+      "norwegian": "Skryt av stilen deres, de liker det.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-22T08:36:22.781415"
     }
   ],
-  "last_updated": "2026-10-21T08:21:57.861289"
+  "last_updated": "2026-10-22T08:36:22.781416"
 }
