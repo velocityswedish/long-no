@@ -4319,7 +4319,727 @@
       "norwegian": "Skryt av stilen deres, de liker det.",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-10-22T08:36:22.781415"
+    },
+    {
+      "english": "Can I get a table, for two?",
+      "norwegian": "Kan jeg få et bord, for to?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319920"
+    },
+    {
+      "english": "Do you have, a menu?",
+      "norwegian": "Har dere, en meny?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319933"
+    },
+    {
+      "english": "What do you recommend, today?",
+      "norwegian": "Hva anbefaler dere, i dag?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319939"
+    },
+    {
+      "english": "I'll have this, please.",
+      "norwegian": "Jeg tar denne, takk.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319942"
+    },
+    {
+      "english": "Is it spicy, or mild?",
+      "norwegian": "Er den sterk, eller mild?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319945"
+    },
+    {
+      "english": "I'm allergic, to nuts.",
+      "norwegian": "Jeg er allergisk, mot nøtter.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319948"
+    },
+    {
+      "english": "Just water, for now.",
+      "norwegian": "Bare vann, foreløpig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319951"
+    },
+    {
+      "english": "This tastes, amazing!",
+      "norwegian": "Dette smaker, fantastisk!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319956"
+    },
+    {
+      "english": "Could we get, the bill?",
+      "norwegian": "Kan vi få, regningen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319961"
+    },
+    {
+      "english": "Everything was, delicious.",
+      "norwegian": "Alt var, kjempegodt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319964"
+    },
+    {
+      "english": "I'd like something, light.",
+      "norwegian": "Jeg vil ha noe, lett.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319967"
+    },
+    {
+      "english": "Can I have, some bread?",
+      "norwegian": "Kan jeg få, litt brød?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319969"
+    },
+    {
+      "english": "It's too salty, for me.",
+      "norwegian": "Det er for salt, for meg.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319972"
+    },
+    {
+      "english": "Is this homemade, do you know?",
+      "norwegian": "Er dette hjemmelaget, vet du?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319975"
+    },
+    {
+      "english": "We're ready, to order.",
+      "norwegian": "Vi er klare, til å bestille.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319978"
+    },
+    {
+      "english": "Can I have, it to go?",
+      "norwegian": "Kan jeg få, den med meg?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319980"
+    },
+    {
+      "english": "I need, a moment.",
+      "norwegian": "Jeg trenger, et øyeblikk.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319983"
+    },
+    {
+      "english": "This is, my favorite.",
+      "norwegian": "Dette er, min favoritt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319985"
+    },
+    {
+      "english": "Do you take, credit cards?",
+      "norwegian": "Tar dere, kredittkort?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319988"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "norwegian": "Unnskyld, kelner!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319990"
+    },
+    {
+      "english": "How much is, this dish?",
+      "norwegian": "Hvor mye koster, denne retten?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319995"
+    },
+    {
+      "english": "I'll have, the soup.",
+      "norwegian": "Jeg tar, suppen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.319997"
+    },
+    {
+      "english": "It's a bit, cold.",
+      "norwegian": "Den er litt, kald.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320000"
+    },
+    {
+      "english": "Can we have, some more time?",
+      "norwegian": "Kan vi få, litt mer tid?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320002"
+    },
+    {
+      "english": "This is, perfect!",
+      "norwegian": "Dette er, perfekt!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320005"
+    },
+    {
+      "english": "Do you have, gluten-free?",
+      "norwegian": "Har dere, glutenfritt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320008"
+    },
+    {
+      "english": "I'm not very, hungry.",
+      "norwegian": "Jeg er ikke så, sulten.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320011"
+    },
+    {
+      "english": "Would you like, dessert?",
+      "norwegian": "Ønsker De, dessert?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320013"
+    },
+    {
+      "english": "Thank you, for the meal.",
+      "norwegian": "Takk, for maten.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320015"
+    },
+    {
+      "english": "What's today's special, if you don't mind?",
+      "norwegian": "Hva er dagens spesialitet, hvis du ikke har noe imot?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320021"
+    },
+    {
+      "english": "Could you tell me, what's in this dish?",
+      "norwegian": "Kan du fortelle meg, hva som er i denne retten?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320024"
+    },
+    {
+      "english": "Is there a vegetarian, option available?",
+      "norwegian": "Finnes det, en vegetarisk mulighet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320027"
+    },
+    {
+      "english": "How long, will the food take?",
+      "norwegian": "Hvor lang tid, vil maten ta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320030"
+    },
+    {
+      "english": "Do you think, this is too much food?",
+      "norwegian": "Tror du, dette er for mye mat?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320033"
+    },
+    {
+      "english": "Which wine pairs, best with this meal?",
+      "norwegian": "Hvilken vin passer, best til dette måltidet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320036"
+    },
+    {
+      "english": "Can I substitute, the fries for a salad?",
+      "norwegian": "Kan jeg bytte, ut pommes frites med en salat?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320038"
+    },
+    {
+      "english": "Is it possible, to have it less salty?",
+      "norwegian": "Er det mulig, å få det mindre salt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320041"
+    },
+    {
+      "english": "What's your favorite, dish on the menu?",
+      "norwegian": "Hva er din favorittrett, på menyen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320044"
+    },
+    {
+      "english": "Could we share, this appetizer?",
+      "norwegian": "Kunne vi dele, denne forretten?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320047"
+    },
+    {
+      "english": "Do you have, any local specialties?",
+      "norwegian": "Har dere, noen lokale spesialiteter?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320050"
+    },
+    {
+      "english": "Is the fish, fresh today?",
+      "norwegian": "Er fisken, fersk i dag?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320052"
+    },
+    {
+      "english": "What kind of bread, do you serve?",
+      "norwegian": "Hva slags brød, serverer dere?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320056"
+    },
+    {
+      "english": "Can I get, a doggy bag?",
+      "norwegian": "Kan jeg få, en pose til restemat?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320059"
+    },
+    {
+      "english": "Is this sauce, included or extra?",
+      "norwegian": "Er denne sausen, inkludert eller ekstra?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320062"
+    },
+    {
+      "english": "How would you describe, this flavor?",
+      "norwegian": "Hvordan vil du beskrive, denne smaken?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320066"
+    },
+    {
+      "english": "Can I have, the dressing on the side?",
+      "norwegian": "Kan jeg få, dressingen ved siden av?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320069"
+    },
+    {
+      "english": "Would you say, this is very rich?",
+      "norwegian": "Vil du si, at dette er veldig fyldig?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320072"
+    },
+    {
+      "english": "Is there a children's, menu available?",
+      "norwegian": "Finnes det, en barnemeny?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320075"
+    },
+    {
+      "english": "Could you warm this up, slightly?",
+      "norwegian": "Kunne du varme dette opp, litt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320078"
+    },
+    {
+      "english": "What drinks, do you suggest?",
+      "norwegian": "Hvilke drikker, foreslår du?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320080"
+    },
+    {
+      "english": "I'm trying to eat, healthier, any ideas?",
+      "norwegian": "Jeg prøver å spise, sunnere, noen ideer?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320083"
+    },
+    {
+      "english": "Is this portion, meant for sharing?",
+      "norwegian": "Er denne porsjonen, ment for deling?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320086"
+    },
+    {
+      "english": "What's the soup, of the day?",
+      "norwegian": "Hva er dagens, suppe?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320091"
+    },
+    {
+      "english": "Could you bring, some extra napkins?",
+      "norwegian": "Kunne du bringe, noen ekstra servietter?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320093"
+    },
+    {
+      "english": "Is the cheese, locally sourced?",
+      "norwegian": "Er osten, lokalt produsert?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320096"
+    },
+    {
+      "english": "Can I have, some more ice, please?",
+      "norwegian": "Kan jeg få, litt mer is, takk?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320099"
+    },
+    {
+      "english": "Could you check, on our order?",
+      "norwegian": "Kunne du sjekke, bestillingen vår?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320101"
+    },
+    {
+      "english": "Just go for it, you won't regret it.",
+      "norwegian": "Bare kjør på, du angrer ikke.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320105"
+    },
+    {
+      "english": "Be brave, try something new today.",
+      "norwegian": "Vær modig, prøv noe nytt i dag.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320107"
+    },
+    {
+      "english": "You got this, ordering is easy.",
+      "norwegian": "Du klarer dette, det er lett å bestille.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320110"
+    },
+    {
+      "english": "Every meal is a learning opportunity.",
+      "norwegian": "Hvert måltid er en læringsmulighet.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320113"
+    },
+    {
+      "english": "Don't be afraid, ask for recommendations.",
+      "norwegian": "Ikke vær redd, be om anbefalinger.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320117"
+    },
+    {
+      "english": "You're doing great, keep practicing!",
+      "norwegian": "Du gjør det kjempebra, fortsett å øve!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320121"
+    },
+    {
+      "english": "Success is trying, even if it's hard.",
+      "norwegian": "Suksess er å prøve, selv om det er vanskelig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320123"
+    },
+    {
+      "english": "Embrace the adventure, taste it all.",
+      "norwegian": "Omfavn eventyret, smak på alt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320126"
+    },
+    {
+      "english": "This is how you learn, keep going.",
+      "norwegian": "Slik lærer du, bare fortsett.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320129"
+    },
+    {
+      "english": "Positive vibes, positive food experiences.",
+      "norwegian": "Positive vibber, positive matopplevelser.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320132"
+    },
+    {
+      "english": "You're a natural, enjoying the food.",
+      "norwegian": "Du er en naturlig, nyter maten.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320140"
+    },
+    {
+      "english": "Believe in your taste buds, they know.",
+      "norwegian": "Tro på smaksløkene dine, de vet.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320143"
+    },
+    {
+      "english": "Small steps lead to big culinary journeys.",
+      "norwegian": "Små skritt fører til store kulinariske reiser.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320146"
+    },
+    {
+      "english": "You're doing a fantastic job ordering.",
+      "norwegian": "Du gjør en fantastisk jobb med bestillingen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320149"
+    },
+    {
+      "english": "This is progress, celebrating small wins.",
+      "norwegian": "Dette er fremgang, feir små seire.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320152"
+    },
+    {
+      "english": "Trust your instincts, pick what looks good.",
+      "norwegian": "Stol på instinktene dine, velg det som ser godt ut.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320169"
+    },
+    {
+      "english": "It's okay to ask questions, that's smart.",
+      "norwegian": "Det er greit å stille spørsmål, det er smart.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320173"
+    },
+    {
+      "english": "You're expanding your palate, well done!",
+      "norwegian": "Du utvider ganen din, bra jobbet!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320176"
+    },
+    {
+      "english": "Every attempt gets you closer to fluency.",
+      "norwegian": "Hvert forsøk bringer deg nærmere flytende tale.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320179"
+    },
+    {
+      "english": "You're handling this like a pro.",
+      "norwegian": "Du takler dette som en proff.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320182"
+    },
+    {
+      "english": "Embrace the flavors, enjoy the moment.",
+      "norwegian": "Omfavn smakene, nyt øyeblikket.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320185"
+    },
+    {
+      "english": "This is practice, don't stress about it.",
+      "norwegian": "Dette er øving, ikke stress med det.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320187"
+    },
+    {
+      "english": "You're discovering new favorites, fantastic!",
+      "norwegian": "Du oppdager nye favoritter, fantastisk!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320190"
+    },
+    {
+      "english": "Let your curiosity guide your meal choice.",
+      "norwegian": "La nysgjerrigheten din styre matvalget.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320193"
+    },
+    {
+      "english": "You're getting better with every bite.",
+      "norwegian": "Du blir bedre for hvert bitt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320196"
+    },
+    {
+      "english": "Food is an adventure, dive in!",
+      "norwegian": "Mat er et eventyr, dykk inn!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320198"
+    },
+    {
+      "english": "You're mastering the menu, amazing!",
+      "norwegian": "Du mestrer menyen, utrolig!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320201"
+    },
+    {
+      "english": "Every question is a step forward.",
+      "norwegian": "Hvert spørsmål er et skritt fremover.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320206"
+    },
+    {
+      "english": "You're creating memorable dining experiences.",
+      "norwegian": "Du skaper minneverdige spiseopplevelser.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320209"
+    },
+    {
+      "english": "This is surprisingly good, honestly.",
+      "norwegian": "Dette er overraskende godt, ærlig talt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320212"
+    },
+    {
+      "english": "I wasn't expecting this flavor, wow.",
+      "norwegian": "Jeg forventet ikke denne smaken, wow.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320215"
+    },
+    {
+      "english": "My taste buds are really happy now.",
+      "norwegian": "Smaksløkene mine er veldig glade nå.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320217"
+    },
+    {
+      "english": "This dish, it really hits the spot.",
+      "norwegian": "Denne retten, den treffer virkelig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320220"
+    },
+    {
+      "english": "I'm so glad I tried this, truly.",
+      "norwegian": "Jeg er så glad jeg prøvde dette, virkelig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320223"
+    },
+    {
+      "english": "This feeling, it's pure food bliss.",
+      "norwegian": "Denne følelsen, det er ren matlykke.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320226"
+    },
+    {
+      "english": "My patience paid off, this is great.",
+      "norwegian": "Min tålmodighet lønte seg, dette er flott.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320229"
+    },
+    {
+      "english": "It's worth the wait, definitely.",
+      "norwegian": "Det er verdt ventetiden, definitivt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320231"
+    },
+    {
+      "english": "I feel very content right now.",
+      "norwegian": "Jeg føler meg veldig tilfreds akkurat nå.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320234"
+    },
+    {
+      "english": "This experience, it's quite profound.",
+      "norwegian": "Denne opplevelsen, den er ganske dyptgående.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320237"
+    },
+    {
+      "english": "I needed this meal, very much.",
+      "norwegian": "Jeg trengte dette måltidet, veldig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320239"
+    },
+    {
+      "english": "What a pleasant surprise this turned out.",
+      "norwegian": "For en hyggelig overraskelse dette ble.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320242"
+    },
+    {
+      "english": "I'm actually enjoying the quiet moment.",
+      "norwegian": "Jeg nyter faktisk det stille øyeblikket.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320245"
+    },
+    {
+      "english": "This tastes like home, sort of.",
+      "norwegian": "Dette smaker litt som hjemme.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320247"
+    },
+    {
+      "english": "I feel a sense of gratitude now.",
+      "norwegian": "Jeg føler en takknemlighet nå.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320250"
+    },
+    {
+      "english": "It's more than just food, isn't it?",
+      "norwegian": "Det er mer enn bare mat, ikke sant?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320253"
+    },
+    {
+      "english": "I appreciate the effort put in.",
+      "norwegian": "Jeg setter pris på innsatsen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320255"
+    },
+    {
+      "english": "This is truly food for the soul.",
+      "norwegian": "Dette er virkelig mat for sjelen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320258"
+    },
+    {
+      "english": "I'm finding my own rhythm here.",
+      "norwegian": "Jeg finner min egen rytme her.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320262"
+    },
+    {
+      "english": "This moment is perfectly timed.",
+      "norwegian": "Dette øyeblikket er perfekt timet.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320265"
+    },
+    {
+      "english": "I'm learning a lot from this plate.",
+      "norwegian": "Jeg lærer mye av denne tallerkenen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320267"
+    },
+    {
+      "english": "It's okay to take your time, right?",
+      "norwegian": "Det er greit å ta seg tid, ikke sant?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320270"
+    },
+    {
+      "english": "This simple meal, deeply satisfying.",
+      "norwegian": "Dette enkle måltidet, dypt tilfredsstillende.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320274"
+    },
+    {
+      "english": "I feel a connection to the food.",
+      "norwegian": "Jeg føler en forbindelse til maten.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320277"
+    },
+    {
+      "english": "My mood has improved so much.",
+      "norwegian": "Humøret mitt har blitt så mye bedre.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320280"
+    },
+    {
+      "english": "This is exactly what I needed.",
+      "norwegian": "Dette er akkurat det jeg trengte.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320282"
+    },
+    {
+      "english": "I'm genuinely pleased with this choice.",
+      "norwegian": "Jeg er oppriktig fornøyd med dette valget.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320285"
+    },
+    {
+      "english": "The atmosphere here is very calming.",
+      "norwegian": "Atmosfæren her er veldig beroligende.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320287"
+    },
+    {
+      "english": "This gives me food for thought, really.",
+      "norwegian": "Dette gir meg mat for tanken, virkelig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320290"
+    },
+    {
+      "english": "I'm feeling quite reflective about this.",
+      "norwegian": "Jeg føler meg ganske reflektert over dette.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320295"
+    },
+    {
+      "english": "Could I see the menu, please?",
+      "norwegian": "Kan jeg få se menyen, takk?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320297"
+    },
+    {
+      "english": "I have a food allergy, be careful.",
+      "norwegian": "Jeg har en matallergi, vær forsiktig.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320300"
+    },
+    {
+      "english": "Can I have the bill, when you're ready?",
+      "norwegian": "Kan jeg få regningen, når du er klar?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320307"
+    },
+    {
+      "english": "This is delicious, really good.",
+      "norwegian": "Dette er nydelig, veldig godt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-23T08:20:23.320309"
     }
   ],
-  "last_updated": "2026-10-22T08:36:22.781416"
+  "last_updated": "2026-10-23T08:20:23.320311"
 }
