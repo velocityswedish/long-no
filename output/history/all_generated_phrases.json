@@ -5039,7 +5039,727 @@
       "norwegian": "Dette er nydelig, veldig godt.",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-23T08:20:23.320309"
+    },
+    {
+      "english": "I feel good, actually.",
+      "norwegian": "Jeg føler meg bra, faktisk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727573"
+    },
+    {
+      "english": "It makes me happy, you know?",
+      "norwegian": "Det gjør meg glad, vet du?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727585"
+    },
+    {
+      "english": "I'm a little tired, today.",
+      "norwegian": "Jeg er litt sliten, i dag.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727588"
+    },
+    {
+      "english": "Are you okay, my friend?",
+      "norwegian": "Går det bra med deg, min venn?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727592"
+    },
+    {
+      "english": "This is exciting, isn't it?",
+      "norwegian": "Dette er spennende, ikke sant?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727595"
+    },
+    {
+      "english": "I am so sorry, to hear that.",
+      "norwegian": "Jeg er så lei meg, for å høre det.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727598"
+    },
+    {
+      "english": "That's really annoying, man.",
+      "norwegian": "Det er skikkelig irriterende, mann.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727601"
+    },
+    {
+      "english": "I feel a bit nervous, now.",
+      "norwegian": "Jeg føler meg litt nervøs, nå.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727606"
+    },
+    {
+      "english": "What a relief, truly.",
+      "norwegian": "For en lettelse, virkelig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727610"
+    },
+    {
+      "english": "I'm very surprised, by this.",
+      "norwegian": "Jeg er veldig overrasket, over dette.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727613"
+    },
+    {
+      "english": "It's quite frustrating, you see.",
+      "norwegian": "Det er ganske frustrerende, skjønner du.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727616"
+    },
+    {
+      "english": "I feel a bit sad, today.",
+      "norwegian": "Jeg føler meg litt trist, i dag.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727621"
+    },
+    {
+      "english": "That's wonderful news, wow!",
+      "norwegian": "Det er fantastiske nyheter, wow!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727624"
+    },
+    {
+      "english": "I'm quite confused, actually.",
+      "norwegian": "Jeg er ganske forvirret, faktisk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727627"
+    },
+    {
+      "english": "This is a bit worrying, hmm.",
+      "norwegian": "Dette er litt bekymringsfullt, hmm.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727629"
+    },
+    {
+      "english": "I'm so excited, for the trip.",
+      "norwegian": "Jeg er så gira, på turen.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727632"
+    },
+    {
+      "english": "Don't be discouraged, friend.",
+      "norwegian": "Ikke bli motløs, venn.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727635"
+    },
+    {
+      "english": "I feel a bit lonely, tonight.",
+      "norwegian": "Jeg føler meg litt ensom, i kveld.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727638"
+    },
+    {
+      "english": "That's very thoughtful, of you.",
+      "norwegian": "Det er veldig omtenksomt, av deg.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727640"
+    },
+    {
+      "english": "I'm feeling really energetic, today.",
+      "norwegian": "Jeg føler meg skikkelig energisk, i dag.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727643"
+    },
+    {
+      "english": "This is unbelievable, really.",
+      "norwegian": "Dette er utrolig, virkelig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727646"
+    },
+    {
+      "english": "I feel quite proud, of this.",
+      "norwegian": "Jeg er ganske stolt, av dette.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727650"
+    },
+    {
+      "english": "Are you feeling better, now?",
+      "norwegian": "Føler du deg bedre, nå?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727653"
+    },
+    {
+      "english": "It's rather disappointing, sadly.",
+      "norwegian": "Det er ganske skuffende, dessverre.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727656"
+    },
+    {
+      "english": "I'm feeling a bit overwhelmed, here.",
+      "norwegian": "Jeg føler meg litt overveldet, her.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727659"
+    },
+    {
+      "english": "This is so unfair, honestly.",
+      "norwegian": "Dette er så urettferdig, ærlig talt.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727661"
+    },
+    {
+      "english": "I feel so relieved, now.",
+      "norwegian": "Jeg er så lettet, nå.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727664"
+    },
+    {
+      "english": "That's incredibly kind, of you.",
+      "norwegian": "Det er utrolig snilt, av deg.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727667"
+    },
+    {
+      "english": "I'm feeling quite content, today.",
+      "norwegian": "Jeg føler meg ganske fornøyd, i dag.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727670"
+    },
+    {
+      "english": "This is absolutely fantastic, wow!",
+      "norwegian": "Dette er helt fantastisk, wow!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727673"
+    },
+    {
+      "english": "How are you, really?",
+      "norwegian": "Hvordan har du det, egentlig?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727676"
+    },
+    {
+      "english": "Anything bothering you?",
+      "norwegian": "Er det noe som plager deg?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727678"
+    },
+    {
+      "english": "Tell me, what happened?",
+      "norwegian": "Fortell meg, hva skjedde?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727681"
+    },
+    {
+      "english": "Do you need to talk?",
+      "norwegian": "Trenger du å snakke?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727684"
+    },
+    {
+      "english": "Is something wrong?",
+      "norwegian": "Er det noe galt?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727688"
+    },
+    {
+      "english": "Can I help somehow?",
+      "norwegian": "Kan jeg hjelpe på noe vis?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727691"
+    },
+    {
+      "english": "Are you upset about something?",
+      "norwegian": "Er du lei deg for noe?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727694"
+    },
+    {
+      "english": "What are you thinking about?",
+      "norwegian": "Hva går gjennom hodet ditt?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727698"
+    },
+    {
+      "english": "Share with me, if you want.",
+      "norwegian": "Del med meg, hvis du vil.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727701"
+    },
+    {
+      "english": "Did something happen today?",
+      "norwegian": "Skjedde det noe i dag?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727703"
+    },
+    {
+      "english": "Are you feeling down?",
+      "norwegian": "Føler du deg litt nede?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727706"
+    },
+    {
+      "english": "What's making you sad?",
+      "norwegian": "Hva gjør deg trist?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727709"
+    },
+    {
+      "english": "Is there any good news?",
+      "norwegian": "Er det noen gode nyheter?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727711"
+    },
+    {
+      "english": "Are you feeling stressed?",
+      "norwegian": "Føler du deg stresset?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727713"
+    },
+    {
+      "english": "Did that surprise you?",
+      "norwegian": "Overrasket det deg?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727716"
+    },
+    {
+      "english": "What makes you feel calm?",
+      "norwegian": "Hva får deg til å slappe av?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727718"
+    },
+    {
+      "english": "Anything new with you?",
+      "norwegian": "Noe nytt med deg?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727721"
+    },
+    {
+      "english": "What's going on?",
+      "norwegian": "Hva skjer?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727723"
+    },
+    {
+      "english": "Tell me your thoughts.",
+      "norwegian": "Si meg hva du tenker.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727726"
+    },
+    {
+      "english": "How did that go?",
+      "norwegian": "Hvordan gikk det?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727728"
+    },
+    {
+      "english": "Are you okay, truly?",
+      "norwegian": "Går det bra med deg, virkelig?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727730"
+    },
+    {
+      "english": "What's making you smile?",
+      "norwegian": "Hva får deg til å smile?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727733"
+    },
+    {
+      "english": "Do you need some comfort?",
+      "norwegian": "Trenger du litt trøst?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727736"
+    },
+    {
+      "english": "What are your hopes?",
+      "norwegian": "Hva er dine forhåpninger?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727740"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "norwegian": "Du klarer dette, ingen tvil.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727743"
+    },
+    {
+      "english": "Keep pushing forward, friend.",
+      "norwegian": "Fortsett å presse fremover, venn.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727746"
+    },
+    {
+      "english": "Your effort is amazing.",
+      "norwegian": "Innsatsen din er fantastisk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727748"
+    },
+    {
+      "english": "You're doing so well.",
+      "norwegian": "Du gjør det veldig bra.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727751"
+    },
+    {
+      "english": "Stay positive, it helps.",
+      "norwegian": "Hold deg positiv, det hjelper.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727754"
+    },
+    {
+      "english": "Never give up hope.",
+      "norwegian": "Aldri gi opp håpet.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727756"
+    },
+    {
+      "english": "You inspire many people.",
+      "norwegian": "Du inspirerer mange folk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727759"
+    },
+    {
+      "english": "This will pass, be strong.",
+      "norwegian": "Dette vil gå over, vær sterk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727762"
+    },
+    {
+      "english": "Your strength is admirable.",
+      "norwegian": "Styrken din er beundringsverdig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727764"
+    },
+    {
+      "english": "Embrace the challenge ahead.",
+      "norwegian": "Omfavn utfordringen som kommer.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727768"
+    },
+    {
+      "english": "Let's celebrate your success.",
+      "norwegian": "La oss feire din suksess.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727771"
+    },
+    {
+      "english": "Focus on the good vibes.",
+      "norwegian": "Fokuser på de gode vibbene.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727774"
+    },
+    {
+      "english": "You have a good heart.",
+      "norwegian": "Du har et godt hjerte.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727778"
+    },
+    {
+      "english": "Be proud of your journey.",
+      "norwegian": "Vær stolt av reisen din.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727780"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "norwegian": "Dette er en læringsmulighet.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727783"
+    },
+    {
+      "english": "You are truly resilient.",
+      "norwegian": "Du er virkelig motstandsdyktig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727786"
+    },
+    {
+      "english": "Keep that positive spirit.",
+      "norwegian": "Behold den positive ånden.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727788"
+    },
+    {
+      "english": "You handled that perfectly.",
+      "norwegian": "Du håndterte det perfekt.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727791"
+    },
+    {
+      "english": "You have great potential.",
+      "norwegian": "Du har et stort potensial.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727793"
+    },
+    {
+      "english": "Don't underestimate yourself.",
+      "norwegian": "Ikke undervurder deg selv.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727795"
+    },
+    {
+      "english": "Your optimism is infectious.",
+      "norwegian": "Din optimisme er smittsom.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727798"
+    },
+    {
+      "english": "You make a difference.",
+      "norwegian": "Du utgjør en forskjell.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727800"
+    },
+    {
+      "english": "That was a brave move.",
+      "norwegian": "Det var et modig trekk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727802"
+    },
+    {
+      "english": "Keep shining brightly.",
+      "norwegian": "Fortsett å skinne sterkt.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727805"
+    },
+    {
+      "english": "You achieve great things.",
+      "norwegian": "Du oppnår store ting.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727807"
+    },
+    {
+      "english": "Your mindset is key.",
+      "norwegian": "Din tankegang er nøkkelen.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727809"
+    },
+    {
+      "english": "I'm reflecting, deeply.",
+      "norwegian": "Jeg reflekterer, dypt.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727812"
+    },
+    {
+      "english": "This feels so right.",
+      "norwegian": "Dette føles så riktig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727815"
+    },
+    {
+      "english": "I'm quite content, actually.",
+      "norwegian": "Jeg er ganske fornøyd, faktisk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727817"
+    },
+    {
+      "english": "What do you genuinely feel?",
+      "norwegian": "Hva føler du genuint?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727820"
+    },
+    {
+      "english": "It’s a peaceful moment.",
+      "norwegian": "Det er et fredelig øyeblikk.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727824"
+    },
+    {
+      "english": "This sparks my curiosity.",
+      "norwegian": "Dette vekker nysgjerrigheten min.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727826"
+    },
+    {
+      "english": "It’s a moment of clarity.",
+      "norwegian": "Det er et øyeblikk av klarhet.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727830"
+    },
+    {
+      "english": "I'm feeling quite hopeful.",
+      "norwegian": "Jeg føler meg ganske håpefull.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727833"
+    },
+    {
+      "english": "This brings me genuine joy.",
+      "norwegian": "Dette gir meg ekte glede.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727835"
+    },
+    {
+      "english": "It's a quiet happiness.",
+      "norwegian": "Det er en stille lykke.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727840"
+    },
+    {
+      "english": "I’m feeling very serene.",
+      "norwegian": "Jeg føler meg veldig rolig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727843"
+    },
+    {
+      "english": "It feels like destiny.",
+      "norwegian": "Det føles som skjebnen.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727845"
+    },
+    {
+      "english": "I'm embracing this feeling.",
+      "norwegian": "Jeg omfavner denne følelsen.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727848"
+    },
+    {
+      "english": "This is truly inspiring.",
+      "norwegian": "Dette er virkelig inspirerende.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727850"
+    },
+    {
+      "english": "I feel a sense of wonder.",
+      "norwegian": "Jeg føler en følelse av undring.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727852"
+    },
+    {
+      "english": "My emotions are clear now.",
+      "norwegian": "Følelsene mine er klare nå.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727855"
+    },
+    {
+      "english": "This feels like coming home.",
+      "norwegian": "Dette føles som å komme hjem.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727857"
+    },
+    {
+      "english": "It's a very honest feeling.",
+      "norwegian": "Det er en veldig ærlig følelse.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727862"
+    },
+    {
+      "english": "This is deeply moving.",
+      "norwegian": "Dette er dypt bevegende.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727864"
+    },
+    {
+      "english": "I feel a strong sense of peace.",
+      "norwegian": "Jeg føler en sterk følelse av fred.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727866"
+    },
+    {
+      "english": "It's a moment of pure bliss.",
+      "norwegian": "Det er et øyeblikk av ren lykke.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727869"
+    },
+    {
+      "english": "I'm filled with gratitude.",
+      "norwegian": "Jeg er fylt med takknemlighet.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727872"
+    },
+    {
+      "english": "This is truly heartwarming.",
+      "norwegian": "Dette er virkelig hjertevarmende.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727874"
+    },
+    {
+      "english": "I feel a gentle calm.",
+      "norwegian": "Jeg føler en mild ro.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727876"
+    },
+    {
+      "english": "My spirit feels uplifted.",
+      "norwegian": "Ånden min føles løftet.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727879"
+    },
+    {
+      "english": "This feels profoundly meaningful.",
+      "norwegian": "Dette føles dypt meningsfylt.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727881"
+    },
+    {
+      "english": "Take a deep breath, when stressed.",
+      "norwegian": "Ta et dypt pust, når du er stresset.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727884"
+    },
+    {
+      "english": "Don't bottle up, your feelings.",
+      "norwegian": "Ikke steng inne, følelsene dine.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727887"
+    },
+    {
+      "english": "Talk it out, if you need help.",
+      "norwegian": "Snakk det ut, om du trenger hjelp.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727890"
+    },
+    {
+      "english": "Let it go, if it bothers you.",
+      "norwegian": "Slipp det, hvis det plager deg.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727892"
+    },
+    {
+      "english": "Be kind, to yourself always.",
+      "norwegian": "Vær snill, mot deg selv alltid.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727895"
+    },
+    {
+      "english": "Celebrate small wins, often.",
+      "norwegian": "Feir små seire, ofte.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727897"
+    },
+    {
+      "english": "Seek comfort, in loved ones.",
+      "norwegian": "Søk trøst, hos dine nærmeste.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727900"
+    },
+    {
+      "english": "Express yourself, clearly and kindly.",
+      "norwegian": "Uttrykk deg, tydelig og vennlig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727903"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "norwegian": "Lær av feil, ikke gruble.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727908"
+    },
+    {
+      "english": "Find calm, in nature's embrace.",
+      "norwegian": "Finn ro, i naturens favn.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727910"
+    },
+    {
+      "english": "Forgive others, and yourself too.",
+      "norwegian": "Tilgi andre, og deg selv også.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727913"
+    },
+    {
+      "english": "Acknowledge your emotions, fully.",
+      "norwegian": "Anerkjenn følelsene dine, fullt ut.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727918"
+    },
+    {
+      "english": "Share your joy, it multiplies.",
+      "norwegian": "Del din glede, den dobles.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727920"
+    },
+    {
+      "english": "Don't compare, your feelings to others.",
+      "norwegian": "Ikke sammenlign, dine følelser.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-24T07:57:27.727923"
     }
   ],
-  "last_updated": "2026-10-23T08:20:23.320311"
+  "last_updated": "2026-10-24T07:57:27.727925"
 }
