@@ -5759,7 +5759,727 @@
       "norwegian": "Ikke sammenlign, dine følelser.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-10-24T07:57:27.727923"
+    },
+    {
+      "english": "Take a deep breath, calm down.",
+      "norwegian": "Pust dypt inn, ro deg ned.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530220"
+    },
+    {
+      "english": "Everything will be okay, don't worry.",
+      "norwegian": "Alt blir bra, ikke bekymre deg.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530234"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "norwegian": "Senk farten, nyt øyeblikket.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530237"
+    },
+    {
+      "english": "Just relax, let it go.",
+      "norwegian": "Bare slapp av, gi slipp.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530239"
+    },
+    {
+      "english": "Find your center, be present.",
+      "norwegian": "Finn sentrum ditt, vær til stede.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530242"
+    },
+    {
+      "english": "Peace begins with a smile.",
+      "norwegian": "Freden starter med et smil.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530244"
+    },
+    {
+      "english": "What a peaceful day, isn't it?",
+      "norwegian": "For en fredelig dag, ikke sant?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530246"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "norwegian": "Slipp tak i det du ikke kan styre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530251"
+    },
+    {
+      "english": "Inner peace is a journey.",
+      "norwegian": "Indre ro er en reise.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530254"
+    },
+    {
+      "english": "Be kind to yourself today.",
+      "norwegian": "Vær snill mot deg selv i dag.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530256"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "norwegian": "Lytt til din indre stemme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530258"
+    },
+    {
+      "english": "Breathe in calm, breathe out stress.",
+      "norwegian": "Pust inn ro, pust ut stress.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530261"
+    },
+    {
+      "english": "Find stillness in the chaos.",
+      "norwegian": "Finn stillheten i kaoset.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530263"
+    },
+    {
+      "english": "This is a moment of peace.",
+      "norwegian": "Dette er et øyeblikk med fred.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530266"
+    },
+    {
+      "english": "Just be, it's enough.",
+      "norwegian": "Bare vær, det er nok.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530268"
+    },
+    {
+      "english": "How can I find more peace?",
+      "norwegian": "Hvordan kan jeg finne mer ro?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530270"
+    },
+    {
+      "english": "Seek serenity, find happiness.",
+      "norwegian": "Søk sinnsro, finn lykke.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530272"
+    },
+    {
+      "english": "Let go of all attachments.",
+      "norwegian": "Slipp tak i alle bindinger.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530274"
+    },
+    {
+      "english": "Quiet the mind, open the heart.",
+      "norwegian": "Still sinnet, åpne hjertet.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530277"
+    },
+    {
+      "english": "Find joy in simple things.",
+      "norwegian": "Finn glede i enkle ting.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530278"
+    },
+    {
+      "english": "Acceptance brings inner peace.",
+      "norwegian": "Aksept gir indre fred.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530280"
+    },
+    {
+      "english": "Today, I choose peace.",
+      "norwegian": "I dag, velger jeg fred.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530282"
+    },
+    {
+      "english": "It's time to unwind, relax.",
+      "norwegian": "På tide å slappe av, koble av.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530285"
+    },
+    {
+      "english": "Let calmness wash over you.",
+      "norwegian": "La roen skylle over deg.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530287"
+    },
+    {
+      "english": "My mind feels so clear now.",
+      "norwegian": "Hodet mitt føles så klart nå.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530289"
+    },
+    {
+      "english": "This feeling is truly peaceful.",
+      "norwegian": "Denne følelsen er virkelig fredfull.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530292"
+    },
+    {
+      "english": "Just breathe, and let be.",
+      "norwegian": "Bare pust, og la det være.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530295"
+    },
+    {
+      "english": "A moment of pure tranquility.",
+      "norwegian": "Et øyeblikk av ren ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530297"
+    },
+    {
+      "english": "I feel so centered right now.",
+      "norwegian": "Jeg føler meg så sentrert akkurat nå.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530298"
+    },
+    {
+      "english": "Finding my inner calm.",
+      "norwegian": "Finner min indre ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530301"
+    },
+    {
+      "english": "Could you share, your thoughts on this?",
+      "norwegian": "Kan du dele, dine tanker om dette?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530305"
+    },
+    {
+      "english": "What helps you, find your calm?",
+      "norwegian": "Hva hjelper deg, å finne roen din?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530307"
+    },
+    {
+      "english": "Do you have, a quiet place?",
+      "norwegian": "Har du, et rolig sted?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530310"
+    },
+    {
+      "english": "How do you handle, stressful situations?",
+      "norwegian": "Hvordan takler du, stressende situasjoner?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530312"
+    },
+    {
+      "english": "Can we talk, about finding balance?",
+      "norwegian": "Kan vi snakke, om å finne balanse?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530316"
+    },
+    {
+      "english": "What's your secret, to staying serene?",
+      "norwegian": "Hva er din hemmelighet, til å forbli rolig?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530319"
+    },
+    {
+      "english": "Is there a way, to feel more content?",
+      "norwegian": "Finnes det en måte, å føle seg mer tilfreds?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530321"
+    },
+    {
+      "english": "Could you suggest, a calming activity?",
+      "norwegian": "Kunne du foreslå, en beroligende aktivitet?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530323"
+    },
+    {
+      "english": "What advice, would you give someone struggling?",
+      "norwegian": "Hvilket råd, ville du gi noen som sliter?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530325"
+    },
+    {
+      "english": "Are you feeling, peaceful today?",
+      "norwegian": "Føler du deg, fredfull i dag?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530327"
+    },
+    {
+      "english": "Where do you find, your inner strength?",
+      "norwegian": "Hvor finner du, din indre styrke?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530330"
+    },
+    {
+      "english": "Can we practice, mindfulness together?",
+      "norwegian": "Kan vi øve, på mindfulness sammen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530332"
+    },
+    {
+      "english": "What helps you, reconnect with yourself?",
+      "norwegian": "Hva hjelper deg, å koble deg til deg selv igjen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530334"
+    },
+    {
+      "english": "How do you approach, difficult emotions?",
+      "norwegian": "Hvordan nærmer du deg, vanskelige følelser?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530336"
+    },
+    {
+      "english": "Do you ever, feel overwhelmed?",
+      "norwegian": "Føler du deg, noen gang overveldet?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530338"
+    },
+    {
+      "english": "What brings, you a sense of peace?",
+      "norwegian": "Hva gir deg, en følelse av fred?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530340"
+    },
+    {
+      "english": "Can you explain, this concept simply?",
+      "norwegian": "Kan du forklare, dette konseptet enkelt?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530342"
+    },
+    {
+      "english": "What's your favorite, moment of quiet?",
+      "norwegian": "Hva er ditt favoritt, øyeblikk med stillhet?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530345"
+    },
+    {
+      "english": "How do you, cultivate inner calm?",
+      "norwegian": "Hvordan dyrker du, indre ro?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530347"
+    },
+    {
+      "english": "Would you like, to meditate with me?",
+      "norwegian": "Vil du, meditere med meg?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530349"
+    },
+    {
+      "english": "What helps you, release tension?",
+      "norwegian": "Hva hjelper deg, å slippe spenninger?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530351"
+    },
+    {
+      "english": "Can you guide me, through this process?",
+      "norwegian": "Kan du veilede meg, gjennom denne prosessen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530353"
+    },
+    {
+      "english": "What's the most, peaceful thing you know?",
+      "norwegian": "Hva er det mest, fredfulle du vet om?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530355"
+    },
+    {
+      "english": "Do you think, peace is achievable?",
+      "norwegian": "Tror du, fred er oppnåelig?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530357"
+    },
+    {
+      "english": "How do we, share this tranquility?",
+      "norwegian": "Hvordan deler vi, denne roen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530360"
+    },
+    {
+      "english": "What are your, hopes for peace?",
+      "norwegian": "Hva er dine, håp for fred?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530362"
+    },
+    {
+      "english": "Can you see, the calm in nature?",
+      "norwegian": "Kan du se, roen i naturen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530364"
+    },
+    {
+      "english": "What helps you, stay grounded?",
+      "norwegian": "Hva hjelper deg, å holde deg jordet?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530366"
+    },
+    {
+      "english": "Could we find, a moment of silence?",
+      "norwegian": "Kunne vi finne, et øyeblikk med stillhet?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530370"
+    },
+    {
+      "english": "What does inner peace, mean to you?",
+      "norwegian": "Hva betyr indre ro, for deg?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530372"
+    },
+    {
+      "english": "Take it easy, friend.",
+      "norwegian": "Ta det rolig, venn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530374"
+    },
+    {
+      "english": "Life's short, enjoy it.",
+      "norwegian": "Livet er kort, nyt det.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530378"
+    },
+    {
+      "english": "Go with the flow.",
+      "norwegian": "Følg strømmen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530380"
+    },
+    {
+      "english": "Don't sweat the small stuff.",
+      "norwegian": "Ikke stress for småting.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530382"
+    },
+    {
+      "english": "It will be alright.",
+      "norwegian": "Det går nok bra.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530384"
+    },
+    {
+      "english": "Just be yourself, okay?",
+      "norwegian": "Vær deg selv, ok?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530387"
+    },
+    {
+      "english": "Slow down, you're going too fast.",
+      "norwegian": "Ro ned, du kjører for fort.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530390"
+    },
+    {
+      "english": "Every cloud has a silver lining.",
+      "norwegian": "Alt har en sølvstripe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530393"
+    },
+    {
+      "english": "You are enough, as you are.",
+      "norwegian": "Du er nok, som du er.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530395"
+    },
+    {
+      "english": "Be here, now.",
+      "norwegian": "Vær her, nå.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530397"
+    },
+    {
+      "english": "Everything happens for a reason.",
+      "norwegian": "Alt skjer med en grunn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530399"
+    },
+    {
+      "english": "Peace comes from within.",
+      "norwegian": "Fred kommer innenfra.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530401"
+    },
+    {
+      "english": "Listen to your heart.",
+      "norwegian": "Lytt til hjertet ditt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530403"
+    },
+    {
+      "english": "Things will work out.",
+      "norwegian": "Ting ordner seg.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530406"
+    },
+    {
+      "english": "This too shall pass.",
+      "norwegian": "Også dette går over.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530407"
+    },
+    {
+      "english": "Just breathe, and trust.",
+      "norwegian": "Bare pust, og stol på.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530410"
+    },
+    {
+      "english": "Find your happy place.",
+      "norwegian": "Finn din lykkepark.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530412"
+    },
+    {
+      "english": "Your mind is your temple.",
+      "norwegian": "Ditt sinn er ditt tempel.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530414"
+    },
+    {
+      "english": "Let the worries fade.",
+      "norwegian": "La bekymringene forsvinne.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530416"
+    },
+    {
+      "english": "Seek inner quiet.",
+      "norwegian": "Søk indre ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530417"
+    },
+    {
+      "english": "Embrace the present moment.",
+      "norwegian": "Omfavn øyeblikket.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530419"
+    },
+    {
+      "english": "Serenity is a choice.",
+      "norwegian": "Sinnsro er et valg.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530421"
+    },
+    {
+      "english": "Find your own rhythm.",
+      "norwegian": "Finn din egen rytme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530423"
+    },
+    {
+      "english": "Let kindness be your guide.",
+      "norwegian": "La vennlighet være din guide.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530425"
+    },
+    {
+      "english": "My feelings, are valid right now.",
+      "norwegian": "Mine følelser, er gyldige nå.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530427"
+    },
+    {
+      "english": "I need, patience with myself.",
+      "norwegian": "Jeg trenger, tålmodighet med meg selv.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530429"
+    },
+    {
+      "english": "This moment, feels truly peaceful.",
+      "norwegian": "Dette øyeblikket, føles virkelig fredelig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530431"
+    },
+    {
+      "english": "I accept, what I cannot change.",
+      "norwegian": "Jeg aksepterer, det jeg ikke kan endre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530434"
+    },
+    {
+      "english": "Honesty, brings me great relief.",
+      "norwegian": "Ærlighet, gir meg stor lettelse.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530449"
+    },
+    {
+      "english": "Letting go, is a practice.",
+      "norwegian": "Å gi slipp, er en øvelse.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530451"
+    },
+    {
+      "english": "My inner voice, guides me wisely.",
+      "norwegian": "Min indre stemme, veileder meg klokt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530454"
+    },
+    {
+      "english": "I choose, peace over conflict.",
+      "norwegian": "Jeg velger, fred fremfor konflikt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530456"
+    },
+    {
+      "english": "This quiet, nourishes my soul.",
+      "norwegian": "Denne stillheten, nærer sjelen min.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530460"
+    },
+    {
+      "english": "I reflect, on what truly matters.",
+      "norwegian": "Jeg reflekterer, over hva som virkelig betyr noe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530462"
+    },
+    {
+      "english": "My emotions, are like passing clouds.",
+      "norwegian": "Mine følelser, er som forbipasserende skyer.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530464"
+    },
+    {
+      "english": "True strength, is being vulnerable.",
+      "norwegian": "Ekte styrke, er å være sårbar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530466"
+    },
+    {
+      "english": "I trust, the unfolding process.",
+      "norwegian": "Jeg stoler, på den utfoldende prosessen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530469"
+    },
+    {
+      "english": "Self-compassion, is essential always.",
+      "norwegian": "Selvmedfølelse, er avgjørende alltid.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530472"
+    },
+    {
+      "english": "My breath, is my anchor now.",
+      "norwegian": "Mitt pust, er mitt anker nå.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530474"
+    },
+    {
+      "english": "I release, old hurts gently.",
+      "norwegian": "Jeg slipper, gamle sår forsiktig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530477"
+    },
+    {
+      "english": "This quiet space, heals me deeply.",
+      "norwegian": "Dette rolige rommet, helbreder meg dypt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530479"
+    },
+    {
+      "english": "I am learning, to be present.",
+      "norwegian": "Jeg lærer, å være til stede.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530481"
+    },
+    {
+      "english": "My perspective, has shifted greatly.",
+      "norwegian": "Mitt perspektiv, har endret seg mye.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530483"
+    },
+    {
+      "english": "I find wisdom, in quiet contemplation.",
+      "norwegian": "Jeg finner visdom, i stille ettertanke.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530485"
+    },
+    {
+      "english": "My heart, knows the way forward.",
+      "norwegian": "Mitt hjerte, kjenner veien videre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530488"
+    },
+    {
+      "english": "I embrace, my inner quiet.",
+      "norwegian": "Jeg omfavner, min indre ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530490"
+    },
+    {
+      "english": "Gentleness, is a sign of courage.",
+      "norwegian": "Mildhet, er et tegn på mot.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530492"
+    },
+    {
+      "english": "I honor, my own journey.",
+      "norwegian": "Jeg ærer, min egen reise.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530494"
+    },
+    {
+      "english": "My calm, is my true power.",
+      "norwegian": "Min ro, er min sanne kraft.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530496"
+    },
+    {
+      "english": "I allow, myself to feel.",
+      "norwegian": "Jeg tillater, meg selv å føle.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530498"
+    },
+    {
+      "english": "This peace, feels deeply resonant.",
+      "norwegian": "Denne freden, føles dypt resonerende.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530500"
+    },
+    {
+      "english": "I am enough, just breathing.",
+      "norwegian": "Jeg er nok, bare ved å puste.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530502"
+    },
+    {
+      "english": "Start your day, with quiet reflection.",
+      "norwegian": "Begynn dagen din, med stille ettertanke.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530504"
+    },
+    {
+      "english": "Small breaks, make a big difference.",
+      "norwegian": "Små pauser, gjør stor forskjell.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530507"
+    },
+    {
+      "english": "Talk it out, it often helps.",
+      "norwegian": "Snakk det ut, det hjelper ofte.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530509"
+    },
+    {
+      "english": "Nature is a good therapist, sometimes.",
+      "norwegian": "Naturen er en god terapeut, noen ganger.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530511"
+    },
+    {
+      "english": "Don't overthink, just do it simply.",
+      "norwegian": "Ikke overtenk, bare gjør det enkelt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530513"
+    },
+    {
+      "english": "Listen to others, but trust yourself.",
+      "norwegian": "Lytt til andre, men stol på deg selv.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530515"
+    },
+    {
+      "english": "What's the worst, that could happen?",
+      "norwegian": "Hva er det verste, som kan skje?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530518"
+    },
+    {
+      "english": "Simplify your routines, find more calm.",
+      "norwegian": "Forenkle rutinene dine, finn mer ro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:12:32.530520"
     }
   ],
-  "last_updated": "2026-10-24T07:57:27.727925"
+  "last_updated": "2026-10-25T08:12:32.530521"
 }
