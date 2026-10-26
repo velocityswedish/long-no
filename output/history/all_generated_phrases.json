@@ -6479,7 +6479,727 @@
       "norwegian": "Forenkle rutinene dine, finn mer ro.",
       "category": "Inner Peace",
       "generated_at": "2026-10-25T08:12:32.530520"
+    },
+    {
+      "english": "Thank you so much, that's very kind.",
+      "norwegian": "Tusen takk, det er veldig snilt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952858"
+    },
+    {
+      "english": "That was a thoughtful gesture, I appreciate it.",
+      "norwegian": "Det var en omtenksom gest, jeg setter pris på det.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952872"
+    },
+    {
+      "english": "You're too kind, really.",
+      "norwegian": "Du er for snill, virkelig.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952876"
+    },
+    {
+      "english": "How nice of you to say so!",
+      "norwegian": "Så hyggelig av deg å si det!",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952879"
+    },
+    {
+      "english": "That's incredibly generous, thank you.",
+      "norwegian": "Det er utrolig generøst, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952882"
+    },
+    {
+      "english": "What a lovely surprise, that's so kind.",
+      "norwegian": "For en herlig overraskelse, det er så snilt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952886"
+    },
+    {
+      "english": "You always know what to say.",
+      "norwegian": "Du vet alltid hva du skal si.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952888"
+    },
+    {
+      "english": "I really appreciate your help, it's kind.",
+      "norwegian": "Jeg setter stor pris på hjelpen din, det er snilt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952894"
+    },
+    {
+      "english": "That's very considerate of you.",
+      "norwegian": "Det er veldig hensynsfullt av deg.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952898"
+    },
+    {
+      "english": "You're a good person, thank you.",
+      "norwegian": "Du er et godt menneske, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952901"
+    },
+    {
+      "english": "That was incredibly sweet of you.",
+      "norwegian": "Det var utrolig søtt av deg.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952904"
+    },
+    {
+      "english": "I'm touched by your kindness.",
+      "norwegian": "Jeg er rørt over din vennlighet.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952907"
+    },
+    {
+      "english": "You have such a big heart.",
+      "norwegian": "Du har et så stort hjerte.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952910"
+    },
+    {
+      "english": "That's really thoughtful, thank you.",
+      "norwegian": "Det er virkelig omtenksomt, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952913"
+    },
+    {
+      "english": "You're making my day, thank you.",
+      "norwegian": "Du gjør dagen min, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952916"
+    },
+    {
+      "english": "That's so kind, I don't know what to say.",
+      "norwegian": "Det er så snilt, jeg vet ikke hva jeg skal si.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952919"
+    },
+    {
+      "english": "You're very gracious, thank you.",
+      "norwegian": "Du er veldig nådig, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952922"
+    },
+    {
+      "english": "That's a wonderful gesture.",
+      "norwegian": "Det er en fantastisk gest.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952926"
+    },
+    {
+      "english": "What a kind soul you are.",
+      "norwegian": "For en snill sjel du er.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952929"
+    },
+    {
+      "english": "You've been so helpful, thank you.",
+      "norwegian": "Du har vært så hjelpsom, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952932"
+    },
+    {
+      "english": "That's incredibly thoughtful, thank you so much.",
+      "norwegian": "Det er utrolig gjennomtenkt, tusen takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952935"
+    },
+    {
+      "english": "You're too good to me.",
+      "norwegian": "Du er for god mot meg.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952939"
+    },
+    {
+      "english": "That was very generous, thank you.",
+      "norwegian": "Det var veldig raus, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952942"
+    },
+    {
+      "english": "I appreciate your kindness, truly.",
+      "norwegian": "Jeg setter pris på din vennlighet, virkelig.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952945"
+    },
+    {
+      "english": "You're always so supportive, thank you.",
+      "norwegian": "Du er alltid så støttende, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952950"
+    },
+    {
+      "english": "That's very considerate, I appreciate it.",
+      "norwegian": "Det er veldig hensynsfullt, jeg setter pris på det.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952954"
+    },
+    {
+      "english": "You're a lifesaver, thank you.",
+      "norwegian": "Du er en redningsmann, takk.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952957"
+    },
+    {
+      "english": "That's such a kind offer.",
+      "norwegian": "Det er et så snilt tilbud.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952960"
+    },
+    {
+      "english": "I'm so grateful for your kindness.",
+      "norwegian": "Jeg er så takknemlig for din vennlighet.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952962"
+    },
+    {
+      "english": "How can I help you today?",
+      "norwegian": "Hvordan kan jeg hjelpe deg i dag?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952965"
+    },
+    {
+      "english": "Is there anything I can do?",
+      "norwegian": "Er det noe jeg kan gjøre?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952968"
+    },
+    {
+      "english": "Do you need any advice?",
+      "norwegian": "Trenger du noen råd?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952971"
+    },
+    {
+      "english": "Shall we discuss this further?",
+      "norwegian": "Skal vi diskutere dette mer?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952973"
+    },
+    {
+      "english": "Would you like my opinion?",
+      "norwegian": "Ønsker du min mening?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952976"
+    },
+    {
+      "english": "Can I offer a suggestion?",
+      "norwegian": "Kan jeg komme med et forslag?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952979"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "norwegian": "Hva er ditt syn på dette?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952982"
+    },
+    {
+      "english": "How do you feel about it?",
+      "norwegian": "Hvordan føler du deg om det?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952985"
+    },
+    {
+      "english": "Can we find a solution together?",
+      "norwegian": "Kan vi finne en løsning sammen?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952987"
+    },
+    {
+      "english": "What if we try this approach?",
+      "norwegian": "Hva om vi prøver denne tilnærmingen?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952990"
+    },
+    {
+      "english": "Do you want to share your thoughts?",
+      "norwegian": "Vil du dele tankene dine?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952993"
+    },
+    {
+      "english": "What's the best way forward?",
+      "norwegian": "Hva er den beste veien videre?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952995"
+    },
+    {
+      "english": "Should we ask for input?",
+      "norwegian": "Bør vi be om innspill?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.952998"
+    },
+    {
+      "english": "Can I help brainstorm ideas?",
+      "norwegian": "Kan jeg hjelpe til med idémyldring?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953000"
+    },
+    {
+      "english": "What is your honest feedback?",
+      "norwegian": "Hva er din ærlige tilbakemelding?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953003"
+    },
+    {
+      "english": "Are you open to suggestions?",
+      "norwegian": "Er du åpen for forslag?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953005"
+    },
+    {
+      "english": "What else can we consider?",
+      "norwegian": "Hva annet kan vi vurdere?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953008"
+    },
+    {
+      "english": "Do you have a better idea?",
+      "norwegian": "Har du en bedre idé?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953012"
+    },
+    {
+      "english": "How about we try this first?",
+      "norwegian": "Hva med at vi prøver dette først?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953015"
+    },
+    {
+      "english": "What's stopping us from trying?",
+      "norwegian": "Hva hindrer oss i å prøve?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953018"
+    },
+    {
+      "english": "What do you recommend we do?",
+      "norwegian": "Hva anbefaler du vi gjør?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953020"
+    },
+    {
+      "english": "Is there a simpler way?",
+      "norwegian": "Finnes det en enklere måte?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953022"
+    },
+    {
+      "english": "What outcome are you hoping for?",
+      "norwegian": "Hvilket utfall håper du på?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953025"
+    },
+    {
+      "english": "How can we support each other?",
+      "norwegian": "Hvordan kan vi støtte hverandre?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953028"
+    },
+    {
+      "english": "What's on your mind right now?",
+      "norwegian": "Hva tenker du på akkurat nå?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953030"
+    },
+    {
+      "english": "Can I help you understand?",
+      "norwegian": "Kan jeg hjelpe deg å forstå?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953033"
+    },
+    {
+      "english": "What's the most important thing?",
+      "norwegian": "Hva er det viktigste?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953035"
+    },
+    {
+      "english": "That's a lovely way to think.",
+      "norwegian": "Det er en fin måte å tenke på.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953038"
+    },
+    {
+      "english": "Your encouraging words mean a lot.",
+      "norwegian": "Dine oppmuntrende ord betyr mye.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953043"
+    },
+    {
+      "english": "That's a great mindset to have.",
+      "norwegian": "Det er en flott mentalitet å ha.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953046"
+    },
+    {
+      "english": "You inspire me, honestly.",
+      "norwegian": "Du inspirerer meg, ærlig talt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953049"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "norwegian": "Fokuser på det gode, alltid.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953052"
+    },
+    {
+      "english": "Your kindness, it shines through.",
+      "norwegian": "Din vennlighet, den skinner igjennom.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953054"
+    },
+    {
+      "english": "Keep up that wonderful energy.",
+      "norwegian": "Oppretthold den fantastiske energien.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953057"
+    },
+    {
+      "english": "That perspective is valuable.",
+      "norwegian": "Det perspektivet er verdifullt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953060"
+    },
+    {
+      "english": "You radiate positivity.",
+      "norwegian": "Du utstråler positivitet.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953062"
+    },
+    {
+      "english": "Great job believing in that!",
+      "norwegian": "Godt jobbet med å tro på det!",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953065"
+    },
+    {
+      "english": "That's a beautiful outlook.",
+      "norwegian": "Det er en vakker livsutfoldelse.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953068"
+    },
+    {
+      "english": "Never doubt your strength.",
+      "norwegian": "Aldri tvil på din styrke.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953071"
+    },
+    {
+      "english": "Your positive attitude helps.",
+      "norwegian": "Din positive holdning hjelper.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953073"
+    },
+    {
+      "english": "That's a truly kind thought.",
+      "norwegian": "Det er en virkelig snill tanke.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953076"
+    },
+    {
+      "english": "You're making progress, excellent.",
+      "norwegian": "Du gjør fremskritt, utmerket.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953079"
+    },
+    {
+      "english": "Keep that hopeful attitude alive.",
+      "norwegian": "Hold den håpefulle holdningen levende.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953081"
+    },
+    {
+      "english": "That kindness comes from within.",
+      "norwegian": "Den vennligheten kommer innenfra.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953084"
+    },
+    {
+      "english": "You've got this, I know it.",
+      "norwegian": "Du klarer dette, jeg vet det.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953089"
+    },
+    {
+      "english": "Your inner goodness is clear.",
+      "norwegian": "Din indre godhet er tydelig.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953091"
+    },
+    {
+      "english": "That's a very encouraging sign.",
+      "norwegian": "Det er et veldig oppmuntrende tegn.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953094"
+    },
+    {
+      "english": "Keep shining your bright light.",
+      "norwegian": "Fortsett å skinne ditt klare lys.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953097"
+    },
+    {
+      "english": "You believe in the best.",
+      "norwegian": "Du tror på det beste.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953099"
+    },
+    {
+      "english": "Your warmth is much appreciated.",
+      "norwegian": "Din varme blir satt stor pris på.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953102"
+    },
+    {
+      "english": "That's a generous mindset.",
+      "norwegian": "Det er en sjenerøs tankegang.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953104"
+    },
+    {
+      "english": "You foster such kindness.",
+      "norwegian": "Du fremmer slik vennlighet.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953107"
+    },
+    {
+      "english": "Keep aiming high, always.",
+      "norwegian": "Fortsett å sikte høyt, alltid.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953109"
+    },
+    {
+      "english": "I appreciate your patience, truly.",
+      "norwegian": "Jeg setter pris på tålmodigheten din, virkelig.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953112"
+    },
+    {
+      "english": "What are you feeling, deep down?",
+      "norwegian": "Hva føler du, innerst inne?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953115"
+    },
+    {
+      "english": "Let's be honest, it's hard sometimes.",
+      "norwegian": "La oss være ærlige, det er tøft noen ganger.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953118"
+    },
+    {
+      "english": "I'm reflecting on your words.",
+      "norwegian": "Jeg tenker over ordene dine.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953121"
+    },
+    {
+      "english": "Your empathy means so much.",
+      "norwegian": "Din empati betyr så mye.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953123"
+    },
+    {
+      "english": "I need a moment, if that's alright.",
+      "norwegian": "Jeg trenger et øyeblikk, om det er greit.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953128"
+    },
+    {
+      "english": "Your kindness, it touches me.",
+      "norwegian": "Din vennlighet, den berører meg.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953133"
+    },
+    {
+      "english": "How can we show understanding?",
+      "norwegian": "Hvordan kan vi vise forståelse?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953136"
+    },
+    {
+      "english": "I feel you, really I do.",
+      "norwegian": "Jeg forstår deg, det gjør jeg virkelig.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953138"
+    },
+    {
+      "english": "What’s your honest feeling here?",
+      "norwegian": "Hva er din ærlige følelse her?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953142"
+    },
+    {
+      "english": "Give yourself some grace.",
+      "norwegian": "Gi deg selv litt rom.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953145"
+    },
+    {
+      "english": "This requires genuine thought.",
+      "norwegian": "Dette krever ekte ettertanke.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953148"
+    },
+    {
+      "english": "Your vulnerability is brave.",
+      "norwegian": "Din sårbarhet er modig.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953150"
+    },
+    {
+      "english": "I’m listening, with my heart.",
+      "norwegian": "Jeg lytter, med hjertet mitt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953154"
+    },
+    {
+      "english": "Let's explore that feeling more.",
+      "norwegian": "La oss utforske den følelsen mer.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953157"
+    },
+    {
+      "english": "Your perspective is so kind.",
+      "norwegian": "Ditt perspektiv er så snilt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953159"
+    },
+    {
+      "english": "I value your honest input.",
+      "norwegian": "Jeg verdsetter ditt ærlige innspill.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953162"
+    },
+    {
+      "english": "This needs gentle handling.",
+      "norwegian": "Dette trenger varsom håndtering.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953166"
+    },
+    {
+      "english": "What’s truly important to you?",
+      "norwegian": "Hva er virkelig viktig for deg?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953169"
+    },
+    {
+      "english": "Your kindness, it resonates.",
+      "norwegian": "Din vennlighet, den gir gjenklang.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953172"
+    },
+    {
+      "english": "I’m learning from your heart.",
+      "norwegian": "Jeg lærer av hjertet ditt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953175"
+    },
+    {
+      "english": "Let’s be gentle with ourselves.",
+      "norwegian": "La oss være snille med oss selv.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953178"
+    },
+    {
+      "english": "Your feelings are valid here.",
+      "norwegian": "Dine følelser er gyldige her.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953180"
+    },
+    {
+      "english": "I’m thinking of you kindly.",
+      "norwegian": "Jeg tenker på deg med vennlighet.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953183"
+    },
+    {
+      "english": "This requires a soft touch.",
+      "norwegian": "Dette krever et lett preg.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953186"
+    },
+    {
+      "english": "Your honesty is beautiful.",
+      "norwegian": "Din ærlighet er vakker.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953188"
+    },
+    {
+      "english": "Your kindness is a gift.",
+      "norwegian": "Din vennlighet er en gave.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953191"
+    },
+    {
+      "english": "Can I help, with anything?",
+      "norwegian": "Kan jeg hjelpe, med noe?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953194"
+    },
+    {
+      "english": "A little help, goes a long way.",
+      "norwegian": "Litt hjelp, kommer langt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953196"
+    },
+    {
+      "english": "Let's share, the load together.",
+      "norwegian": "La oss dele, byrden sammen.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953200"
+    },
+    {
+      "english": "You're doing great, seriously.",
+      "norwegian": "Du gjør det bra, seriøst.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953202"
+    },
+    {
+      "english": "Small acts, make big impacts.",
+      "norwegian": "Små handlinger, gir stor effekt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953205"
+    },
+    {
+      "english": "How was your day, truly?",
+      "norwegian": "Hvordan var dagen din, virkelig?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953208"
+    },
+    {
+      "english": "Just checking in, hope you're well.",
+      "norwegian": "Bare sjekker inn, håper du har det bra.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953213"
+    },
+    {
+      "english": "Need a hand, with that task?",
+      "norwegian": "Trenger du en hånd, med den oppgaven?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953216"
+    },
+    {
+      "english": "Let's lift each other, up.",
+      "norwegian": "La oss løfte hverandre, opp.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953218"
+    },
+    {
+      "english": "What can I do, to assist?",
+      "norwegian": "Hva kan jeg gjøre, for å hjelpe?",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953221"
+    },
+    {
+      "english": "Always be kind, if you can.",
+      "norwegian": "Vær alltid snill, hvis du kan.",
+      "category": "Kindness",
+      "generated_at": "2026-10-26T08:38:34.953224"
     }
   ],
-  "last_updated": "2026-10-25T08:12:32.530521"
+  "last_updated": "2026-10-26T08:38:34.953227"
 }
