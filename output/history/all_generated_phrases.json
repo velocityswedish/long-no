@@ -8639,7 +8639,727 @@
       "norwegian": "Hva gir, deg glede akkurat nå?",
       "category": "Love",
       "generated_at": "2026-10-28T09:24:27.390797"
+    },
+    {
+      "english": "This is a classic Norwegian greeting.",
+      "norwegian": "Dette er en klassisk norsk hilsen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292085"
+    },
+    {
+      "english": "We always say 'skål' before drinking.",
+      "norwegian": "Vi sier alltid 'skål' før vi drikker.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292098"
+    },
+    {
+      "english": "The 'koselig' feeling is important here.",
+      "norwegian": "Den 'koselige' følelsen er viktig her.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292102"
+    },
+    {
+      "english": "Do you know the tradition of 'frokost'?",
+      "norwegian": "Kjenner du til tradisjonen med 'frokost'?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292105"
+    },
+    {
+      "english": "Midsummer is celebrated with bonfires.",
+      "norwegian": "Sankthans feires med bål.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292108"
+    },
+    {
+      "english": "We love our 'dugnad' spirit.",
+      "norwegian": "Vi elsker dugnadsånden vår.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292111"
+    },
+    {
+      "english": "Christmas Eve is about family.",
+      "norwegian": "Julaften handler om familie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292114"
+    },
+    {
+      "english": "Bunad is our traditional costume.",
+      "norwegian": "Bunad er vår tradisjonelle drakt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292119"
+    },
+    {
+      "english": "Have you tried 'lefse' yet?",
+      "norwegian": "Har du prøvd 'lefse' ennå?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292123"
+    },
+    {
+      "english": "Easter eggs are a must.",
+      "norwegian": "Påskeegg er et must.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292128"
+    },
+    {
+      "english": "We often hike in the mountains.",
+      "norwegian": "Vi går ofte på tur i fjellet.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292131"
+    },
+    {
+      "english": "The 'fiskekake' is delicious.",
+      "norwegian": "Fiskekaken er nydelig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292134"
+    },
+    {
+      "english": "Learning Norwegian is exciting.",
+      "norwegian": "Å lære norsk er spennende.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292136"
+    },
+    {
+      "english": "This is how we do it.",
+      "norwegian": "Slik gjør vi det.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292139"
+    },
+    {
+      "english": "Respect for nature is key.",
+      "norwegian": "Respekt for naturen er viktig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292141"
+    },
+    {
+      "english": "That's a common Norwegian saying.",
+      "norwegian": "Det er et vanlig norsk uttrykk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292144"
+    },
+    {
+      "english": "We enjoy the long summer days.",
+      "norwegian": "Vi nyter de lange sommerdagene.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292147"
+    },
+    {
+      "english": "The 'matpakke' is practical.",
+      "norwegian": "Matpakken er praktisk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292149"
+    },
+    {
+      "english": "Are you going skiing this winter?",
+      "norwegian": "Skal du på ski i vinter?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292152"
+    },
+    {
+      "english": "We love a good 'fika' break.",
+      "norwegian": "Vi elsker en god kaffepause.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292155"
+    },
+    {
+      "english": "This is part of our culture.",
+      "norwegian": "Dette er en del av vår kultur.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292159"
+    },
+    {
+      "english": "It's very 'hyggelig' here.",
+      "norwegian": "Det er veldig 'hyggelig' her.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292162"
+    },
+    {
+      "english": "Let's try this traditional dish.",
+      "norwegian": "La oss prøve denne tradisjonelle retten.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292165"
+    },
+    {
+      "english": "The 'Syttende Mai' celebration is big.",
+      "norwegian": "Syttende mai-feiringen er stor.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292168"
+    },
+    {
+      "english": "We value punctuality highly.",
+      "norwegian": "Vi verdsetter punktlighet høyt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292171"
+    },
+    {
+      "english": "That's a common Norwegian custom.",
+      "norwegian": "Det er en vanlig norsk skikk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292173"
+    },
+    {
+      "english": "Enjoy your meal, 'velbekomme'.",
+      "norwegian": "Velbekomme.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292176"
+    },
+    {
+      "english": "Do you understand this tradition?",
+      "norwegian": "Forstår du denne tradisjonen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292179"
+    },
+    {
+      "english": "We are proud of our heritage.",
+      "norwegian": "Vi er stolte av vår arv.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292181"
+    },
+    {
+      "english": "This is how we show respect.",
+      "norwegian": "Slik viser vi respekt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292183"
+    },
+    {
+      "english": "Could you explain this custom, please?",
+      "norwegian": "Kan du forklare denne skikken, vær så snill?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292186"
+    },
+    {
+      "english": "What's the story behind this?",
+      "norwegian": "Hva er historien bak dette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292189"
+    },
+    {
+      "english": "How do Norwegians typically celebrate?",
+      "norwegian": "Hvordan feirer nordmenn vanligvis?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292192"
+    },
+    {
+      "english": "Is this a seasonal thing, or year-round?",
+      "norwegian": "Er dette sesongbasert, eller hele året?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292195"
+    },
+    {
+      "english": "What are some common mistakes foreigners make?",
+      "norwegian": "Hva er noen vanlige feil utlendinger gjør?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292198"
+    },
+    {
+      "english": "What's considered polite in this situation?",
+      "norwegian": "Hva regnes som høflig i denne situasjonen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292201"
+    },
+    {
+      "english": "Are there any specific rules I should know?",
+      "norwegian": "Er det noen spesifikke regler jeg bør vite?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292204"
+    },
+    {
+      "english": "Tell me more about this fascinating tradition.",
+      "norwegian": "Fortell meg mer om denne fascinerende tradisjonen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292206"
+    },
+    {
+      "english": "What should I bring to this event?",
+      "norwegian": "Hva bør jeg ta med på dette arrangementet?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292209"
+    },
+    {
+      "english": "How is this different from other countries?",
+      "norwegian": "Hvordan skiller dette seg fra andre land?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292211"
+    },
+    {
+      "english": "Is there a specific greeting for this occasion?",
+      "norwegian": "Er det en spesiell hilsen for denne anledningen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292214"
+    },
+    {
+      "english": "What's a typical gift for this kind of gathering?",
+      "norwegian": "Hva er en typisk gave til denne typen samling?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292219"
+    },
+    {
+      "english": "I'm trying to understand your perspective.",
+      "norwegian": "Jeg prøver å forstå ditt perspektiv.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292222"
+    },
+    {
+      "english": "What does this symbol mean?",
+      "norwegian": "Hva betyr dette symbolet?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292225"
+    },
+    {
+      "english": "How do you feel about this tradition?",
+      "norwegian": "Hva føler du om denne tradisjonen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292227"
+    },
+    {
+      "english": "Is it okay if I ask questions?",
+      "norwegian": "Er det greit om jeg stiller spørsmål?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292230"
+    },
+    {
+      "english": "What's the most important aspect here?",
+      "norwegian": "Hva er det viktigste aspektet her?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292232"
+    },
+    {
+      "english": "Can you clarify that point for me?",
+      "norwegian": "Kan du utdype det punktet for meg?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292235"
+    },
+    {
+      "english": "What are your thoughts on this?",
+      "norwegian": "Hva er dine tanker om dette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292238"
+    },
+    {
+      "english": "Is there a special song for this?",
+      "norwegian": "Er det en spesiell sang for dette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292240"
+    },
+    {
+      "english": "What's the significance of this food?",
+      "norwegian": "Hva er betydningen av denne maten?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292245"
+    },
+    {
+      "english": "Can I join in the activity?",
+      "norwegian": "Kan jeg delta i aktiviteten?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292248"
+    },
+    {
+      "english": "What's the general mood like?",
+      "norwegian": "Hvordan er den generelle stemningen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292250"
+    },
+    {
+      "english": "Are there any local variations?",
+      "norwegian": "Finnes det noen lokale variasjoner?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292253"
+    },
+    {
+      "english": "What should I avoid doing?",
+      "norwegian": "Hva bør jeg unngå å gjøre?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292257"
+    },
+    {
+      "english": "Can you recommend a good place to learn more?",
+      "norwegian": "Kan du anbefale et bra sted å lære mer?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292260"
+    },
+    {
+      "english": "You're learning Norwegian, impressive!",
+      "norwegian": "Du lærer norsk, imponerende!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292263"
+    },
+    {
+      "english": "Your effort is really showing.",
+      "norwegian": "Innsatsen din vises virkelig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292265"
+    },
+    {
+      "english": "That's a great question, by the way.",
+      "norwegian": "Det var et godt spørsmål, forresten.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292268"
+    },
+    {
+      "english": "You're picking this up fast.",
+      "norwegian": "Du plukker dette opp fort.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292271"
+    },
+    {
+      "english": "That's a smart observation.",
+      "norwegian": "Det er en smart observasjon.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292273"
+    },
+    {
+      "english": "Your Norwegian is improving daily.",
+      "norwegian": "Norsken din blir bedre hver dag.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292276"
+    },
+    {
+      "english": "Don't be afraid, just try.",
+      "norwegian": "Vær ikke redd, bare prøv.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292279"
+    },
+    {
+      "english": "You're doing wonderfully!",
+      "norwegian": "Du gjør det fantastisk!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292281"
+    },
+    {
+      "english": "Embrace the challenge, it's fun.",
+      "norwegian": "Omfavn utfordringen, det er gøy.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292284"
+    },
+    {
+      "english": "Think positive, speak Norwegian.",
+      "norwegian": "Tenk positivt, snakk norsk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292287"
+    },
+    {
+      "english": "Every small step counts.",
+      "norwegian": "Hvert lite skritt teller.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292290"
+    },
+    {
+      "english": "You have a good instinct for this.",
+      "norwegian": "Du har en god intuisjon for dette.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292292"
+    },
+    {
+      "english": "I like your curiosity.",
+      "norwegian": "Jeg liker nysgjerrigheten din.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292295"
+    },
+    {
+      "english": "This is a rewarding journey.",
+      "norwegian": "Dette er en givende reise.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292298"
+    },
+    {
+      "english": "You're making great progress.",
+      "norwegian": "Du gjør store fremskritt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292300"
+    },
+    {
+      "english": "That understanding is key.",
+      "norwegian": "Den forståelsen er nøkkelen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292303"
+    },
+    {
+      "english": "You're brave to explore new things.",
+      "norwegian": "Du er modig som utforsker nytt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292305"
+    },
+    {
+      "english": "Embrace mistakes, they teach us.",
+      "norwegian": "Omfavn feil, de lærer oss.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292335"
+    },
+    {
+      "english": "You're doing even better now.",
+      "norwegian": "Du gjør det enda bedre nå.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292339"
+    },
+    {
+      "english": "That spark of interest is great.",
+      "norwegian": "Den gnisten av interesse er flott.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292341"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "norwegian": "Behold den positive holdningen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292344"
+    },
+    {
+      "english": "You're adapting so well.",
+      "norwegian": "Du tilpasser deg så bra.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292346"
+    },
+    {
+      "english": "Your enthusiasm is contagious.",
+      "norwegian": "Din entusiasme er smittsom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292349"
+    },
+    {
+      "english": "This is a wonderful mindset.",
+      "norwegian": "Dette er en flott tankegang.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292351"
+    },
+    {
+      "english": "You're truly blossoming here.",
+      "norwegian": "Du blomstrer virkelig her.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292354"
+    },
+    {
+      "english": "That determination shines through.",
+      "norwegian": "Den besluttsomheten skinner gjennom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292356"
+    },
+    {
+      "english": "You have a good grasp of it.",
+      "norwegian": "Du har en god forståelse for det.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292359"
+    },
+    {
+      "english": "Keep shining, you're amazing.",
+      "norwegian": "Fortsett å skinne, du er fantastisk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292362"
+    },
+    {
+      "english": "This tradition, it feels deeply personal.",
+      "norwegian": "Denne tradisjonen, den føles dypt personlig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292364"
+    },
+    {
+      "english": "I'm reflecting on the quiet moments.",
+      "norwegian": "Jeg reflekterer over de stille øyeblikkene.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292375"
+    },
+    {
+      "english": "Patience, it's part of the process.",
+      "norwegian": "Tålmodighet, det er en del av prosessen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292379"
+    },
+    {
+      "english": "What's your honest feeling about this?",
+      "norwegian": "Hva er din ærlige følelse om dette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292382"
+    },
+    {
+      "english": "I feel a connection, slowly growing.",
+      "norwegian": "Jeg føler en forbindelse, den vokser sakte.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292384"
+    },
+    {
+      "english": "Deeper thoughts arise, surprisingly.",
+      "norwegian": "Dypere tanker dukker opp, overraskende.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292387"
+    },
+    {
+      "english": "It requires genuine sincerity.",
+      "norwegian": "Det krever ekte oppriktighet.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292390"
+    },
+    {
+      "english": "My heart feels warm, listening.",
+      "norwegian": "Hjertet mitt føles varmt, når jeg lytter.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292392"
+    },
+    {
+      "english": "Let's share our true reflections.",
+      "norwegian": "La oss dele våre ekte refleksjoner.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292395"
+    },
+    {
+      "english": "This has a soul, I sense.",
+      "norwegian": "Dette har en sjel, jeg aner.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292398"
+    },
+    {
+      "english": "I'm finding peace, within myself.",
+      "norwegian": "Jeg finner fred, inni meg selv.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292401"
+    },
+    {
+      "english": "It's about honest understanding.",
+      "norwegian": "Det handler om ærlig forståelse.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292404"
+    },
+    {
+      "english": "The subtle emotions are revealing.",
+      "norwegian": "De subtile følelsene er avslørende.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292406"
+    },
+    {
+      "english": "My mind is open, to learn.",
+      "norwegian": "Mitt sinn er åpent, for å lære.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292409"
+    },
+    {
+      "english": "This brings a sense of belonging.",
+      "norwegian": "Dette gir en følelse av tilhørighet.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292412"
+    },
+    {
+      "english": "I'm feeling quite moved, honestly.",
+      "norwegian": "Jeg føler meg ganske rørt, ærlig talt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292414"
+    },
+    {
+      "english": "Let patience guide our thoughts.",
+      "norwegian": "La tålmodighet lede våre tanker.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292417"
+    },
+    {
+      "english": "What resonates with your soul?",
+      "norwegian": "Hva resonnerer med sjelen din?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292419"
+    },
+    {
+      "english": "I appreciate the depth here.",
+      "norwegian": "Jeg setter pris på dybden her.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292422"
+    },
+    {
+      "english": "This tradition feels like home.",
+      "norwegian": "Denne tradisjonen føles som hjemme.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292424"
+    },
+    {
+      "english": "My true feelings emerge now.",
+      "norwegian": "Mine sanne følelser kommer frem nå.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292429"
+    },
+    {
+      "english": "I need time to absorb this.",
+      "norwegian": "Jeg trenger tid til å fordøye dette.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292431"
+    },
+    {
+      "english": "Such quiet contemplation is valuable.",
+      "norwegian": "Slik stille ettertanke er verdifull.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292434"
+    },
+    {
+      "english": "It fosters deep introspection.",
+      "norwegian": "Det fremmer dyp selvrefleksjon.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292436"
+    },
+    {
+      "english": "I feel a quiet gratitude.",
+      "norwegian": "Jeg føler en stille takknemlighet.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292439"
+    },
+    {
+      "english": "This connects me to something larger.",
+      "norwegian": "Dette knytter meg til noe større.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292441"
+    },
+    {
+      "english": "My perspective is shifting, gently.",
+      "norwegian": "Mitt perspektiv endrer seg, mildt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292444"
+    },
+    {
+      "english": "True reflection takes time.",
+      "norwegian": "Ekte refleksjon tar tid.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292447"
+    },
+    {
+      "english": "I'm feeling a profound calm.",
+      "norwegian": "Jeg føler en dyp ro.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292449"
+    },
+    {
+      "english": "Ask about local customs, before you go.",
+      "norwegian": "Spør om lokale skikker, før du drar.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292454"
+    },
+    {
+      "english": "Observe how locals greet each other.",
+      "norwegian": "Observer hvordan folk hilser på hverandre.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292457"
+    },
+    {
+      "english": "Try the regional food, it's delicious.",
+      "norwegian": "Prøv den regionale maten, den er deilig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292460"
+    },
+    {
+      "english": "Learn a few basic Norwegian phrases.",
+      "norwegian": "Lær noen enkle norske fraser.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292462"
+    },
+    {
+      "english": "Be open to new experiences, always.",
+      "norwegian": "Vær åpen for nye opplevelser, alltid.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292467"
+    },
+    {
+      "english": "Respect silence, it's valued here.",
+      "norwegian": "Respekter stillhet, den verdsettes her.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292469"
+    },
+    {
+      "english": "Understand the concept of 'koselig'.",
+      "norwegian": "Forstå konseptet 'koselig'.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:43:56.292472"
     }
   ],
-  "last_updated": "2026-10-28T09:24:27.390798"
+  "last_updated": "2026-10-30T09:43:56.292474"
 }
