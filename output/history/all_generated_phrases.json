@@ -9359,7 +9359,727 @@
       "norwegian": "Forstå konseptet 'koselig'.",
       "category": "Cultural Traditions",
       "generated_at": "2026-10-30T09:43:56.292472"
+    },
+    {
+      "english": "Hey, what's up, friend?",
+      "norwegian": "Hei, hva skjer, venn?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157409"
+    },
+    {
+      "english": "Good to see you, my friend.",
+      "norwegian": "Hyggelig å se deg, min venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157421"
+    },
+    {
+      "english": "How are you doing?",
+      "norwegian": "Hvordan har du det?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157423"
+    },
+    {
+      "english": "I'm doing well, thanks.",
+      "norwegian": "Jeg har det bra, takk.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157424"
+    },
+    {
+      "english": "What are you up to?",
+      "norwegian": "Hva driver du med?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157426"
+    },
+    {
+      "english": "Just chilling, you?",
+      "norwegian": "Bare slapper av, du?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157427"
+    },
+    {
+      "english": "Missed you a lot.",
+      "norwegian": "Savnet deg mye.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157429"
+    },
+    {
+      "english": "Are you free later?",
+      "norwegian": "Har du tid senere?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157432"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "norwegian": "La oss møtes snart.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157434"
+    },
+    {
+      "english": "Want to grab a coffee?",
+      "norwegian": "Vil du ta en kaffe?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157436"
+    },
+    {
+      "english": "Sounds like a plan.",
+      "norwegian": "Det høres ut som en plan.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157437"
+    },
+    {
+      "english": "That's great news!",
+      "norwegian": "Det er kjempebra!",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157439"
+    },
+    {
+      "english": "Oh no, that's too bad.",
+      "norwegian": "Å nei, det var synd.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157440"
+    },
+    {
+      "english": "That's hilarious!",
+      "norwegian": "Det er hysterisk!",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157442"
+    },
+    {
+      "english": "You're kidding me!",
+      "norwegian": "Du tuller!",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157443"
+    },
+    {
+      "english": "I need your help.",
+      "norwegian": "Jeg trenger din hjelp.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157446"
+    },
+    {
+      "english": "Can you help me?",
+      "norwegian": "Kan du hjelpe meg?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157447"
+    },
+    {
+      "english": "Thanks for your help.",
+      "norwegian": "Takk for hjelpen.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157449"
+    },
+    {
+      "english": "I owe you one.",
+      "norwegian": "Jeg skylder deg en tjeneste.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157450"
+    },
+    {
+      "english": "I appreciate that.",
+      "norwegian": "Jeg setter pris på det.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157452"
+    },
+    {
+      "english": "What are your plans?",
+      "norwegian": "Hva er planene dine?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157453"
+    },
+    {
+      "english": "Let's make some fun.",
+      "norwegian": "La oss ha det gøy.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157454"
+    },
+    {
+      "english": "I'm really tired.",
+      "norwegian": "Jeg er veldig sliten.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157456"
+    },
+    {
+      "english": "Need a break, right?",
+      "norwegian": "Trenger en pause, sant?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157457"
+    },
+    {
+      "english": "Let's go home now.",
+      "norwegian": "La oss dra hjem nå.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157459"
+    },
+    {
+      "english": "See you tomorrow, friend.",
+      "norwegian": "Vi ses i morgen, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157461"
+    },
+    {
+      "english": "What's new, buddy?",
+      "norwegian": "Hva er nytt, kompis?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157463"
+    },
+    {
+      "english": "Tell me everything, please.",
+      "norwegian": "Fortell meg alt, vær så snill.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157465"
+    },
+    {
+      "english": "Got any fun plans?",
+      "norwegian": "Har du noen morsomme planer?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157466"
+    },
+    {
+      "english": "Anything interesting happen?",
+      "norwegian": "Skjedde noe interessant?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157468"
+    },
+    {
+      "english": "Need to vent for a bit?",
+      "norwegian": "Trenger du å lufte litt?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157470"
+    },
+    {
+      "english": "Got a minute to chat?",
+      "norwegian": "Har du et minutt å prate?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157472"
+    },
+    {
+      "english": "What's on your mind lately?",
+      "norwegian": "Hva går gjennom hodet ditt i det siste?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157475"
+    },
+    {
+      "english": "Any exciting news to share?",
+      "norwegian": "Noen spennende nyheter å dele?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157476"
+    },
+    {
+      "english": "What's the latest gossip?",
+      "norwegian": "Hva er de siste slarvene?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157478"
+    },
+    {
+      "english": "Did you see that movie?",
+      "norwegian": "Så du den filmen?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157479"
+    },
+    {
+      "english": "Is everything okay with you?",
+      "norwegian": "Er alt i orden med deg?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157481"
+    },
+    {
+      "english": "What are you struggling with?",
+      "norwegian": "Hva sliter du med?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157483"
+    },
+    {
+      "english": "Need some advice, friend?",
+      "norwegian": "Trenger du noen råd, venn?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157484"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "norwegian": "Hva er din mening om dette?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157485"
+    },
+    {
+      "english": "Want to brainstorm some ideas?",
+      "norwegian": "Vil du idémyldre litt?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157487"
+    },
+    {
+      "english": "How are we doing today?",
+      "norwegian": "Hvordan går det med oss i dag?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157488"
+    },
+    {
+      "english": "What's your take on that?",
+      "norwegian": "Hva er ditt syn på det?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157491"
+    },
+    {
+      "english": "Got any good recommendations?",
+      "norwegian": "Har du noen gode anbefalinger?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157492"
+    },
+    {
+      "english": "Anything exciting coming up?",
+      "norwegian": "Er det noe spennende som kommer?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157494"
+    },
+    {
+      "english": "How are things going for you?",
+      "norwegian": "Hvordan går tingene for deg?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157495"
+    },
+    {
+      "english": "Want to share some good news?",
+      "norwegian": "Vil du dele noen gode nyheter?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157496"
+    },
+    {
+      "english": "What's your best idea right now?",
+      "norwegian": "Hva er din beste idé akkurat nå?",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157498"
+    },
+    {
+      "english": "Every challenge makes you grow.",
+      "norwegian": "Hver utfordring får deg til å vokse.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157499"
+    },
+    {
+      "english": "Your positivity is infectious.",
+      "norwegian": "Din positivitet er smittsom.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157501"
+    },
+    {
+      "english": "You handled that so well.",
+      "norwegian": "Du taklet det så bra.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157502"
+    },
+    {
+      "english": "I'm so impressed with you.",
+      "norwegian": "Jeg er så imponert over deg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157504"
+    },
+    {
+      "english": "You always see the good.",
+      "norwegian": "Du ser alltid det gode.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157505"
+    },
+    {
+      "english": "Keep that spirit alive.",
+      "norwegian": "Hold den ånden levende.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157507"
+    },
+    {
+      "english": "You have a great outlook.",
+      "norwegian": "Du har et flott syn på ting.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157508"
+    },
+    {
+      "english": "Always aim for the best.",
+      "norwegian": "Sikt alltid mot det beste.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157510"
+    },
+    {
+      "english": "Your confidence is inspiring.",
+      "norwegian": "Din selvtillit er inspirerende.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157511"
+    },
+    {
+      "english": "You make difficult things easy.",
+      "norwegian": "Du gjør vanskelige ting enkle.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157513"
+    },
+    {
+      "english": "Stay true to yourself, friend.",
+      "norwegian": "Vær tro mot deg selv, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157514"
+    },
+    {
+      "english": "Your perseverance pays off.",
+      "norwegian": "Din utholdenhet lønner seg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157516"
+    },
+    {
+      "english": "That's a wise decision.",
+      "norwegian": "Det er en klok beslutning.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157518"
+    },
+    {
+      "english": "You always find solutions.",
+      "norwegian": "Du finner alltid løsninger.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157519"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "norwegian": "Ikke tvil på dine evner.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157522"
+    },
+    {
+      "english": "Stay hopeful, my friend.",
+      "norwegian": "Vær håpefull, min venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157523"
+    },
+    {
+      "english": "You always lift my spirits.",
+      "norwegian": "Du løfter alltid mitt humør.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157525"
+    },
+    {
+      "english": "What a wonderful accomplishment!",
+      "norwegian": "For en fantastisk prestasjon!",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157526"
+    },
+    {
+      "english": "You've got this, friend.",
+      "norwegian": "Du klarer dette, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157528"
+    },
+    {
+      "english": "A true friend, sticks like glue.",
+      "norwegian": "En ekte venn, henger med som lim.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157530"
+    },
+    {
+      "english": "We click, like two peas in a pod.",
+      "norwegian": "Vi klaffer, som erter i en belg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157533"
+    },
+    {
+      "english": "You're my wingman, always there.",
+      "norwegian": "Du er min makker, alltid der.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157534"
+    },
+    {
+      "english": "We go way back, old friends.",
+      "norwegian": "Vi kjenner hverandre lenge, gamle venner.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157536"
+    },
+    {
+      "english": "You're a lifesaver, seriously.",
+      "norwegian": "Du er en livredder, seriøst.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157537"
+    },
+    {
+      "english": "Thanks for having my back.",
+      "norwegian": "Takk for at du har ryggen min.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157539"
+    },
+    {
+      "english": "You complete the puzzle, friend.",
+      "norwegian": "Du fullfører puslespillet, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157540"
+    },
+    {
+      "english": "We're like two sides of a coin.",
+      "norwegian": "Vi er som to sider av en mynt.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157542"
+    },
+    {
+      "english": "You make a dull day bright.",
+      "norwegian": "Du gjør en kjedelig dag lys.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157543"
+    },
+    {
+      "english": "It's always fun with you.",
+      "norwegian": "Det er alltid gøy med deg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157545"
+    },
+    {
+      "english": "You're the best, no doubt.",
+      "norwegian": "Du er best, ingen tvil.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157547"
+    },
+    {
+      "english": "My ride or die, you.",
+      "norwegian": "Min for alltid, du.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157548"
+    },
+    {
+      "english": "We balance each other out.",
+      "norwegian": "Vi balanserer hverandre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157550"
+    },
+    {
+      "english": "You understand me perfectly.",
+      "norwegian": "Du forstår meg perfekt.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157551"
+    },
+    {
+      "english": "Glad we met, truly.",
+      "norwegian": "Glad vi møttes, virkelig.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157553"
+    },
+    {
+      "english": "You're my partner in crime.",
+      "norwegian": "Du er min partner i kriminalitet.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157554"
+    },
+    {
+      "english": "We have each other's backs.",
+      "norwegian": "Vi har hverandres rygg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157556"
+    },
+    {
+      "english": "A friend in need, is a friend indeed.",
+      "norwegian": "En venn i nød, er en venn i alle fall.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157557"
+    },
+    {
+      "english": "You're my chosen family.",
+      "norwegian": "Du er min valgte familie.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157559"
+    },
+    {
+      "english": "You make everything better.",
+      "norwegian": "Du gjør alt bedre.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157560"
+    },
+    {
+      "english": "We're thick as thieves, us.",
+      "norwegian": "Vi er tykke som tyver, oss.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157562"
+    },
+    {
+      "english": "My rock, you are.",
+      "norwegian": "Min klippe, du er.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157563"
+    },
+    {
+      "english": "You just get me, friend.",
+      "norwegian": "Du forstår meg bare, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157565"
+    },
+    {
+      "english": "Always count on you.",
+      "norwegian": "Stoler alltid på deg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157566"
+    },
+    {
+      "english": "We're a great team, really.",
+      "norwegian": "Vi er et flott team, virkelig.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157569"
+    },
+    {
+      "english": "Life's better with you.",
+      "norwegian": "Livet er bedre med deg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157571"
+    },
+    {
+      "english": "We finish each other's sentences.",
+      "norwegian": "Vi fullfører hverandres setninger.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157574"
+    },
+    {
+      "english": "You're my sunshine on a cloudy day.",
+      "norwegian": "Du er min sol på en grå dag.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157575"
+    },
+    {
+      "english": "Friendship goals, right here.",
+      "norwegian": "Vennskapsmål, akkurat her.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157578"
+    },
+    {
+      "english": "I value your honest thoughts, always.",
+      "norwegian": "Jeg verdsetter dine ærlige tanker, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157580"
+    },
+    {
+      "english": "Your patience means a lot to me.",
+      "norwegian": "Din tålmodighet betyr mye for meg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157582"
+    },
+    {
+      "english": "Let's talk, really talk, sometime.",
+      "norwegian": "La oss snakke, ordentlig snakke, en gang.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157584"
+    },
+    {
+      "english": "It's okay to feel this way, friend.",
+      "norwegian": "Det er greit å føle det slik, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157585"
+    },
+    {
+      "english": "I'm here for you, no judgment.",
+      "norwegian": "Jeg er her for deg, uten fordømmelse.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157587"
+    },
+    {
+      "english": "We can share our deepest fears.",
+      "norwegian": "Vi kan dele våre dypeste frykter.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157588"
+    },
+    {
+      "english": "Your vulnerability is courageous, truly.",
+      "norwegian": "Din sårbarhet er modig, virkelig.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157590"
+    },
+    {
+      "english": "I'm learning so much from you.",
+      "norwegian": "Jeg lærer så mye av deg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157592"
+    },
+    {
+      "english": "Thank you for listening, friend.",
+      "norwegian": "Takk for at du lytter, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157593"
+    },
+    {
+      "english": "Your perspective is always insightful.",
+      "norwegian": "Ditt perspektiv er alltid innsiktsfullt.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157595"
+    },
+    {
+      "english": "It's brave to admit when wrong.",
+      "norwegian": "Det er modig å innrømme feil.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157596"
+    },
+    {
+      "english": "I feel safe opening up to you.",
+      "norwegian": "Jeg føler meg trygg med å åpne meg.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157597"
+    },
+    {
+      "english": "Our friendship helps me grow.",
+      "norwegian": "Vårt vennskap hjelper meg å vokse.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157599"
+    },
+    {
+      "english": "Tell me what's really on your mind.",
+      "norwegian": "Fortell meg hva som virkelig er på hjertet.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157600"
+    },
+    {
+      "english": "I appreciate your quiet support.",
+      "norwegian": "Jeg setter pris på din stille støtte.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157602"
+    },
+    {
+      "english": "Sometimes, silence speaks volumes.",
+      "norwegian": "Noen ganger, sier stillheten mye.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157604"
+    },
+    {
+      "english": "You offer comfort, like no other.",
+      "norwegian": "Du gir trøst, som ingen annen.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157606"
+    },
+    {
+      "english": "Let's reflect on our journey together.",
+      "norwegian": "La oss reflektere over vår reise sammen.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157608"
+    },
+    {
+      "english": "Your honesty is a gift, thank you.",
+      "norwegian": "Din ærlighet er en gave, takk.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157609"
+    },
+    {
+      "english": "We build each other up, always.",
+      "norwegian": "Vi bygger hverandre opp, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157611"
+    },
+    {
+      "english": "Your thoughtful words mean the world.",
+      "norwegian": "Dine tankefulle ord betyr verden.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157613"
+    },
+    {
+      "english": "I trust your intuition, friend.",
+      "norwegian": "Jeg stoler på din intuisjon, venn.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157614"
+    },
+    {
+      "english": "This friendship is deeply appreciated.",
+      "norwegian": "Dette vennskapet er dypt verdsatt.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157616"
+    },
+    {
+      "english": "Let's give each other grace.",
+      "norwegian": "La oss gi hverandre nåde.",
+      "category": "Friendship",
+      "generated_at": "2026-10-31T09:23:04.157617"
     }
   ],
-  "last_updated": "2026-10-30T09:43:56.292474"
+  "last_updated": "2026-10-31T09:23:04.157619"
 }
