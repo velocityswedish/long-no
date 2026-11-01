@@ -10079,7 +10079,727 @@
       "norwegian": "La oss gi hverandre nåde.",
       "category": "Friendship",
       "generated_at": "2026-10-31T09:23:04.157617"
+    },
+    {
+      "english": "Good morning, reception.",
+      "norwegian": "God morgen, resepsjonen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813882"
+    },
+    {
+      "english": "Do you have a room available?",
+      "norwegian": "Har dere et rom ledig?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813891"
+    },
+    {
+      "english": "I have a reservation.",
+      "norwegian": "Jeg har en reservasjon.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813892"
+    },
+    {
+      "english": "Can I see the room?",
+      "norwegian": "Kan jeg se rommet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813894"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "norwegian": "Dette er perfekt, takk.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813895"
+    },
+    {
+      "english": "Where is the elevator?",
+      "norwegian": "Hvor er heisen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813897"
+    },
+    {
+      "english": "What floor is it on?",
+      "norwegian": "Hvilken etasje er det?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813898"
+    },
+    {
+      "english": "Could I have an extra pillow?",
+      "norwegian": "Kunne jeg fått en ekstra pute?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813902"
+    },
+    {
+      "english": "Is breakfast included?",
+      "norwegian": "Er frokost inkludert?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813904"
+    },
+    {
+      "english": "What time is breakfast?",
+      "norwegian": "Når er frokost?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813906"
+    },
+    {
+      "english": "The Wi-Fi isn't working.",
+      "norwegian": "Wi-Fi-et fungerer ikke.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813908"
+    },
+    {
+      "english": "I need a taxi.",
+      "norwegian": "Jeg trenger en taxi.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813910"
+    },
+    {
+      "english": "Check-out time is noon.",
+      "norwegian": "Utsjekking er klokken tolv.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813911"
+    },
+    {
+      "english": "Can I leave my luggage?",
+      "norwegian": "Kan jeg la bagasjen stå?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813912"
+    },
+    {
+      "english": "This room is too cold.",
+      "norwegian": "Dette rommet er for kaldt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813914"
+    },
+    {
+      "english": "Can I have the key card?",
+      "norwegian": "Kan jeg få nøkkelkortet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813918"
+    },
+    {
+      "english": "Is there a gym here?",
+      "norwegian": "Finnes det et treningsrom her?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813919"
+    },
+    {
+      "english": "I'd like another towel.",
+      "norwegian": "Jeg vil gjerne ha et håndkle til.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813920"
+    },
+    {
+      "english": "What's the room number?",
+      "norwegian": "Hva er romnummeret?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813922"
+    },
+    {
+      "english": "The shower isn't working.",
+      "norwegian": "Dusjen fungerer ikke.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813923"
+    },
+    {
+      "english": "Can I have a receipt?",
+      "norwegian": "Kan jeg få en kvittering?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813925"
+    },
+    {
+      "english": "Is there parking available?",
+      "norwegian": "Er det parkering tilgjengelig?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813926"
+    },
+    {
+      "english": "This is a lovely hotel.",
+      "norwegian": "Dette er et flott hotell.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813927"
+    },
+    {
+      "english": "I need some help.",
+      "norwegian": "Jeg trenger litt hjelp.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813928"
+    },
+    {
+      "english": "Where can I find the map?",
+      "norwegian": "Hvor finner jeg kartet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813930"
+    },
+    {
+      "english": "My key card doesn't work.",
+      "norwegian": "Nøkkelkortet mitt virker ikke.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813931"
+    },
+    {
+      "english": "Enjoy your stay!",
+      "norwegian": "Kos dere!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813933"
+    },
+    {
+      "english": "Excuse me, could you help me?",
+      "norwegian": "Unnskyld, kan du hjelpe meg?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813934"
+    },
+    {
+      "english": "What time do we check out?",
+      "norwegian": "Hva tid sjekker vi ut?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813936"
+    },
+    {
+      "english": "Can I have the Wi-Fi password?",
+      "norwegian": "Kan jeg få Wi-Fi-passordet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813937"
+    },
+    {
+      "english": "Is there a restaurant nearby?",
+      "norwegian": "Finnes det en restaurant i nærheten?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813939"
+    },
+    {
+      "english": "Could I get an extra blanket?",
+      "norwegian": "Kunne jeg fått et ekstra teppe?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813940"
+    },
+    {
+      "english": "Where can I get breakfast?",
+      "norwegian": "Hvor kan jeg få frokost?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813942"
+    },
+    {
+      "english": "Is the pool open now?",
+      "norwegian": "Er bassenget åpent nå?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813943"
+    },
+    {
+      "english": "Do you have a map of the area?",
+      "norwegian": "Har dere et kart over området?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813945"
+    },
+    {
+      "english": "Could I have some more toilet paper?",
+      "norwegian": "Kunne jeg fått mer toalettpapir?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813947"
+    },
+    {
+      "english": "Is there a laundry service?",
+      "norwegian": "Tilbyr dere klesvask?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813949"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "norwegian": "Hvor er nærmeste minibank?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813951"
+    },
+    {
+      "english": "Can we get a late check-out?",
+      "norwegian": "Kan vi få utsjekking senere?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813952"
+    },
+    {
+      "english": "What are the reception hours?",
+      "norwegian": "Hva er resepsjonens åpningstider?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813954"
+    },
+    {
+      "english": "Is it possible to get a quieter room?",
+      "norwegian": "Er det mulig med et roligere rom?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813956"
+    },
+    {
+      "english": "Could you call a taxi for me?",
+      "norwegian": "Kan du bestille en taxi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813957"
+    },
+    {
+      "english": "Where can I charge my phone?",
+      "norwegian": "Hvor kan jeg lade telefonen min?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813959"
+    },
+    {
+      "english": "Is there an iron available?",
+      "norwegian": "Finnes det et strykejern?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813967"
+    },
+    {
+      "english": "Could you recommend a good restaurant?",
+      "norwegian": "Kan du anbefale en god restaurant?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813968"
+    },
+    {
+      "english": "Is room service an option?",
+      "norwegian": "Er romservice et alternativ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813970"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "norwegian": "Kan jeg få regningen, takk?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813971"
+    },
+    {
+      "english": "Where is the nearest grocery store?",
+      "norwegian": "Hvor er nærmeste matbutikk?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813974"
+    },
+    {
+      "english": "Is there a shuttle to the airport?",
+      "norwegian": "Går det skyttelbuss til flyplassen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813975"
+    },
+    {
+      "english": "Could you wake me up at seven?",
+      "norwegian": "Kan du vekke meg klokken syv?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813977"
+    },
+    {
+      "english": "What's the best way to see the city?",
+      "norwegian": "Hvordan ser vi byen best?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813978"
+    },
+    {
+      "english": "Are pets allowed in the hotel?",
+      "norwegian": "Er kjæledyr tillatt på hotellet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813980"
+    },
+    {
+      "english": "Can I get a room with a view?",
+      "norwegian": "Kan jeg få et rom med utsikt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813981"
+    },
+    {
+      "english": "Do you have any recommendations for tours?",
+      "norwegian": "Har dere anbefalinger for turer?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813983"
+    },
+    {
+      "english": "Is it easy to get around here?",
+      "norwegian": "Er det lett å komme seg rundt her?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813984"
+    },
+    {
+      "english": "You've got this, almost there!",
+      "norwegian": "Du klarer dette, nesten i mål!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813986"
+    },
+    {
+      "english": "You're making progress, nice!",
+      "norwegian": "Du gjør fremgang, bra!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813987"
+    },
+    {
+      "english": "Think positive, embrace the journey.",
+      "norwegian": "Tenk positivt, omfavn reisen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813989"
+    },
+    {
+      "english": "Believe in your ability.",
+      "norwegian": "Tro på din evne.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813990"
+    },
+    {
+      "english": "You're handling this perfectly.",
+      "norwegian": "Du håndterer dette perfekt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813992"
+    },
+    {
+      "english": "Never give up, it's worth it.",
+      "norwegian": "Aldri gi opp, det er verdt det.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813993"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "norwegian": "Din innsats settes stor pris på.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813995"
+    },
+    {
+      "english": "You've overcome challenges before.",
+      "norwegian": "Du har overvunnet utfordringer før.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813997"
+    },
+    {
+      "english": "You are doing so well.",
+      "norwegian": "Du gjør det så bra.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.813998"
+    },
+    {
+      "english": "You're a natural at this.",
+      "norwegian": "Du er et naturtalent her.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814000"
+    },
+    {
+      "english": "Excellent work, keep it up!",
+      "norwegian": "Utmerket arbeid, fortsett slik!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814002"
+    },
+    {
+      "english": "You make it look easy.",
+      "norwegian": "Du får det til å se lett ut.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814003"
+    },
+    {
+      "english": "You're approaching it wisely.",
+      "norwegian": "Du nærmer deg det klokt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814006"
+    },
+    {
+      "english": "That's a clever solution.",
+      "norwegian": "Det er en smart løsning.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814008"
+    },
+    {
+      "english": "You're learning so fast.",
+      "norwegian": "Du lærer utrolig fort.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814010"
+    },
+    {
+      "english": "Don't doubt yourself, you can.",
+      "norwegian": "Ikke tvil på deg selv, du kan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814011"
+    },
+    {
+      "english": "That took real skill.",
+      "norwegian": "Det krevde ekte ferdigheter.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814013"
+    },
+    {
+      "english": "You're adapting wonderfully.",
+      "norwegian": "Du tilpasser deg fantastisk.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814014"
+    },
+    {
+      "english": "Fantastic progress, keep it up!",
+      "norwegian": "Fantastisk fremgang, hold det gående!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814016"
+    },
+    {
+      "english": "You're handling the pressure well.",
+      "norwegian": "Du takler presset godt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814019"
+    },
+    {
+      "english": "This is achievable, just try.",
+      "norwegian": "Dette er oppnåelig, bare prøv.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814020"
+    },
+    {
+      "english": "You are a quick learner.",
+      "norwegian": "Du er en rask elev.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814021"
+    },
+    {
+      "english": "Stay motivated, you're almost there.",
+      "norwegian": "Hold deg motivert, du er snart fremme.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814025"
+    },
+    {
+      "english": "A room with a heart, please.",
+      "norwegian": "Et rom med sjel, takk.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814026"
+    },
+    {
+      "english": "This place feels like home.",
+      "norwegian": "Dette stedet, det er som hjemme.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814029"
+    },
+    {
+      "english": "Let's settle in, take it easy.",
+      "norwegian": "La oss lande, ta det med ro.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814031"
+    },
+    {
+      "english": "Are there any local gems nearby?",
+      "norwegian": "Finnes det noen lokale perler her?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814032"
+    },
+    {
+      "english": "This room has character.",
+      "norwegian": "Dette rommet, det har personlighet.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814033"
+    },
+    {
+      "english": "Is breakfast truly Norwegian?",
+      "norwegian": "Er frokosten, ekte norsk?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814035"
+    },
+    {
+      "english": "We'll sleep like bears in winter.",
+      "norwegian": "Vi sover som bjørner om vinteren.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814036"
+    },
+    {
+      "english": "Can we get a cozy corner?",
+      "norwegian": "Kan vi få en lun krok?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814038"
+    },
+    {
+      "english": "This view, it's postcard-worthy.",
+      "norwegian": "Denne utsikten, et postkortmotiv.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814040"
+    },
+    {
+      "english": "Feeling refreshed, like after a dip.",
+      "norwegian": "Føler meg opplagt, som etter et bad.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814041"
+    },
+    {
+      "english": "Is the Wi-Fi as fast as a reindeer?",
+      "norwegian": "Er Wi-Fi like raskt som et reinsdyr?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814043"
+    },
+    {
+      "english": "This hotel has good vibes.",
+      "norwegian": "Dette hotellet, det har god stemning.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814044"
+    },
+    {
+      "english": "Let's make ourselves comfortable.",
+      "norwegian": "La oss gjøre oss hjemme.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814045"
+    },
+    {
+      "english": "Is there a good spot for coffee?",
+      "norwegian": "Finnes det en god kaffekrok?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814047"
+    },
+    {
+      "english": "This bed is heaven-sent.",
+      "norwegian": "Denne sengen, den er himmelsk.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814048"
+    },
+    {
+      "english": "We're here for the long haul.",
+      "norwegian": "Vi blir her en stund.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814050"
+    },
+    {
+      "english": "A quiet escape, that's the goal.",
+      "norwegian": "En rolig flukt, det er målet.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814053"
+    },
+    {
+      "english": "Does this place have local charm?",
+      "norwegian": "Har stedet lokal sjarm?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814054"
+    },
+    {
+      "english": "This is a real hideaway.",
+      "norwegian": "Dette er et ekte skjulested.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814055"
+    },
+    {
+      "english": "Let's unpack, settle down.",
+      "norwegian": "La oss pakke ut, finne ro.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814057"
+    },
+    {
+      "english": "Is there a view worth waking for?",
+      "norwegian": "Er det utsikt verdt å stå opp for?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814058"
+    },
+    {
+      "english": "This room is just right.",
+      "norwegian": "Dette rommet, det er midt i blinken.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814060"
+    },
+    {
+      "english": "We're aiming for pure relaxation.",
+      "norwegian": "Vi sikter på ren avslapning.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814061"
+    },
+    {
+      "english": "Can we hear the local buzz?",
+      "norwegian": "Kan vi høre det lokale livet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814062"
+    },
+    {
+      "english": "This place feels authentic.",
+      "norwegian": "Dette stedet, det føles ekte.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814064"
+    },
+    {
+      "english": "Let's rest our weary bones.",
+      "norwegian": "La oss hvile våre slitne bein.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814065"
+    },
+    {
+      "english": "Is there a spot with a story?",
+      "norwegian": "Finnes det et sted med en historie?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814067"
+    },
+    {
+      "english": "This is a peaceful haven.",
+      "norwegian": "Dette er en fredelig oase.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814068"
+    },
+    {
+      "english": "We'll take our time here.",
+      "norwegian": "Vi tar oss god tid her.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814070"
+    },
+    {
+      "english": "A room that sparks joy.",
+      "norwegian": "Et rom som gir glede.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814071"
+    },
+    {
+      "english": "Check out is at eleven, remember.",
+      "norwegian": "Utsjekk er klokken elleve, husk det.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814073"
+    },
+    {
+      "english": "Where can I get a towel?",
+      "norwegian": "Hvor får jeg tak i et håndkle?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814075"
+    },
+    {
+      "english": "Is the minibar free, or charged?",
+      "norwegian": "Er minibaren gratis, eller koster den?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814078"
+    },
+    {
+      "english": "The heating is a bit weak.",
+      "norwegian": "Varmen er litt svak.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814079"
+    },
+    {
+      "english": "We need an extra pillow.",
+      "norwegian": "Vi trenger en ekstra pute.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814080"
+    },
+    {
+      "english": "Is there a hairdryer in the bathroom?",
+      "norwegian": "Finnes det en hårføner på badet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814082"
+    },
+    {
+      "english": "The drain is clogged, unfortunately.",
+      "norwegian": "Sluket er tett, dessverre.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814083"
+    },
+    {
+      "english": "Can we get extra blankets, please?",
+      "norwegian": "Kan vi få ekstra tepper, vær så snill?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814085"
+    },
+    {
+      "english": "The safe isn't working correctly.",
+      "norwegian": "Boksen fungerer ikke riktig.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814086"
+    },
+    {
+      "english": "Is there late check-out available?",
+      "norwegian": "Er sen utsjekk mulig?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814088"
+    },
+    {
+      "english": "The key card isn't opening the door.",
+      "norwegian": "Nøkkelkortet åpner ikke døren.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814089"
+    },
+    {
+      "english": "We need more toilet paper.",
+      "norwegian": "Vi trenger mer toalettpapir.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T10:12:13.814091"
     }
   ],
-  "last_updated": "2026-10-31T09:23:04.157619"
+  "last_updated": "2026-11-01T10:12:13.814092"
 }
