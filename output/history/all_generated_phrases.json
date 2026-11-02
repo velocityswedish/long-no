@@ -10799,7 +10799,727 @@
       "norwegian": "Vi trenger mer toalettpapir.",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-01T10:12:13.814091"
+    },
+    {
+      "english": "Yes, I agree, completely.",
+      "norwegian": "Ja, jeg er enig, helt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341959"
+    },
+    {
+      "english": "That's true, of course.",
+      "norwegian": "Det er sant, selvfølgelig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341972"
+    },
+    {
+      "english": "I think so too.",
+      "norwegian": "Det tror jeg også.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341975"
+    },
+    {
+      "english": "Exactly my point.",
+      "norwegian": "Akkurat det jeg mener.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341977"
+    },
+    {
+      "english": "I see your point.",
+      "norwegian": "Jeg forstår hva du mener.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341980"
+    },
+    {
+      "english": "Good thinking.",
+      "norwegian": "God tanke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341982"
+    },
+    {
+      "english": "I can go with that.",
+      "norwegian": "Det kan jeg være med på.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341984"
+    },
+    {
+      "english": "Fair enough.",
+      "norwegian": "Helt greit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341988"
+    },
+    {
+      "english": "You're right about that.",
+      "norwegian": "Det har du rett i.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341991"
+    },
+    {
+      "english": "No doubt about it.",
+      "norwegian": "Ingen tvil om det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341993"
+    },
+    {
+      "english": "I disagree, actually.",
+      "norwegian": "Jeg er uenig, faktisk.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341995"
+    },
+    {
+      "english": "I don't think so.",
+      "norwegian": "Det tror jeg ikke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341997"
+    },
+    {
+      "english": "Not really.",
+      "norwegian": "Nei, ikke egentlig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.341999"
+    },
+    {
+      "english": "I'm not so sure.",
+      "norwegian": "Jeg er ikke så sikker.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342001"
+    },
+    {
+      "english": "That's not quite right.",
+      "norwegian": "Det er ikke helt riktig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342003"
+    },
+    {
+      "english": "I have a different opinion.",
+      "norwegian": "Jeg har en annen mening.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342005"
+    },
+    {
+      "english": "I see it differently.",
+      "norwegian": "Jeg ser det annerledes.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342007"
+    },
+    {
+      "english": "On the contrary.",
+      "norwegian": "Tvert imot.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342009"
+    },
+    {
+      "english": "I beg to differ.",
+      "norwegian": "Jeg må nok være uenig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342010"
+    },
+    {
+      "english": "That's debatable.",
+      "norwegian": "Det er diskutabelt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342012"
+    },
+    {
+      "english": "I'm not convinced.",
+      "norwegian": "Jeg er ikke overbevist.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342014"
+    },
+    {
+      "english": "We'll have to agree to disagree.",
+      "norwegian": "Vi må nok være enige om å være uenige.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342016"
+    },
+    {
+      "english": "That's one way to look at it.",
+      "norwegian": "Det er én måte å se det på.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342019"
+    },
+    {
+      "english": "I understand your point, but...",
+      "norwegian": "Jeg forstår poenget ditt, men...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342023"
+    },
+    {
+      "english": "Maybe, but consider this.",
+      "norwegian": "Kanskje, men tenk på dette.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342025"
+    },
+    {
+      "english": "I'm not sure I follow.",
+      "norwegian": "Jeg er ikke sikker på at jeg forstår.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342027"
+    },
+    {
+      "english": "That's a bold statement.",
+      "norwegian": "Det er en sterk påstand.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342029"
+    },
+    {
+      "english": "I respectfully disagree.",
+      "norwegian": "Jeg er respektfullt uenig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342031"
+    },
+    {
+      "english": "We'll see about that.",
+      "norwegian": "Det får vi se på.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342035"
+    },
+    {
+      "english": "That's a good point.",
+      "norwegian": "Det er et godt poeng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342037"
+    },
+    {
+      "english": "Does that sound okay to you?",
+      "norwegian": "Høres det greit ut for deg?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342039"
+    },
+    {
+      "english": "Can you see my perspective?",
+      "norwegian": "Ser du mitt perspektiv?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342042"
+    },
+    {
+      "english": "Is there another way to look?",
+      "norwegian": "Er det en annen måte å se?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342046"
+    },
+    {
+      "english": "Could you explain that again?",
+      "norwegian": "Kan du forklare det igjen?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342048"
+    },
+    {
+      "english": "Am I understanding you correctly?",
+      "norwegian": "Forstår jeg deg riktig?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342050"
+    },
+    {
+      "english": "Do you agree with that part?",
+      "norwegian": "Er du enig i den delen?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342053"
+    },
+    {
+      "english": "Are you on board with this plan?",
+      "norwegian": "Er du med på denne planen?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342055"
+    },
+    {
+      "english": "How would you approach this?",
+      "norwegian": "Hvordan ville du løst dette?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342057"
+    },
+    {
+      "english": "Does that make sense to you?",
+      "norwegian": "Gir det mening for deg?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342059"
+    },
+    {
+      "english": "Could we discuss this further?",
+      "norwegian": "Kan vi diskutere dette mer?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342061"
+    },
+    {
+      "english": "What's your honest opinion?",
+      "norwegian": "Hva er din ærlige mening?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342063"
+    },
+    {
+      "english": "Did I capture that right?",
+      "norwegian": "Fikk jeg med meg det riktig?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342065"
+    },
+    {
+      "english": "Is there anything I missed?",
+      "norwegian": "Er det noe jeg glemte?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342067"
+    },
+    {
+      "english": "What's your reservation here?",
+      "norwegian": "Hva er din reservasjon her?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342069"
+    },
+    {
+      "english": "Can you elaborate on that?",
+      "norwegian": "Kan du utdype det?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342071"
+    },
+    {
+      "english": "How do you see this playing out?",
+      "norwegian": "Hvordan ser du dette utspille seg?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342073"
+    },
+    {
+      "english": "Is that your final word?",
+      "norwegian": "Er det ditt endelige ord?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342075"
+    },
+    {
+      "english": "Can we find common ground?",
+      "norwegian": "Kan vi finne felles grunn?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342077"
+    },
+    {
+      "english": "What's your counter-argument?",
+      "norwegian": "Hva er ditt motargument?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342080"
+    },
+    {
+      "english": "Could you rephrase that, please?",
+      "norwegian": "Kan du omformulere det, vær så snill?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342084"
+    },
+    {
+      "english": "What's your initial reaction?",
+      "norwegian": "Hva er din umiddelbare reaksjon?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342086"
+    },
+    {
+      "english": "Do you stand by that?",
+      "norwegian": "Står du ved det?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342088"
+    },
+    {
+      "english": "Is there room for compromise?",
+      "norwegian": "Er det rom for kompromiss?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342090"
+    },
+    {
+      "english": "What if we consider alternatives?",
+      "norwegian": "Hva om vi vurderer alternativer?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342092"
+    },
+    {
+      "english": "Can you confirm that for me?",
+      "norwegian": "Kan du bekrefte det for meg?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342094"
+    },
+    {
+      "english": "That's a brilliant thought!",
+      "norwegian": "Det er en glimrende tanke!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342096"
+    },
+    {
+      "english": "You've nailed it!",
+      "norwegian": "Du har truffet spikeren på hodet!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342099"
+    },
+    {
+      "english": "Exactly my feeling!",
+      "norwegian": "Akkurat min følelse!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342101"
+    },
+    {
+      "english": "I'm with you on that.",
+      "norwegian": "Jeg er med deg på den.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342104"
+    },
+    {
+      "english": "Spot on!",
+      "norwegian": "Helt spot on!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342106"
+    },
+    {
+      "english": "You read my mind!",
+      "norwegian": "Du leste tankene mine!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342108"
+    },
+    {
+      "english": "Absolutely, yes!",
+      "norwegian": "Absolutt, ja!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342110"
+    },
+    {
+      "english": "Couldn't have said it better.",
+      "norwegian": "Kunne ikke sagt det bedre.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342112"
+    },
+    {
+      "english": "That's the way to think!",
+      "norwegian": "Slik skal man tenke!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342115"
+    },
+    {
+      "english": "You've convinced me.",
+      "norwegian": "Du har overbevist meg.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342119"
+    },
+    {
+      "english": "I like your optimism!",
+      "norwegian": "Jeg liker optimismen din!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342121"
+    },
+    {
+      "english": "That's a fantastic outlook.",
+      "norwegian": "Det er et fantastisk syn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342123"
+    },
+    {
+      "english": "Great progress!",
+      "norwegian": "Store fremskritt!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342125"
+    },
+    {
+      "english": "That's so true!",
+      "norwegian": "Det er så sant!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342127"
+    },
+    {
+      "english": "You're totally right.",
+      "norwegian": "Du har helt rett.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342129"
+    },
+    {
+      "english": "I fully agree.",
+      "norwegian": "Jeg er helt enig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342131"
+    },
+    {
+      "english": "That's a wise perspective.",
+      "norwegian": "Det er et klokt perspektiv.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342133"
+    },
+    {
+      "english": "Solid reasoning!",
+      "norwegian": "Solid resonnement!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342135"
+    },
+    {
+      "english": "I'm on your side.",
+      "norwegian": "Jeg er på din side.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342137"
+    },
+    {
+      "english": "Well said!",
+      "norwegian": "Bra sagt!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342139"
+    },
+    {
+      "english": "That's incredibly insightful.",
+      "norwegian": "Det er utrolig innsiktsfullt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342141"
+    },
+    {
+      "english": "That's the perfect approach.",
+      "norwegian": "Det er den perfekte tilnærmingen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342143"
+    },
+    {
+      "english": "That's a winner!",
+      "norwegian": "Det er en vinner!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342145"
+    },
+    {
+      "english": "You're absolutely right.",
+      "norwegian": "Du har absolutt rett.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342147"
+    },
+    {
+      "english": "That's a fantastic point.",
+      "norwegian": "Det er et fantastisk poeng.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342149"
+    },
+    {
+      "english": "I can totally get behind that.",
+      "norwegian": "Jeg kan helt støtte det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342153"
+    },
+    {
+      "english": "I understand your point, truly.",
+      "norwegian": "Jeg forstår poenget ditt, virkelig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342155"
+    },
+    {
+      "english": "That resonates deeply with me.",
+      "norwegian": "Det klinger dypt i meg.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342157"
+    },
+    {
+      "english": "My gut feeling agrees.",
+      "norwegian": "Magefølelsen min er enig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342161"
+    },
+    {
+      "english": "I feel the same way, honestly.",
+      "norwegian": "Jeg føler det samme, ærlig talt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342163"
+    },
+    {
+      "english": "That hits home for me.",
+      "norwegian": "Det treffer meg.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342165"
+    },
+    {
+      "english": "I'm sensing your perspective.",
+      "norwegian": "Jeg aner perspektivet ditt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342168"
+    },
+    {
+      "english": "That requires some thought.",
+      "norwegian": "Det krever litt tanke.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342170"
+    },
+    {
+      "english": "I'm pondering your words.",
+      "norwegian": "Jeg funderer på ordene dine.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342172"
+    },
+    {
+      "english": "I need a moment to process.",
+      "norwegian": "Jeg trenger et øyeblikk til å fordøye.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342174"
+    },
+    {
+      "english": "There's truth in what you say.",
+      "norwegian": "Det er sannhet i det du sier.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342176"
+    },
+    {
+      "english": "I'm hesitant about that.",
+      "norwegian": "Jeg er nølende til det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342178"
+    },
+    {
+      "english": "I have some reservations.",
+      "norwegian": "Jeg har noen forbehold.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342180"
+    },
+    {
+      "english": "I'm struggling to see that.",
+      "norwegian": "Jeg sliter med å se det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342182"
+    },
+    {
+      "english": "That feels a bit off.",
+      "norwegian": "Det føles litt feil.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342184"
+    },
+    {
+      "english": "I don't quite agree.",
+      "norwegian": "Jeg er ikke helt enig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342186"
+    },
+    {
+      "english": "My inner voice says no.",
+      "norwegian": "Min indre stem sier nei.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342190"
+    },
+    {
+      "english": "I'm finding it hard to accept.",
+      "norwegian": "Jeg synes det er vanskelig å akseptere.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342192"
+    },
+    {
+      "english": "I need more information.",
+      "norwegian": "Jeg trenger mer informasjon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342194"
+    },
+    {
+      "english": "This requires careful consideration.",
+      "norwegian": "Dette krever nøye vurdering.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342196"
+    },
+    {
+      "english": "I'm not sure about this.",
+      "norwegian": "Jeg er ikke sikker på dette.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342198"
+    },
+    {
+      "english": "My feeling is different.",
+      "norwegian": "Min følelse er annerledes.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342200"
+    },
+    {
+      "english": "I'm leaning towards disagreement.",
+      "norwegian": "Jeg heller mot uenighet.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342202"
+    },
+    {
+      "english": "That doesn't sit right with me.",
+      "norwegian": "Det stemmer ikke for meg.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342204"
+    },
+    {
+      "english": "I need time to reflect.",
+      "norwegian": "Jeg trenger tid til å reflektere.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342206"
+    },
+    {
+      "english": "I'm thinking it over.",
+      "norwegian": "Jeg tenker på det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342208"
+    },
+    {
+      "english": "I don't share that belief.",
+      "norwegian": "Jeg deler ikke den troen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342212"
+    },
+    {
+      "english": "I have my doubts.",
+      "norwegian": "Jeg har mine tvil.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342214"
+    },
+    {
+      "english": "This makes me uneasy.",
+      "norwegian": "Dette gjør meg urolig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342216"
+    },
+    {
+      "english": "I need to be sure.",
+      "norwegian": "Jeg må være sikker.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342217"
+    },
+    {
+      "english": "Sounds about right, yeah.",
+      "norwegian": "Det høres rimelig ut, ja.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342220"
+    },
+    {
+      "english": "I'd do the same, for sure.",
+      "norwegian": "Jeg ville gjort det samme, absolutt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342222"
+    },
+    {
+      "english": "Makes perfect sense, really.",
+      "norwegian": "Det gir fullstendig mening, virkelig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342224"
+    },
+    {
+      "english": "That's exactly how I see it.",
+      "norwegian": "Det er akkurat slik jeg ser det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342226"
+    },
+    {
+      "english": "Totally agree with that plan.",
+      "norwegian": "Helt enig i den planen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342229"
+    },
+    {
+      "english": "Could not have said it better.",
+      "norwegian": "Kunne ikke sagt det bedre.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342231"
+    },
+    {
+      "english": "Yep, that tracks, for sure.",
+      "norwegian": "Jepp, det stemmer, helt klart.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342233"
+    },
+    {
+      "english": "That's the ticket, I think.",
+      "norwegian": "Det er midt i blinken, tror jeg.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342235"
+    },
+    {
+      "english": "I can see that working out.",
+      "norwegian": "Jeg kan se det fungere.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342237"
+    },
+    {
+      "english": "Fair point, I guess.",
+      "norwegian": "Rettferdig poeng, antar jeg.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-02T10:43:08.342240"
     }
   ],
-  "last_updated": "2026-11-01T10:12:13.814092"
+  "last_updated": "2026-11-02T10:43:08.342241"
 }
