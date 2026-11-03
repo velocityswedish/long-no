@@ -11519,7 +11519,727 @@
       "norwegian": "Rettferdig poeng, antar jeg.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-02T10:43:08.342240"
+    },
+    {
+      "english": "Let’s meet, where’s easy for you?",
+      "norwegian": "La oss møtes, hvor er det lett for deg?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.528981"
+    },
+    {
+      "english": "I’m free later, want to grab coffee?",
+      "norwegian": "Jeg er ledig senere, vil du ta en kaffe?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.528994"
+    },
+    {
+      "english": "Quick question, what time works best?",
+      "norwegian": "Helt kort, hvilket tidspunkt passer best?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.528998"
+    },
+    {
+      "english": "If you’re up for it, I’ll plan.",
+      "norwegian": "Hvis du er med på det, planlegger jeg.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529001"
+    },
+    {
+      "english": "I can do tomorrow, are you around?",
+      "norwegian": "Jeg kan i morgen, er du hjemme?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529002"
+    },
+    {
+      "english": "No stress, we can figure it out.",
+      "norwegian": "Ingen stress, vi kan ordne det.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529004"
+    },
+    {
+      "english": "Let’s keep it simple, meet near the station.",
+      "norwegian": "La oss gjøre det enkelt, møtes ved stasjonen.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529007"
+    },
+    {
+      "english": "That sounds good, what day exactly?",
+      "norwegian": "Det høres bra ut, hvilken dag da?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529011"
+    },
+    {
+      "english": "I’m thinking tonight, are you free?",
+      "norwegian": "Jeg tenker i kveld, har du tid?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529014"
+    },
+    {
+      "english": "Want to do a quick walk instead?",
+      "norwegian": "Vil du ta en rask gåtur i stedet?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529015"
+    },
+    {
+      "english": "We’ll make it work, just pick a time.",
+      "norwegian": "Vi får det til, bare velg et tidspunkt.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529020"
+    },
+    {
+      "english": "Sorry, I missed you, what now?",
+      "norwegian": "Beklager, jeg gikk glipp av deg, hva nå?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529022"
+    },
+    {
+      "english": "Come on, let’s go, are you ready?",
+      "norwegian": "Kom igjen, da går vi, er du klar?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529024"
+    },
+    {
+      "english": "I’ll be there, about five minutes late.",
+      "norwegian": "Jeg er der, jeg er litt forsinket.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529026"
+    },
+    {
+      "english": "Does that place work for you?",
+      "norwegian": "Fungerer det stedet for deg?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529028"
+    },
+    {
+      "english": "Let’s plan it, what’s your schedule like?",
+      "norwegian": "La oss planlegge, hvordan ser timeplanen din ut?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529030"
+    },
+    {
+      "english": "I can swing by, when suits you?",
+      "norwegian": "Jeg kan stikke innom, når passer det?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529032"
+    },
+    {
+      "english": "Maybe later, text me your idea.",
+      "norwegian": "Kanskje senere, send meg tanken din.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529035"
+    },
+    {
+      "english": "No big deal, we can reschedule.",
+      "norwegian": "Det er ikke krise, vi tar det igjen.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529036"
+    },
+    {
+      "english": "Let’s meet at seven sharp, deal?",
+      "norwegian": "Vi møtes klokka sju presis, går det?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529038"
+    },
+    {
+      "english": "If not, we can do another day.",
+      "norwegian": "Hvis ikke, kan vi ta en annen dag.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529040"
+    },
+    {
+      "english": "Sounds fun, what should we bring?",
+      "norwegian": "Det høres gøy ut, hva tar vi med?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529042"
+    },
+    {
+      "english": "I’m on my way, see you soon!",
+      "norwegian": "Jeg er på vei, vi sees snart!",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529044"
+    },
+    {
+      "english": "We’ll decide fast, you’re good with that?",
+      "norwegian": "Vi tar det kjapt, er du med på det?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529046"
+    },
+    {
+      "english": "Quick update, I changed my plans.",
+      "norwegian": "Hurtig oppdatering, jeg endret planene.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529047"
+    },
+    {
+      "english": "All right then, where do we start?",
+      "norwegian": "Ok da, hvor begynner vi?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529049"
+    },
+    {
+      "english": "I thought we could, is that okay?",
+      "norwegian": "Jeg tenkte vi kunne, går det bra?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529051"
+    },
+    {
+      "english": "What’s the vibe, chill or active?",
+      "norwegian": "Hva er planen, rolig eller i full fart?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529053"
+    },
+    {
+      "english": "If we’re late, we’ll message you.",
+      "norwegian": "Hvis vi blir sene, sender vi en melding.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529055"
+    },
+    {
+      "english": "Great, I’ll book it, you’re in!",
+      "norwegian": "Supert, jeg bestiller, du er med!",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529057"
+    },
+    {
+      "english": "Hey, what are you doing this weekend?",
+      "norwegian": "Hei, hva gjør du i helga?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529059"
+    },
+    {
+      "english": "Do you feel like grabbing food, tonight?",
+      "norwegian": "Har du lyst på noe å spise i kveld?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529061"
+    },
+    {
+      "english": "Where would you like to go, romantic?",
+      "norwegian": "Hvor vil du dra, litt romantisk?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529063"
+    },
+    {
+      "english": "What time works best for you, babe?",
+      "norwegian": "Når passer det best for deg, kjære?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529065"
+    },
+    {
+      "english": "Want my opinion, or your plan first?",
+      "norwegian": "Skal jeg si hva jeg tenker, eller først din plan?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529067"
+    },
+    {
+      "english": "Should we book something, just to be safe?",
+      "norwegian": "Bør vi bestille noe, bare for å være safe?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529069"
+    },
+    {
+      "english": "Do you prefer city vibes, or nature?",
+      "norwegian": "Foretrekker du byliv, eller natur?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529070"
+    },
+    {
+      "english": "How about drinks first, then we decide?",
+      "norwegian": "Hva med en drink først, så bestemmer vi?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529072"
+    },
+    {
+      "english": "Are you okay with something low-key?",
+      "norwegian": "Er det greit med noe rolig og enkelt?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529074"
+    },
+    {
+      "english": "What’s the dress code, casual or sharp?",
+      "norwegian": "Hva er dresskoden, casual eller litt mer classy?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529076"
+    },
+    {
+      "english": "Can I call you, after work sometime?",
+      "norwegian": "Kan jeg ringe deg etter jobb, en gang?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529078"
+    },
+    {
+      "english": "Which place do you trust most, restaurants?",
+      "norwegian": "Hvilket sted stoler du mest på, da?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529080"
+    },
+    {
+      "english": "Do you want a table, or quick takeout?",
+      "norwegian": "Vil du ha bord, eller rask take-away?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529082"
+    },
+    {
+      "english": "Should we try that new spot together?",
+      "norwegian": "Skal vi teste det nye stedet sammen?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529083"
+    },
+    {
+      "english": "What do you think, coffee or something else?",
+      "norwegian": "Hva sier du, kaffe eller noe annet?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529085"
+    },
+    {
+      "english": "If I suggest time, are you in?",
+      "norwegian": "Hvis jeg foreslår et tidspunkt, er du med?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529089"
+    },
+    {
+      "english": "Can you handle a small detour, maybe?",
+      "norwegian": "Tåler du en liten omvei, kanskje?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529091"
+    },
+    {
+      "english": "Do you want me to plan the details?",
+      "norwegian": "Vil du at jeg ordner detaljene?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529093"
+    },
+    {
+      "english": "Where do you usually meet, downtown?",
+      "norwegian": "Hvor pleier du å møtes, midt i sentrum?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529096"
+    },
+    {
+      "english": "What’s your vibe today, slow or spontaneous?",
+      "norwegian": "Hvordan er humøret ditt i dag, rolig eller spontant?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529098"
+    },
+    {
+      "english": "Want to plan something, just the two of us?",
+      "norwegian": "Vil vi finne på noe, bare oss to?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529100"
+    },
+    {
+      "english": "Would you rather do dinner, or a movie?",
+      "norwegian": "Vil du heller spise middag, eller ta en film?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529102"
+    },
+    {
+      "english": "Should I bring anything, snacks maybe?",
+      "norwegian": "Skal jeg ta med noe, snacks kanskje?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529104"
+    },
+    {
+      "english": "Can we start earlier, if you’re up for it?",
+      "norwegian": "Kan vi starte tidligere, hvis du er med på det?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529106"
+    },
+    {
+      "english": "What’s your limit for walking, be honest?",
+      "norwegian": "Hva er din grense for å gå, vær ærlig?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529108"
+    },
+    {
+      "english": "How do you feel about a sunset spot?",
+      "norwegian": "Hva synes du om et solnedgang-sted?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529110"
+    },
+    {
+      "english": "Do you want to invite a friend too?",
+      "norwegian": "Vil du invitere en venn også?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529112"
+    },
+    {
+      "english": "Can I text you the plan, keep it simple?",
+      "norwegian": "Kan jeg sende deg planen på SMS, enkelt bare?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529114"
+    },
+    {
+      "english": "What do you prefer, weekdays or weekends?",
+      "norwegian": "Hva foretrekker du, ukedager eller helger?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529115"
+    },
+    {
+      "english": "Let’s keep it simple, we’ll figure details fast.",
+      "norwegian": "Vi tar det enkelt, vi fikser detaljene raskt.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529118"
+    },
+    {
+      "english": "You’ve got this, just pick a starting point.",
+      "norwegian": "Du får det til, bare velg et startpunkt.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529121"
+    },
+    {
+      "english": "Nice, your idea actually sounds doable.",
+      "norwegian": "Skikkelig bra, forslaget ditt høres faktisk gjennomførbart ut.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529123"
+    },
+    {
+      "english": "Breathe, relax, we’re planning, not performing.",
+      "norwegian": "Pust rolig, slapp av, vi planlegger, ikke presterer.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529125"
+    },
+    {
+      "english": "Say yes to small steps, one plan at a time.",
+      "norwegian": "Si ja til små steg, én plan om gangen.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529127"
+    },
+    {
+      "english": "Even if plans wobble, we’ll still make it work.",
+      "norwegian": "Selv om planene vakler, får vi det til likevel.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529130"
+    },
+    {
+      "english": "Give yourself credit, you’re doing better than before.",
+      "norwegian": "Gi deg selv kreditt, du er bedre enn før.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529132"
+    },
+    {
+      "english": "Confidence looks good on you, go for it.",
+      "norwegian": "Selvtillit kler deg, kjør på.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529136"
+    },
+    {
+      "english": "No stress, we can adjust as we go.",
+      "norwegian": "Ingen stress, vi kan justere underveis.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529137"
+    },
+    {
+      "english": "If it’s a maybe, we still try tomorrow.",
+      "norwegian": "Hvis det er et kanskje, så prøver vi i morgen.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529140"
+    },
+    {
+      "english": "I’m proud of you, planning takes courage.",
+      "norwegian": "Jeg er stolt av deg, planlegging krever mot.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529142"
+    },
+    {
+      "english": "We don’t need perfection, we need progress.",
+      "norwegian": "Vi trenger ikke perfeksjon, vi trenger framgang.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529144"
+    },
+    {
+      "english": "Good news, your timing doesn’t have to be perfect.",
+      "norwegian": "Godt nytt, timingen din må ikke være perfekt.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529152"
+    },
+    {
+      "english": "Keep the vibe light, we’re here for fun.",
+      "norwegian": "Hold det lett, vi er her for gøy.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529154"
+    },
+    {
+      "english": "Great, let’s lock one thing and breathe.",
+      "norwegian": "Supert, vi låser én ting, og puster rolig.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529156"
+    },
+    {
+      "english": "When in doubt, choose the easiest plan first.",
+      "norwegian": "Når du er i tvil, velg den enkleste planen først.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529158"
+    },
+    {
+      "english": "You don’t have to do it all, just start.",
+      "norwegian": "Du må ikke gjøre alt, bare begynn.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529161"
+    },
+    {
+      "english": "Honestly, this is already going great.",
+      "norwegian": "Ærlig talt, dette går allerede kjempebra.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529163"
+    },
+    {
+      "english": "Let’s make it happen, no endless overthinking.",
+      "norwegian": "La oss få det til, ingen evig overtenking.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529165"
+    },
+    {
+      "english": "You bring the ideas, I’ll handle the logistics.",
+      "norwegian": "Du bringer idéene, jeg tar logistikken.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529167"
+    },
+    {
+      "english": "It’s okay to change it, plans are flexible.",
+      "norwegian": "Det er helt greit å endre, planer kan flyttes.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529169"
+    },
+    {
+      "english": "Small win, we’re organizing, not panicking.",
+      "norwegian": "Liten seier, vi organiserer, ikke panikker.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529173"
+    },
+    {
+      "english": "You’re getting the hang of this, trust me.",
+      "norwegian": "Du er i ferd med å få det til, stol på meg.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529175"
+    },
+    {
+      "english": "Pick a time, then we celebrate the plan.",
+      "norwegian": "Velg et tidspunkt, så feirer vi planene.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529177"
+    },
+    {
+      "english": "Let’s be brave, ask anyway, worst case—no.",
+      "norwegian": "La oss være modige, spør uansett, verst fall—nei.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529180"
+    },
+    {
+      "english": "We’ll keep it upbeat, even if it’s messy.",
+      "norwegian": "Vi holder det positivt, selv om det blir rotete.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529182"
+    },
+    {
+      "english": "Your effort matters, plans don’t appear by magic.",
+      "norwegian": "Innsatsen din betyr noe, planer dukker ikke opp av seg selv.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529184"
+    },
+    {
+      "english": "All right, we’ll do a quick check-in and go.",
+      "norwegian": "Ok da, vi tar en kjapp sjekk-in og kjører.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529187"
+    },
+    {
+      "english": "I love this energy, let’s lock it in today.",
+      "norwegian": "Jeg digger denne energien, vi låser det i dag.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529189"
+    },
+    {
+      "english": "No pressure, you can say what feels right.",
+      "norwegian": "Ingen press, si hva som føles riktig.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529190"
+    },
+    {
+      "english": "Honestly, I’m nervous, but I want us to try.",
+      "norwegian": "Ærlig talt, jeg er litt nervøs, men jeg vil prøve.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529193"
+    },
+    {
+      "english": "Let’s pause, breathe, then choose what feels right.",
+      "norwegian": "La oss ta en pause, puste, og velge det rette.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529195"
+    },
+    {
+      "english": "I’m good with slow planning, no rush.",
+      "norwegian": "Jeg er helt ok med rolig planlegging, ingen hast.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529197"
+    },
+    {
+      "english": "I need clarity first, then we move.",
+      "norwegian": "Jeg trenger klarhet først, så går vi videre.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529199"
+    },
+    {
+      "english": "If something feels off, we change it.",
+      "norwegian": "Hvis noe føles feil, så bytter vi det ut.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529201"
+    },
+    {
+      "english": "I want space to think, then decide.",
+      "norwegian": "Jeg trenger litt rom til å tenke, så bestemmer vi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529203"
+    },
+    {
+      "english": "I’m trying to be honest about my limits.",
+      "norwegian": "Jeg prøver å være ærlig om grensene mine.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529205"
+    },
+    {
+      "english": "We can keep it real, no pretending.",
+      "norwegian": "Vi kan holde det ekte, uten å late som.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529209"
+    },
+    {
+      "english": "I’m not overthinking, I’m just reflecting.",
+      "norwegian": "Jeg overtenker ikke, jeg bare reflekterer.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529212"
+    },
+    {
+      "english": "Honestly, I’d rather plan lightly today.",
+      "norwegian": "Ærlig talt, jeg vil heller planlegge litt i dag.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529214"
+    },
+    {
+      "english": "I want to feel calm, not rushed.",
+      "norwegian": "Jeg vil føle meg rolig, ikke stresset.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529216"
+    },
+    {
+      "english": "Let’s check in, what are you actually feeling?",
+      "norwegian": "La oss sjekke inn, hva føler du egentlig?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529218"
+    },
+    {
+      "english": "I respect your pace, we don’t have to hurry.",
+      "norwegian": "Jeg respekterer tempoet ditt, vi trenger ikke haste.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529220"
+    },
+    {
+      "english": "Some days I’m low-energy, so simple wins.",
+      "norwegian": "Noen dager er jeg lavenergi, så enkelt vinner.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529223"
+    },
+    {
+      "english": "If you’re unsure, say it, we’ll figure it out.",
+      "norwegian": "Hvis du er usikker, si det, så finner vi det ut.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529225"
+    },
+    {
+      "english": "I’m feeling better, can we make a plan?",
+      "norwegian": "Jeg føler meg bedre, kan vi lage en plan?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529227"
+    },
+    {
+      "english": "It’s okay to want comfort, not big gestures.",
+      "norwegian": "Det er greit å ville ha trygghet, ikke store gester.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529230"
+    },
+    {
+      "english": "Let’s keep the mood gentle, no pressure.",
+      "norwegian": "La oss holde stemningen myk, ingen press.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529232"
+    },
+    {
+      "english": "I don’t need perfection, I need honesty.",
+      "norwegian": "Jeg trenger ikke perfeksjon, jeg trenger ærlighet.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529234"
+    },
+    {
+      "english": "Sometimes plans scare me, but we can still go.",
+      "norwegian": "Noen ganger skremmer planer meg, men vi kan dra likevel.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529236"
+    },
+    {
+      "english": "I’d rather talk first, then set the schedule.",
+      "norwegian": "Jeg vil heller snakke først, så setter vi tidspunktet.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529238"
+    },
+    {
+      "english": "I’m proud you’re trying, even if it’s messy.",
+      "norwegian": "Jeg er stolt av at du prøver, selv om det blir rotete.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529242"
+    },
+    {
+      "english": "Let’s be patient, feelings take time.",
+      "norwegian": "La oss være tålmodige, følelser tar tid.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529244"
+    },
+    {
+      "english": "I want to listen, not rush the decision.",
+      "norwegian": "Jeg vil lytte, ikke haste med valget.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529247"
+    },
+    {
+      "english": "If today’s hard, we can reschedule kindly.",
+      "norwegian": "Hvis i dag er vanskelig, kan vi ta det på nytt, pent.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529249"
+    },
+    {
+      "english": "I’m honest: I miss you, want to meet?",
+      "norwegian": "Ærlig talt: jeg savner deg, vil vi møtes?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529252"
+    },
+    {
+      "english": "Let’s not overdo it, just one real plan.",
+      "norwegian": "La oss ikke gjøre det for mye, bare én plan som betyr noe.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529254"
+    },
+    {
+      "english": "I’m choosing peace, so let’s keep it simple.",
+      "norwegian": "Jeg velger ro, så vi holder det enkelt.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529256"
+    },
+    {
+      "english": "We’ll adjust with grace, not blame.",
+      "norwegian": "Vi tilpasser oss med raushet, ikke skyld.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529258"
+    },
+    {
+      "english": "Thanks for being real, it makes planning easier.",
+      "norwegian": "Takk for at du er ekte, det gjør planlegging enklere.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529260"
+    },
+    {
+      "english": "What day suits you best, tomorrow or Friday?",
+      "norwegian": "Hvilken dag passer deg best, i morgen eller fredag?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-03T10:33:49.529261"
     }
   ],
-  "last_updated": "2026-11-02T10:43:08.342241"
+  "last_updated": "2026-11-03T10:33:49.529263"
 }
