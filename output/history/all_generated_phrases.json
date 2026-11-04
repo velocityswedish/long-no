@@ -12239,7 +12239,727 @@
       "norwegian": "Hvilken dag passer deg best, i morgen eller fredag?",
       "category": "Making Plans",
       "generated_at": "2026-11-03T10:33:49.529261"
+    },
+    {
+      "english": "Start now, don’t overthink, just do it",
+      "norwegian": "Start nå, ikke overtenk, bare gjør det",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581475"
+    },
+    {
+      "english": "It’s okay, breathe, try again, you’ll improve",
+      "norwegian": "Det er helt greit, pust, prøv igjen, du blir bedre",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581491"
+    },
+    {
+      "english": "Yes, exactly, that’s the right direction",
+      "norwegian": "Ja, helt riktig, det er riktig retning",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581494"
+    },
+    {
+      "english": "No worries, we’ll figure it out together",
+      "norwegian": "Ingen bekymring, vi finner det ut sammen",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581497"
+    },
+    {
+      "english": "Good job, you nailed it, nice work",
+      "norwegian": "Skikkelig bra, du traff blink, kjempebra jobbet",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581500"
+    },
+    {
+      "english": "Wait, listen, that’s a smart idea",
+      "norwegian": "Vent, hør her, det er en smart idé",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581503"
+    },
+    {
+      "english": "Let’s go, small steps, big results",
+      "norwegian": "Vi kjører, små steg, store resultater",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581507"
+    },
+    {
+      "english": "Keep your head up, you’re doing great",
+      "norwegian": "Hodet opp, du gjør det skikkelig bra",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581511"
+    },
+    {
+      "english": "Really? Nice, that’s awesome news",
+      "norwegian": "Er det sant? Så bra, det var kjempebra",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581515"
+    },
+    {
+      "english": "Thanks, I appreciate it, that helps a lot",
+      "norwegian": "Takk, jeg setter pris på det, det hjelper mye",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581520"
+    },
+    {
+      "english": "I’m on it, give me a minute, I got you",
+      "norwegian": "Jeg er på det, gi meg et minutt, jeg ordner det",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581523"
+    },
+    {
+      "english": "That makes sense, go ahead, try it",
+      "norwegian": "Det gir mening, bare kjør, prøv det",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581525"
+    },
+    {
+      "english": "Sorry, my bad, let’s reset and continue",
+      "norwegian": "Beklager, det var min feil, la oss starte på nytt",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581528"
+    },
+    {
+      "english": "Watch this, quick tip, you’ll feel confident",
+      "norwegian": "Se her, et kjapt tips, du blir trygg",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581531"
+    },
+    {
+      "english": "I’ll keep trying, one more time, for sure",
+      "norwegian": "Jeg prøver igjen, en gang til, det går",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581533"
+    },
+    {
+      "english": "Nice timing, perfect, you nailed it again",
+      "norwegian": "Nydelig timing, helt perfekt, du traff igjen",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581536"
+    },
+    {
+      "english": "Yes, let’s meet halfway, we’ll work it out",
+      "norwegian": "Ja, vi møtes på midten, vi ordner det sammen",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581539"
+    },
+    {
+      "english": "No problem, take your time, I can wait",
+      "norwegian": "Det går bra, ta det rolig, jeg kan vente",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581541"
+    },
+    {
+      "english": "That’s true, you’re right, I agree",
+      "norwegian": "Det stemmer, du har rett, jeg er enig",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581544"
+    },
+    {
+      "english": "I knew it, that’s exactly what I meant",
+      "norwegian": "Jeg visste det, det var akkurat det jeg mente",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581546"
+    },
+    {
+      "english": "Make it happen, start simple, build from there",
+      "norwegian": "Få det til, start enkelt, bygg videre",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581549"
+    },
+    {
+      "english": "How’s it going? Great news, tell me",
+      "norwegian": "Hvordan går det? Dette høres bra ut",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581551"
+    },
+    {
+      "english": "You’re improving, keep practicing, it will click",
+      "norwegian": "Du blir bedre, fortsett å øve, det klikker",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581554"
+    },
+    {
+      "english": "That’s enough, stop now, do the next step",
+      "norwegian": "Nå er det nok, stopp nå, ta neste steg",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581559"
+    },
+    {
+      "english": "Really quick, tell me the plan",
+      "norwegian": "Si det kjapt, hva er planen?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581561"
+    },
+    {
+      "english": "Good point, let’s decide, then we move",
+      "norwegian": "Godt poeng, la oss bestemme, så går vi videre",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581563"
+    },
+    {
+      "english": "Don’t quit, you’re closer than you think",
+      "norwegian": "Ikke gi opp, du er nærmere enn du tror",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581566"
+    },
+    {
+      "english": "All right, let’s do it, right now",
+      "norwegian": "Greit, vi gjør det, med en gang",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581568"
+    },
+    {
+      "english": "That’s perfect, just like that, keep it up",
+      "norwegian": "Det er helt perfekt, sånn ja, stå på",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581571"
+    },
+    {
+      "english": "What’s the best time to study today?",
+      "norwegian": "Hva er den beste tiden å studere i dag?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581574"
+    },
+    {
+      "english": "Can you help me choose a goal?",
+      "norwegian": "Kan du hjelpe meg å velge et mål?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581576"
+    },
+    {
+      "english": "How do you stay focused during busy days?",
+      "norwegian": "Hvordan holder du deg fokusert i travle dager?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581580"
+    },
+    {
+      "english": "What do you recommend for faster progress?",
+      "norwegian": "Hva anbefaler du for raskere framgang?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581582"
+    },
+    {
+      "english": "Could you repeat that, please, more slowly?",
+      "norwegian": "Kan du gjenta det, vær så snill, litt saktere?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581585"
+    },
+    {
+      "english": "When should I ask for feedback, exactly?",
+      "norwegian": "Når bør jeg spørre om tilbakemelding, helt konkret?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581587"
+    },
+    {
+      "english": "Do you think this plan will work?",
+      "norwegian": "Tror du denne planen vil fungere?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581589"
+    },
+    {
+      "english": "What’s your shortcut for learning quickly?",
+      "norwegian": "Hva er din snarvei for å lære raskt?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581592"
+    },
+    {
+      "english": "Which habit matters most for success here?",
+      "norwegian": "Hvilken vane betyr mest for suksess her?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581594"
+    },
+    {
+      "english": "Where can I find reliable practice materials?",
+      "norwegian": "Hvor kan jeg finne pålitelige øvingsmaterialer?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581596"
+    },
+    {
+      "english": "If I get stuck, what should I do?",
+      "norwegian": "Hvis jeg står fast, hva bør jeg gjøre?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581598"
+    },
+    {
+      "english": "How would you explain this in simple words?",
+      "norwegian": "Hvordan ville du forklare dette med enkle ord?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581600"
+    },
+    {
+      "english": "Is it better to practice daily or weekly?",
+      "norwegian": "Er det bedre å øve hver dag eller hver uke?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581602"
+    },
+    {
+      "english": "What’s one change that will make a difference?",
+      "norwegian": "Hva er én endring som kan gjøre en forskjell?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581605"
+    },
+    {
+      "english": "Can we talk about your next step?",
+      "norwegian": "Kan vi snakke om ditt neste steg?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581607"
+    },
+    {
+      "english": "Would you mind checking my progress soon?",
+      "norwegian": "Kan du sjekke framgangen min snart, hvis du vil?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581609"
+    },
+    {
+      "english": "What should I prepare before our meeting?",
+      "norwegian": "Hva bør jeg gjøre klart før møtet?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581611"
+    },
+    {
+      "english": "How do you handle setbacks without quitting?",
+      "norwegian": "Hvordan takler du tilbakeslag uten å gi opp?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581613"
+    },
+    {
+      "english": "Can you suggest a small task for today?",
+      "norwegian": "Kan du foreslå en liten oppgave for i dag?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581615"
+    },
+    {
+      "english": "What’s the simplest way to start this?",
+      "norwegian": "Hva er den enkleste måten å starte dette på?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581617"
+    },
+    {
+      "english": "Do you want to try a new approach?",
+      "norwegian": "Vil du prøve en ny måte å gjøre det på?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581620"
+    },
+    {
+      "english": "Where do you usually get motivation from?",
+      "norwegian": "Hvor får du som regel motivasjonen fra?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581622"
+    },
+    {
+      "english": "What if my schedule changes, what now?",
+      "norwegian": "Hva om timeplanen endrer seg, hva gjør vi da?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581624"
+    },
+    {
+      "english": "Could you give me one clear example?",
+      "norwegian": "Kan du gi meg ett tydelig eksempel?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581626"
+    },
+    {
+      "english": "Which mistake should I avoid this time?",
+      "norwegian": "Hvilken feil bør jeg unngå denne gangen?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581628"
+    },
+    {
+      "english": "How often should I review to stay sharp?",
+      "norwegian": "Hvor ofte bør jeg repetere for å holde meg skarp?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581630"
+    },
+    {
+      "english": "Do you prefer feedback first, or later?",
+      "norwegian": "Vil du heller ha tilbakemelding først, eller etterpå?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581638"
+    },
+    {
+      "english": "What’s the next question you need answered?",
+      "norwegian": "Hva er det neste spørsmålet du trenger svar på?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581640"
+    },
+    {
+      "english": "Can I ask you something about your plan?",
+      "norwegian": "Kan jeg spørre deg om planen din?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581642"
+    },
+    {
+      "english": "How did you decide on that goal?",
+      "norwegian": "Hvordan bestemte du deg for det målet?",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581644"
+    },
+    {
+      "english": "Small steps count, du blir sterkere",
+      "norwegian": "Små steg teller, du blir sterkere",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581646"
+    },
+    {
+      "english": "Trust yourself, you’ve got this today",
+      "norwegian": "Tro på deg selv, du klarer det i dag",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581649"
+    },
+    {
+      "english": "Breathe, focus, and move forward—ikke gi opp",
+      "norwegian": "Pust, fokuser, og gå videre, ikke gi opp",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581652"
+    },
+    {
+      "english": "You’re building skills, not just studying",
+      "norwegian": "Du bygger ferdigheter, ikke bare lesing",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581655"
+    },
+    {
+      "english": "Keep your head up, progress is real",
+      "norwegian": "Hold hodet høyt, fremgang er ekte",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581657"
+    },
+    {
+      "english": "Today counts, do one thing well",
+      "norwegian": "I dag teller, gjør én ting ordentlig",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581659"
+    },
+    {
+      "english": "Mistakes are clues, learn and go again",
+      "norwegian": "Feil er signaler, lær og prøv igjen",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581662"
+    },
+    {
+      "english": "Say it out loud, you’ll remember faster",
+      "norwegian": "Si det høyt, så husker du fortere",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581664"
+    },
+    {
+      "english": "Be proud, even the messy practice matters",
+      "norwegian": "Vær stolt, selv den rotete øvingen teller",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581666"
+    },
+    {
+      "english": "One more rep, you’re getting closer",
+      "norwegian": "En ekstra repetisjon, du er nærmere",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581669"
+    },
+    {
+      "english": "Your effort shows, keep going steadily",
+      "norwegian": "Innsatsen din merkes, stå på",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581671"
+    },
+    {
+      "english": "Get comfortable with being a beginner",
+      "norwegian": "Bli vant til å være nybegynner",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581673"
+    },
+    {
+      "english": "You’re allowed to learn slowly, still win",
+      "norwegian": "Du får lære sakte, og likevel vinne",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581676"
+    },
+    {
+      "english": "Celebrate progress, not perfection",
+      "norwegian": "Feir framgang, ikke perfeksjon",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581678"
+    },
+    {
+      "english": "Let curiosity drive you, ask simple questions",
+      "norwegian": "La nysgjerrighet styre deg, spør enkelt",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581680"
+    },
+    {
+      "english": "You don’t need motivation first, start anyway",
+      "norwegian": "Du trenger ikke motivasjon først, start likevel",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581683"
+    },
+    {
+      "english": "Small wins today, bigger confidence tomorrow",
+      "norwegian": "Små seire i dag, større selvtillit i morgen",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581685"
+    },
+    {
+      "english": "Be kind to yourself, you’re working hard",
+      "norwegian": "Vær snill mot deg selv, du jobber hardt",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581688"
+    },
+    {
+      "english": "Keep the promise you made to yourself",
+      "norwegian": "Hold løftet du ga deg selv",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581692"
+    },
+    {
+      "english": "When it’s hard, that’s where growth begins",
+      "norwegian": "Når det er vanskelig, der begynner vekst",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581695"
+    },
+    {
+      "english": "Give yourself credit, you’re showing up",
+      "norwegian": "Gi deg selv honnør, du møter opp",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581697"
+    },
+    {
+      "english": "Your routine is your secret superpower",
+      "norwegian": "Rutinen din er din hemmelige superkraft",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581699"
+    },
+    {
+      "english": "Learn, then rest, then learn again",
+      "norwegian": "Lær, så ta pause, og lær igjen",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581702"
+    },
+    {
+      "english": "Keep it simple, consistency beats intensity",
+      "norwegian": "Hold det enkelt, jevn innsats slår alt",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581704"
+    },
+    {
+      "english": "Say “jeg kan”, and start the next task",
+      "norwegian": "Si “jeg kan”, og start neste oppgave",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581707"
+    },
+    {
+      "english": "You’re allowed to improve in public",
+      "norwegian": "Du får lov til å bli bedre foran folk",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581709"
+    },
+    {
+      "english": "Stay curious, every sentence is progress",
+      "norwegian": "Hold deg nysgjerrig, hvert ord er framgang",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581712"
+    },
+    {
+      "english": "Positive thoughts make practice easier",
+      "norwegian": "Positive tanker gjør øving lettere",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581716"
+    },
+    {
+      "english": "You’re not behind, you’re on your way",
+      "norwegian": "Du er ikke sen, du er på vei",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581718"
+    },
+    {
+      "english": "Be honest, your feelings are valid, always.",
+      "norwegian": "Vær ærlig, følelsene dine er gyldige, alltid.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581721"
+    },
+    {
+      "english": "Reflect quietly, then choose your next move.",
+      "norwegian": "Reflekter stille, og velg neste steg.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581724"
+    },
+    {
+      "english": "Patience pays off, progress comes in waves.",
+      "norwegian": "Tålmodighet lønner seg, fremgang kommer i bølger.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581726"
+    },
+    {
+      "english": "When you doubt, slow down and breathe.",
+      "norwegian": "Når du tviler, senk farten og pust rolig.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581728"
+    },
+    {
+      "english": "Your effort matters, even if results wait.",
+      "norwegian": "Innsatsen din betyr noe, selv om resultater tar tid.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581731"
+    },
+    {
+      "english": "Let the day be imperfect, keep going.",
+      "norwegian": "La dagen være litt uperfekt, fortsett likevel.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581733"
+    },
+    {
+      "english": "You don’t have to feel ready, just begin.",
+      "norwegian": "Du trenger ikke å føle deg klar, bare start.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581736"
+    },
+    {
+      "english": "Talk to yourself kindly, you’re learning, period.",
+      "norwegian": "Snakk til deg selv med vennlighet, du lærer, punktum.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581739"
+    },
+    {
+      "english": "Name the feeling, it gets easier.",
+      "norwegian": "Sett ord på følelsen, da blir det lettere.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581742"
+    },
+    {
+      "english": "Choose meaning over speed, every time.",
+      "norwegian": "Velg mening framfor tempo, hver eneste gang.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581744"
+    },
+    {
+      "english": "Small wins soothe your mind, then you act.",
+      "norwegian": "Små seire roer hodet, så handler du.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581747"
+    },
+    {
+      "english": "It’s okay to pause, you’re not stuck.",
+      "norwegian": "Det er greit å ta en pause, du er ikke stuck.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581749"
+    },
+    {
+      "english": "Trust the process, not the mood of today.",
+      "norwegian": "Tro på prosessen, ikke på dagens humør.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581752"
+    },
+    {
+      "english": "Ask what you need, then adjust gently.",
+      "norwegian": "Spør hva du trenger, og juster forsiktig.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581754"
+    },
+    {
+      "english": "Keep your standards human, not perfect.",
+      "norwegian": "Hold standarden menneskelig, ikke perfekt.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581756"
+    },
+    {
+      "english": "Some days, focus on understanding, not output.",
+      "norwegian": "Noen dager, fokuser på forståelse, ikke produksjon.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581761"
+    },
+    {
+      "english": "Turn setbacks into questions, then write answers.",
+      "norwegian": "Gjør motgang om til spørsmål, og skriv svar.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581763"
+    },
+    {
+      "english": "Be brave with mistakes, they teach you fast.",
+      "norwegian": "Vær modig med feil, de lærer deg fort.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581765"
+    },
+    {
+      "english": "Your emotions are data, use them wisely.",
+      "norwegian": "Følelsene dine er data, bruk dem klokt.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581768"
+    },
+    {
+      "english": "I’m proud of trying, not just winning.",
+      "norwegian": "Jeg er stolt av å prøve, ikke bare å vinne.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581771"
+    },
+    {
+      "english": "Give yourself room, growth takes time.",
+      "norwegian": "Gi deg selv plass, vekst tar tid.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581773"
+    },
+    {
+      "english": "Be patient with grammar, it clicks later.",
+      "norwegian": "Vær tålmodig med grammatikk, det sitter senere.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581775"
+    },
+    {
+      "english": "If it feels heavy, break it down.",
+      "norwegian": "Hvis det føles tungt, del det opp.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581778"
+    },
+    {
+      "english": "Your goal is real, even on slow days.",
+      "norwegian": "Målet ditt er ekte, selv på rolige dager.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581780"
+    },
+    {
+      "english": "Don’t hide your effort, language needs practice.",
+      "norwegian": "Skjul ikke innsatsen, språk trenger øving.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581783"
+    },
+    {
+      "english": "Choose one truth, then act on it.",
+      "norwegian": "Velg én sannhet, og handle etter den.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581785"
+    },
+    {
+      "english": "You’re allowed to feel nervous, still study.",
+      "norwegian": "Du får lov til å være nervøs, og likevel lære.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581787"
+    },
+    {
+      "english": "Pause, then return with a calmer mind.",
+      "norwegian": "Ta en pause, og kom tilbake med roligere sinn.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581790"
+    },
+    {
+      "english": "Say it clearly, your voice builds confidence.",
+      "norwegian": "Si det tydelig, stemmen din bygger selvtillit.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581792"
+    },
+    {
+      "english": "Success is showing up, with honest energy.",
+      "norwegian": "Suksess er å møte opp, med ærlig energi.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581794"
+    },
+    {
+      "english": "Start small today, finish what you start.",
+      "norwegian": "Start i det små i dag, fullfør det du begynner.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581854"
+    },
+    {
+      "english": "Say it out loud, even if it’s awkward.",
+      "norwegian": "Si det høyt, selv om det føles litt knotete.",
+      "category": "Success",
+      "generated_at": "2026-11-04T10:36:44.581859"
     }
   ],
-  "last_updated": "2026-11-03T10:33:49.529263"
+  "last_updated": "2026-11-04T10:36:44.581860"
 }
