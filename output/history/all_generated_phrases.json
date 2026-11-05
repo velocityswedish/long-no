@@ -12959,7 +12959,727 @@
       "norwegian": "Si det høyt, selv om det føles litt knotete.",
       "category": "Success",
       "generated_at": "2026-11-04T10:36:44.581859"
+    },
+    {
+      "english": "Are you okay, do you feel dizzy?",
+      "norwegian": "Er du ok, føler du deg svimmel?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820465"
+    },
+    {
+      "english": "Help me, I think I’m having trouble breathing.",
+      "norwegian": "Hjelp meg, jeg tror jeg får problemer med pusten.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820477"
+    },
+    {
+      "english": "Call a doctor, this started really suddenly.",
+      "norwegian": "Ring en lege, det startet veldig brått.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820481"
+    },
+    {
+      "english": "Stay with me, don’t go anywhere.",
+      "norwegian": "Bli med meg, ikke dra noen steder.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820487"
+    },
+    {
+      "english": "What happened, are you in severe pain?",
+      "norwegian": "Hva skjedde, har du sterke smerter?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820490"
+    },
+    {
+      "english": "I feel sick, is there a restroom nearby?",
+      "norwegian": "Jeg føler meg dårlig, finnes det toalett her?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820493"
+    },
+    {
+      "english": "Do you need water, can I get some?",
+      "norwegian": "Trenger du vann, kan jeg hente litt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820496"
+    },
+    {
+      "english": "Please, just take it easy, okay?",
+      "norwegian": "Vær så snill, ta det rolig, ok?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820502"
+    },
+    {
+      "english": "Do you know where the pharmacy is?",
+      "norwegian": "Vet du hvor apoteket er?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820505"
+    },
+    {
+      "english": "I think it’s an allergy, my eyes are itchy.",
+      "norwegian": "Jeg tror det er en allergi, øynene klør.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820509"
+    },
+    {
+      "english": "Can you check my temperature, please?",
+      "norwegian": "Kan du sjekke temperaturen min, vær så snill?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820512"
+    },
+    {
+      "english": "I’m getting worse, we should go now.",
+      "norwegian": "Jeg blir verre, vi bør dra nå.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820515"
+    },
+    {
+      "english": "Does anyone have painkillers, by chance?",
+      "norwegian": "Har noen smertestillende, ved en tilfeldighet?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820518"
+    },
+    {
+      "english": "I cut my finger, it won’t stop bleeding.",
+      "norwegian": "Jeg har kuttet fingeren, det slutter ikke å blø.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820522"
+    },
+    {
+      "english": "Put pressure here, keep your hand steady.",
+      "norwegian": "Trykk her, hold hånden rolig.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820527"
+    },
+    {
+      "english": "Is there an emergency exit nearby?",
+      "norwegian": "Er det en nødutgang i nærheten?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820530"
+    },
+    {
+      "english": "I need an ambulance, please call.",
+      "norwegian": "Jeg trenger ambulanse, kan du ringe?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820533"
+    },
+    {
+      "english": "What’s your name, and where do you live?",
+      "norwegian": "Hva heter du, og hvor bor du?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820536"
+    },
+    {
+      "english": "I have a headache, it’s really strong.",
+      "norwegian": "Jeg har vondt i hodet, det er skikkelig sterkt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820539"
+    },
+    {
+      "english": "My stomach hurts, I can’t keep eating.",
+      "norwegian": "Jeg har vondt i magen, jeg kan ikke spise.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820543"
+    },
+    {
+      "english": "Let’s sit down, you look pale.",
+      "norwegian": "La oss sette oss ned, du ser blek ut.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820546"
+    },
+    {
+      "english": "Are you still feeling dizzy, after breathing?",
+      "norwegian": "Føler du deg fortsatt svimmel, etter at du puster?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820549"
+    },
+    {
+      "english": "I’m not feeling well, I need fresh air.",
+      "norwegian": "Jeg føler meg ikke bra, jeg trenger frisk luft.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820552"
+    },
+    {
+      "english": "Slow down, breathe with me, please.",
+      "norwegian": "Pust rolig, pust sammen med meg, vær så snill.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820555"
+    },
+    {
+      "english": "Where is the nearest clinic, please?",
+      "norwegian": "Hvor er den nærmeste legevakten?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820558"
+    },
+    {
+      "english": "Can someone translate, this is hard for me.",
+      "norwegian": "Kan noen oversette, dette er vanskelig for meg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820561"
+    },
+    {
+      "english": "I might have food poisoning, it started tonight.",
+      "norwegian": "Jeg tror jeg har matforgiftning, det startet i kveld.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820564"
+    },
+    {
+      "english": "Don’t touch it, I think it’s dangerous.",
+      "norwegian": "Ikke rør det, jeg tror det er farlig.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820567"
+    },
+    {
+      "english": "Is this pain getting worse, or staying the same?",
+      "norwegian": "Blir denne smerten verre, eller den samme?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820571"
+    },
+    {
+      "english": "Do you know what triggered it, earlier today?",
+      "norwegian": "Vet du hva som trigget det, tidligere i dag?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820574"
+    },
+    {
+      "english": "Should I call someone, or wait it out?",
+      "norwegian": "Bør jeg ringe noen, eller vente?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820576"
+    },
+    {
+      "english": "Can you tell me what you feel, exactly?",
+      "norwegian": "Kan du si hva du føler, helt nøyaktig?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820579"
+    },
+    {
+      "english": "Have you had this before, or is it new?",
+      "norwegian": "Har du hatt dette før, eller er det nytt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820582"
+    },
+    {
+      "english": "Where does it hurt the most, right now?",
+      "norwegian": "Hvor gjør det mest vondt, akkurat nå?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820585"
+    },
+    {
+      "english": "Is there swelling, redness, or warmth nearby?",
+      "norwegian": "Er det hevelse, rødhet, eller varme der?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820590"
+    },
+    {
+      "english": "What should I do first, in your opinion?",
+      "norwegian": "Hva bør jeg gjøre først, etter din mening?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820593"
+    },
+    {
+      "english": "Do I need to bring any medicine with me?",
+      "norwegian": "Må jeg ta med medisiner, i så fall?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820595"
+    },
+    {
+      "english": "Can you help me write down symptoms?",
+      "norwegian": "Kan du hjelpe meg å skrive ned symptomene?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820598"
+    },
+    {
+      "english": "When did it start, roughly, this morning?",
+      "norwegian": "Når startet det, omtrent, i morges?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820601"
+    },
+    {
+      "english": "Is your breathing normal now, or slower?",
+      "norwegian": "Er pusten normal nå, eller saktere?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820604"
+    },
+    {
+      "english": "Should I take a photo of the rash?",
+      "norwegian": "Bør jeg ta et bilde av utslettet?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820606"
+    },
+    {
+      "english": "Do you know if it’s contagious?",
+      "norwegian": "Vet du om det smitter?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820610"
+    },
+    {
+      "english": "Have you taken anything, like pills or drops?",
+      "norwegian": "Har du tatt noe, som piller eller dråper?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820613"
+    },
+    {
+      "english": "Can you ask me questions, one by one?",
+      "norwegian": "Kan du spørre meg, én ting av gangen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820615"
+    },
+    {
+      "english": "What’s the best way to stay calm here?",
+      "norwegian": "Hva er den beste måten å roe seg ned her?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820619"
+    },
+    {
+      "english": "Is this suitable for kids, or not?",
+      "norwegian": "Er dette greit for barn, eller ikke?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820621"
+    },
+    {
+      "english": "Do you think I should go to urgent care?",
+      "norwegian": "Tror du jeg bør dra til legevakt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820624"
+    },
+    {
+      "english": "Can I get a quick check, please?",
+      "norwegian": "Kan jeg få en rask sjekk, takk?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820627"
+    },
+    {
+      "english": "Do I need stitches, or is it minor?",
+      "norwegian": "Trenger jeg sting, eller er det ikke så farlig?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820629"
+    },
+    {
+      "english": "Should I keep it covered, or let it air?",
+      "norwegian": "Bør jeg holde det dekket, eller lufte det?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820634"
+    },
+    {
+      "english": "Is the patient allowed to eat or drink?",
+      "norwegian": "Er det greit å spise eller drikke nå?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820636"
+    },
+    {
+      "english": "Could this be heat exhaustion, maybe?",
+      "norwegian": "Kan det være heteslag, kanskje?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820639"
+    },
+    {
+      "english": "What signs mean I should not wait?",
+      "norwegian": "Hvilke tegn betyr at jeg ikke bør vente?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820642"
+    },
+    {
+      "english": "Is it okay to take ibuprofen in my case?",
+      "norwegian": "Er det greit å ta ibuprofen i mitt tilfelle?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820644"
+    },
+    {
+      "english": "Can you repeat that slowly, please?",
+      "norwegian": "Kan du gjenta det sakte, vær så snill?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820647"
+    },
+    {
+      "english": "Where can I get advice, right now?",
+      "norwegian": "Hvor kan jeg få råd, akkurat nå?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820650"
+    },
+    {
+      "english": "What should I bring, when we go in?",
+      "norwegian": "Hva bør jeg ta med, når vi går inn?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820652"
+    },
+    {
+      "english": "Thanks, I understand, what’s the next step?",
+      "norwegian": "Takk, jeg skjønner, hva er neste steg?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820658"
+    },
+    {
+      "english": "You’re doing great, let’s keep it simple.",
+      "norwegian": "Du gjør det kjempebra, vi tar det enkelt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820662"
+    },
+    {
+      "english": "It’s okay, focus on your breathing now.",
+      "norwegian": "Det er helt greit, fokuser på pusten nå.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820665"
+    },
+    {
+      "english": "Say it out loud, I’m safe right now.",
+      "norwegian": "Si det høyt, jeg er trygg akkurat nå.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820669"
+    },
+    {
+      "english": "Slow thoughts, strong body, one step at a time.",
+      "norwegian": "Rolige tanker, sterk kropp, ett steg om gangen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820677"
+    },
+    {
+      "english": "You’ve handled tough moments before, you can again.",
+      "norwegian": "Du har taklet tøffe ting før, du klarer det igjen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820681"
+    },
+    {
+      "english": "Stay with me, we’ll get through this.",
+      "norwegian": "Vær her med meg, vi ordner dette sammen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820684"
+    },
+    {
+      "english": "Right now, focus on what feels better.",
+      "norwegian": "Akkurat nå, fokuser på det som føles bedre.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820687"
+    },
+    {
+      "english": "You’re not alone, help is on the way.",
+      "norwegian": "Du er ikke alene, hjelpen er på vei.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820691"
+    },
+    {
+      "english": "Keep your shoulders down, relax and reset.",
+      "norwegian": "Ha skuldrene nede, slapp av og start på nytt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820696"
+    },
+    {
+      "english": "We’ll take small steps, that’s enough.",
+      "norwegian": "Vi tar små steg, det holder.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820699"
+    },
+    {
+      "english": "Good job, you stayed calm and focused.",
+      "norwegian": "Så bra, du holdt deg rolig og fokusert.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820702"
+    },
+    {
+      "english": "Your body is working, trust that process.",
+      "norwegian": "Kroppen din jobber, stol på prosessen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820704"
+    },
+    {
+      "english": "Let fear pass, you’re in safe hands.",
+      "norwegian": "La frykten slippe, du er i trygge hender.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820708"
+    },
+    {
+      "english": "Focus on comfort, one decision at a time.",
+      "norwegian": "Fokuser på det behagelige, én avgjørelse om gangen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820710"
+    },
+    {
+      "english": "I believe you, we can do this together.",
+      "norwegian": "Jeg tror på deg, vi klarer dette sammen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820713"
+    },
+    {
+      "english": "You’re doing your best, that matters a lot.",
+      "norwegian": "Du gjør ditt beste, det betyr mye.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820716"
+    },
+    {
+      "english": "Make room for hope, keep going.",
+      "norwegian": "Gi plass til håp, ikke gi deg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820719"
+    },
+    {
+      "english": "In your head, count slowly, then breathe out.",
+      "norwegian": "I hodet ditt, tell rolig, pust så ut.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820722"
+    },
+    {
+      "english": "Good call, you asked for help early.",
+      "norwegian": "Veldig bra, du ba om hjelp i tide.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820725"
+    },
+    {
+      "english": "We’ll get through this, no panic needed.",
+      "norwegian": "Vi kommer oss gjennom dette, ingen panikk.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820728"
+    },
+    {
+      "english": "Your calm voice helps the body settle.",
+      "norwegian": "En rolig stemme hjelper kroppen å roe seg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820730"
+    },
+    {
+      "english": "Right now, choose patience over worry.",
+      "norwegian": "Nå velger du tålmodighet framfor uro.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820733"
+    },
+    {
+      "english": "You’re safe, we’ll monitor things step by step.",
+      "norwegian": "Du er trygg, vi følger med, steg for steg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820737"
+    },
+    {
+      "english": "Keep sipping water slowly, if it’s allowed.",
+      "norwegian": "Ta små slurker vann, hvis det er lov.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820740"
+    },
+    {
+      "english": "You’ve got this, even if it feels scary.",
+      "norwegian": "Du klarer dette, selv om det føles skummelt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820744"
+    },
+    {
+      "english": "Focus on the next minute, not the whole day.",
+      "norwegian": "Fokuser på neste minutt, ikke hele dagen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820747"
+    },
+    {
+      "english": "Thank you, I see how hard you’re trying.",
+      "norwegian": "Takk, jeg ser hvor mye du prøver.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820750"
+    },
+    {
+      "english": "It’s okay to ask questions, we’ll slow down.",
+      "norwegian": "Det er greit å spørre, vi tar det roligere.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820754"
+    },
+    {
+      "english": "You’re making progress, keep your eyes forward.",
+      "norwegian": "Du er på vei mot bedring, hold blikket fremover.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820758"
+    },
+    {
+      "english": "Right now, breathe, relax, and trust us.",
+      "norwegian": "Nå, pust, slapp av, og stol på oss.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820761"
+    },
+    {
+      "english": "I’m scared, but I’m staying honest with you.",
+      "norwegian": "Jeg er redd, men jeg er ærlig med deg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820764"
+    },
+    {
+      "english": "Tell me what you’re feeling, I’ll listen.",
+      "norwegian": "Si meg hva du føler, jeg lytter.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820768"
+    },
+    {
+      "english": "We can go step by step, no rush.",
+      "norwegian": "Vi kan ta det steg for steg, uten stress.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820770"
+    },
+    {
+      "english": "It matters how you feel, not just symptoms.",
+      "norwegian": "Det betyr noe hvordan du har det, ikke bare symptomer.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820773"
+    },
+    {
+      "english": "I’m proud of you, even if it hurts.",
+      "norwegian": "Jeg er stolt av deg, selv om det gjør vondt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820776"
+    },
+    {
+      "english": "Let’s be patient, your body needs calm.",
+      "norwegian": "La oss være tålmodige, kroppen din trenger ro.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820780"
+    },
+    {
+      "english": "I notice your tone, you sound worried.",
+      "norwegian": "Jeg merker tonen din, du høres bekymret ut.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820782"
+    },
+    {
+      "english": "I want to check in, how’s your head?",
+      "norwegian": "Jeg vil sjekke inn, hvordan er hodet ditt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820785"
+    },
+    {
+      "english": "No judgment, just tell me the truth.",
+      "norwegian": "Ingen dømming, bare si sannheten.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820788"
+    },
+    {
+      "english": "I’ll stay close, even if thoughts race.",
+      "norwegian": "Jeg blir her, selv om tankene dine løper.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820791"
+    },
+    {
+      "english": "You can admit it hurts, that’s okay.",
+      "norwegian": "Du kan si at det gjør vondt, det er greit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820797"
+    },
+    {
+      "english": "I feel this is serious, let’s act gently.",
+      "norwegian": "Jeg føler dette er alvorlig, la oss handle varsomt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820802"
+    },
+    {
+      "english": "Take a breath, then be honest with me.",
+      "norwegian": "Ta et pust, så vær ærlig med meg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820805"
+    },
+    {
+      "english": "I understand, you’re trying your best right now.",
+      "norwegian": "Jeg skjønner det, du gjør så godt du kan nå.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820809"
+    },
+    {
+      "english": "Don’t force strength, we’ll slow it down together.",
+      "norwegian": "Ikke tving deg, vi senker tempoet sammen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820812"
+    },
+    {
+      "english": "Your feelings guide us, tell me clearly.",
+      "norwegian": "Følelsene dine hjelper oss, si det tydelig.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820815"
+    },
+    {
+      "english": "I’m here, even when you’re overwhelmed.",
+      "norwegian": "Jeg er her, selv når du blir overveldet.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820819"
+    },
+    {
+      "english": "Let’s pause, I want to hear you.",
+      "norwegian": "La oss ta en pause, jeg vil høre deg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820822"
+    },
+    {
+      "english": "I’m worried about you, but we’ll cope.",
+      "norwegian": "Jeg er bekymret for deg, men vi skal klare det.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820825"
+    },
+    {
+      "english": "If you’re dizzy, say it, don’t hide.",
+      "norwegian": "Hvis du er svimmel, si det, ikke skjul.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820829"
+    },
+    {
+      "english": "Your gut feeling matters, tell me honestly.",
+      "norwegian": "Magefølelsen din betyr noe, si det ærlig.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820834"
+    },
+    {
+      "english": "I’ll stay calm, even if you tremble.",
+      "norwegian": "Jeg holder meg rolig, selv om du skjelver.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820837"
+    },
+    {
+      "english": "We’re not rushing, your comfort comes first.",
+      "norwegian": "Vi stresser ikke, komforten din først.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820840"
+    },
+    {
+      "english": "I can see you’re trying, don’t blame yourself.",
+      "norwegian": "Jeg ser at du prøver, ikke skyld på deg selv.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820844"
+    },
+    {
+      "english": "Let it out, your fear doesn’t run things.",
+      "norwegian": "La det komme ut, frykten din styrer ikke alt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820847"
+    },
+    {
+      "english": "I believe you, your symptoms feel real.",
+      "norwegian": "Jeg tror på deg, symptomene dine føles ekte.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820850"
+    },
+    {
+      "english": "When you’re ready, tell me your timeline.",
+      "norwegian": "Når du er klar, fortell meg tidslinjen din.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820854"
+    },
+    {
+      "english": "It’s okay to be emotional, you’re safe with me.",
+      "norwegian": "Det er greit å være emosjonell, du er trygg med meg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820857"
+    },
+    {
+      "english": "I’m listening, and we’ll choose patience over panic.",
+      "norwegian": "Jeg hører på deg, og vi velger tålmodighet over panikk.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820861"
+    },
+    {
+      "english": "If it’s severe, call 113, right away.",
+      "norwegian": "Hvis det er alvorlig, ring 113, med en gang.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820864"
+    },
+    {
+      "english": "Say where you are, I’ll connect you.",
+      "norwegian": "Si hvor du er, så kobler jeg deg.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820867"
+    },
+    {
+      "english": "Remove rings, cool it, then cover gently.",
+      "norwegian": "Ta av ringer, kjøl det, og dekk til forsiktig.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-05T10:29:37.820870"
     }
   ],
-  "last_updated": "2026-11-04T10:36:44.581860"
+  "last_updated": "2026-11-05T10:29:37.820872"
 }
