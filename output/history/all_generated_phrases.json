@@ -13679,7 +13679,727 @@
       "norwegian": "Ta av ringer, kjøl det, og dekk til forsiktig.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-05T10:29:37.820870"
+    },
+    {
+      "english": "No stress, we’ll fix it, ok?",
+      "norwegian": "Ingen stress, vi fikser det, ok?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468677"
+    },
+    {
+      "english": "Okay then, let’s go, hurry up!",
+      "norwegian": "Greit da, vi går, kom igjen!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468693"
+    },
+    {
+      "english": "What’s up, you good, right?",
+      "norwegian": "Hva skjer, har du det bra?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468697"
+    },
+    {
+      "english": "I’m so done, seriously, not again.",
+      "norwegian": "Jeg er ferdig, seriøst, ikke igjen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468700"
+    },
+    {
+      "english": "Calm down, it’s fine, honestly.",
+      "norwegian": "Ta det rolig, det går fint, ærlig.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468703"
+    },
+    {
+      "english": "That’s nice, nice, you’re showing off!",
+      "norwegian": "Så bra, så bra, du skryter!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468706"
+    },
+    {
+      "english": "Wait a sec, I’m coming, hold on.",
+      "norwegian": "Vent litt, jeg kommer, hold ut.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468709"
+    },
+    {
+      "english": "Are you kidding? No way, for real?",
+      "norwegian": "Tuller du? Jøss, seriøst?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468716"
+    },
+    {
+      "english": "Come on, don’t be like that, please.",
+      "norwegian": "Kom igjen, ikke vær sånn, vær så snill.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468720"
+    },
+    {
+      "english": "That’s it, I’m out, bye!",
+      "norwegian": "Nok nå, jeg går, ha det!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468723"
+    },
+    {
+      "english": "I’ll do it, no problem, promise.",
+      "norwegian": "Jeg fikser det, null stress, lover.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468726"
+    },
+    {
+      "english": "Hold up, why though, what happened?",
+      "norwegian": "Vent litt, hvorfor da, hva skjedde?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468728"
+    },
+    {
+      "english": "That sounds good, I’m in, let’s.",
+      "norwegian": "Det høres bra ut, jeg er med, kjør!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468731"
+    },
+    {
+      "english": "Oops, my bad, that was my fault.",
+      "norwegian": "Ops, min feil, det var mitt ansvar.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468734"
+    },
+    {
+      "english": "Really? That’s wild, I can’t believe it.",
+      "norwegian": "Virkelig? Det er helt vilt, jeg tror ikke.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468737"
+    },
+    {
+      "english": "I’m tired, give me a break, please.",
+      "norwegian": "Jeg er sliten, gi meg en pause, vær snill.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468739"
+    },
+    {
+      "english": "Nice one, you nailed it, wow.",
+      "norwegian": "Skikkelig bra, du traff blink, wow.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468741"
+    },
+    {
+      "english": "Be right there, just a minute, ok?",
+      "norwegian": "Jeg er straks der, bare et minutt, ok?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468744"
+    },
+    {
+      "english": "Nope, not happening, sorry, can’t.",
+      "norwegian": "Nei, det blir ikke, sorry, klarer ikke.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468747"
+    },
+    {
+      "english": "Let’s be real, that’s actually kind of fair.",
+      "norwegian": "La oss være ærlige, det er jo litt rettferdig.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468750"
+    },
+    {
+      "english": "I’ll see, maybe later, depends.",
+      "norwegian": "Jeg får se, kanskje senere, det kommer an.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468753"
+    },
+    {
+      "english": "For real? Say what, that’s crazy!",
+      "norwegian": "På ordentlig? Hæ? Det er helt krøll!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468755"
+    },
+    {
+      "english": "You know what, forget it, it’s fine.",
+      "norwegian": "Vet du hva, glem det, det går bra.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468758"
+    },
+    {
+      "english": "That’s my vibe, I like this, yep.",
+      "norwegian": "Dette er min vibe, jeg liker det, ja.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468760"
+    },
+    {
+      "english": "Go for it, try it, you got this.",
+      "norwegian": "Kjør på, prøv det, du klarer det.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468763"
+    },
+    {
+      "english": "Not my thing, sorry, I’m out.",
+      "norwegian": "Ikke min greie, sorry, jeg trekker meg.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468765"
+    },
+    {
+      "english": "That’s annoying, seriously, stop it.",
+      "norwegian": "Det er irriterende, seriøst, slutt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468768"
+    },
+    {
+      "english": "Keep it cool, don’t flip out, ok?",
+      "norwegian": "Hold det rolig, ikke bli sint, ok?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468770"
+    },
+    {
+      "english": "Thanks a lot, that helped, really.",
+      "norwegian": "Tusen takk, det hjalp, skikkelig.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468774"
+    },
+    {
+      "english": "You mind if I ask something, quick?",
+      "norwegian": "Har du noe imot om jeg spør, bare?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468777"
+    },
+    {
+      "english": "Does this work for you, today?",
+      "norwegian": "Funka dette for deg i dag?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468779"
+    },
+    {
+      "english": "Can you explain it, like, step by step?",
+      "norwegian": "Kan du forklare det, liksom, steg for steg?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468782"
+    },
+    {
+      "english": "Are we on for tonight, or not?",
+      "norwegian": "Er vi på for i kveld, eller ikke?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468784"
+    },
+    {
+      "english": "So, what’s the plan, then?",
+      "norwegian": "Så, hva er planen, da?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468789"
+    },
+    {
+      "english": "How come you’re late, did something happen?",
+      "norwegian": "Hvorfor er du sen, skjedde det noe?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468792"
+    },
+    {
+      "english": "Any tips, because I’m kinda stuck here.",
+      "norwegian": "Har du noen tips, jeg sitter fast?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468794"
+    },
+    {
+      "english": "What do you recommend, for a beginner?",
+      "norwegian": "Hva anbefaler du, for en nybegynner?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468799"
+    },
+    {
+      "english": "Should I just text you, or call?",
+      "norwegian": "Skal jeg bare sende melding, eller ringe?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468801"
+    },
+    {
+      "english": "Do you think this is a good idea?",
+      "norwegian": "Tror du dette er en god idé?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468805"
+    },
+    {
+      "english": "Wait, what did you say, exactly?",
+      "norwegian": "Vent, hva sa du, helt nøyaktig?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468808"
+    },
+    {
+      "english": "Can I get that in writing, please?",
+      "norwegian": "Kan jeg få det skriftlig, takk?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468810"
+    },
+    {
+      "english": "Are you sure, like, 100% sure?",
+      "norwegian": "Er du helt sikker, da?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468812"
+    },
+    {
+      "english": "Where are you headed, after this?",
+      "norwegian": "Hvor går du, etter dette?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468816"
+    },
+    {
+      "english": "Did you already check, or should I?",
+      "norwegian": "Har du sjekket, eller skal jeg?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468818"
+    },
+    {
+      "english": "What’s the fastest way to do this?",
+      "norwegian": "Hva er den raskeste måten å gjøre dette på?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468820"
+    },
+    {
+      "english": "You got a minute, I need advice.",
+      "norwegian": "Har du et øyeblikk, jeg trenger råd.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468823"
+    },
+    {
+      "english": "Why not, sounds fair to me.",
+      "norwegian": "Hvorfor ikke, det høres rett ut for meg.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468825"
+    },
+    {
+      "english": "How bad is it, really?",
+      "norwegian": "Hvor ille er det, egentlig?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468827"
+    },
+    {
+      "english": "Do you have time, or am I rushing?",
+      "norwegian": "Har du tid, eller stresser jeg nå?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468829"
+    },
+    {
+      "english": "Can we swap, you take this one?",
+      "norwegian": "Kan vi bytte, du tar den her?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468832"
+    },
+    {
+      "english": "What if we just wait, for a sec?",
+      "norwegian": "Hva om vi bare venter, et øyeblikk?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468834"
+    },
+    {
+      "english": "Do you know where that store is?",
+      "norwegian": "Vet du hvor den butikken ligger?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468836"
+    },
+    {
+      "english": "Should I bring money, or card only?",
+      "norwegian": "Må jeg ha kontanter, eller holder kort?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468838"
+    },
+    {
+      "english": "Are you serious, about doing that?",
+      "norwegian": "Mener du det seriøst, da?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468840"
+    },
+    {
+      "english": "How’s it going, everything good with you?",
+      "norwegian": "Hvordan går det, er alt bra med deg?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468843"
+    },
+    {
+      "english": "Can you repeat that, I missed it.",
+      "norwegian": "Kan du si det igjen, jeg hørte ikke?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468845"
+    },
+    {
+      "english": "So, you coming, right now, yes?",
+      "norwegian": "Så, kommer du nå, sant?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468847"
+    },
+    {
+      "english": "Small steps count, don’t overthink it.",
+      "norwegian": "Små steg teller, ikke overtenk det.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468850"
+    },
+    {
+      "english": "Breathe, reset, you’ve got this.",
+      "norwegian": "Pust, nullstill, du har dette.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468853"
+    },
+    {
+      "english": "Chill, it’ll work out, you’ll see.",
+      "norwegian": "Slapp av, det ordner seg, du får se.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468858"
+    },
+    {
+      "english": "Focus on progress, not perfection, please.",
+      "norwegian": "Fokuser på framgang, ikke perfeksjon, vær så snill.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468861"
+    },
+    {
+      "english": "You’re learning, not failing, remember that.",
+      "norwegian": "Du lærer, ikke feiler, husk det.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468864"
+    },
+    {
+      "english": "That’s progress, even if it’s messy.",
+      "norwegian": "Det der er framgang, selv om det er rotete.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468867"
+    },
+    {
+      "english": "Give yourself credit, you earned it.",
+      "norwegian": "Gi deg selv litt skryt, du fortjente det.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468869"
+    },
+    {
+      "english": "Today’s just one round, go again.",
+      "norwegian": "I dag er bare én runde, prøv igjen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468871"
+    },
+    {
+      "english": "Don’t spiral, pick one thing, start.",
+      "norwegian": "Ikke gå i spiral, velg én ting, start.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468874"
+    },
+    {
+      "english": "You’re stronger than your doubts, seriously.",
+      "norwegian": "Du er sterkere enn tvilen din, seriøst.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468877"
+    },
+    {
+      "english": "It’s okay to be slow, stay steady.",
+      "norwegian": "Det er greit å gå sakte, hold kursen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468879"
+    },
+    {
+      "english": "Say it out loud, you can do it.",
+      "norwegian": "Si det høyt, du får det til.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468882"
+    },
+    {
+      "english": "Keep the vibes up, small wins matter.",
+      "norwegian": "Hold stemningen oppe, små seire teller.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468884"
+    },
+    {
+      "english": "You’ve come this far, don’t stop now.",
+      "norwegian": "Du har kommet så langt, ikke stopp nå.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468887"
+    },
+    {
+      "english": "Mess up, learn fast, repeat tomorrow.",
+      "norwegian": "Rot til, lær fort, prøv igjen i morgen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468889"
+    },
+    {
+      "english": "Trust the process, it takes time.",
+      "norwegian": "Stol på prosessen, det tar tid.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468892"
+    },
+    {
+      "english": "No pressure, just try your best, today.",
+      "norwegian": "Ingen press, bare gjør ditt beste, i dag.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468896"
+    },
+    {
+      "english": "You’re allowed to take breaks, ok?",
+      "norwegian": "Du får lov å ta pauser, ok?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468899"
+    },
+    {
+      "english": "That’s a win, celebrate it for real.",
+      "norwegian": "Det der er en seier, feir det skikkelig.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468902"
+    },
+    {
+      "english": "You’re not stuck, you’re just learning.",
+      "norwegian": "Du sitter ikke fast, du lærer bare.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468905"
+    },
+    {
+      "english": "Keep your head up, things improve.",
+      "norwegian": "Hold hodet høyt, det går seg til.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468907"
+    },
+    {
+      "english": "One more try, that’s the magic.",
+      "norwegian": "Et forsøk til, det er magien.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468909"
+    },
+    {
+      "english": "You don’t need perfect, just consistent.",
+      "norwegian": "Du trenger ikke perfekt, bare jevnt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468912"
+    },
+    {
+      "english": "Stay kind to yourself, you’re doing fine.",
+      "norwegian": "Vær snill med deg selv, du har det bra.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468915"
+    },
+    {
+      "english": "Worry later, for now, move forward.",
+      "norwegian": "Bekymre deg senere, for nå, gå videre.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468917"
+    },
+    {
+      "english": "You’re getting there, don’t doubt it.",
+      "norwegian": "Du er på vei, ikke tvil.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468919"
+    },
+    {
+      "english": "Keep going, even when it’s awkward.",
+      "norwegian": "Fortsett, selv når det er litt kleint.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468922"
+    },
+    {
+      "english": "Your effort shows, and it matters.",
+      "norwegian": "Innsatsen din synes, og den betyr noe.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468924"
+    },
+    {
+      "english": "Today you shine, tomorrow you’ll learn more.",
+      "norwegian": "I dag skinner du, i morgen lærer du mer.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468927"
+    },
+    {
+      "english": "I’m not overthinking, I’m just feeling.",
+      "norwegian": "Jeg overtenker ikke, jeg bare kjenner.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468930"
+    },
+    {
+      "english": "Honestly, I got a bit overwhelmed today.",
+      "norwegian": "Ærlig talt, jeg ble litt overveldet i dag.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468933"
+    },
+    {
+      "english": "It’s fine, I’ll take my time, really.",
+      "norwegian": "Det går bra, jeg tar tiden min, altså.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468935"
+    },
+    {
+      "english": "I can’t fake it, I’m genuinely worried.",
+      "norwegian": "Jeg kan ikke late som, jeg er virkelig bekymret.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468938"
+    },
+    {
+      "english": "I need a minute, my head’s loud.",
+      "norwegian": "Jeg trenger et minutt, hodet mitt bråker.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468941"
+    },
+    {
+      "english": "I get emotional, but I’m not weak.",
+      "norwegian": "Jeg blir litt emosjonell, men jeg er ikke svak.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468944"
+    },
+    {
+      "english": "Let me be honest, I’m still healing.",
+      "norwegian": "La meg være ærlig, jeg holder fortsatt på å lege meg.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468948"
+    },
+    {
+      "english": "I want to talk, not just scroll.",
+      "norwegian": "Jeg vil snakke, ikke bare scrolle.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468951"
+    },
+    {
+      "english": "I’m proud, even if it took time.",
+      "norwegian": "Jeg er stolt, selv om det tok tid.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468953"
+    },
+    {
+      "english": "Sometimes I need silence, no pressure.",
+      "norwegian": "Noen ganger trenger jeg stillhet, ingen mas.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468955"
+    },
+    {
+      "english": "I’m learning to be patient with myself.",
+      "norwegian": "Jeg øver på å være tålmodig med meg selv.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468958"
+    },
+    {
+      "english": "I don’t want drama, I want clarity.",
+      "norwegian": "Jeg vil ikke ha drama, jeg vil ha klarhet.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468963"
+    },
+    {
+      "english": "I’ve been down, but I’m back slowly.",
+      "norwegian": "Jeg har vært lei, men jeg er tilbake, sakte.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468966"
+    },
+    {
+      "english": "I’m not okay, but I’m handling it.",
+      "norwegian": "Jeg er ikke helt okei, men jeg takler det.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468968"
+    },
+    {
+      "english": "Give me space, I’ll come around.",
+      "norwegian": "Gi meg litt rom, jeg kommer etter hvert.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468971"
+    },
+    {
+      "english": "I think I’m scared, and that’s real.",
+      "norwegian": "Jeg tror jeg er redd, og det er sant.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468974"
+    },
+    {
+      "english": "I’m trying, even when it feels messy.",
+      "norwegian": "Jeg prøver, selv når det føles rotete.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468976"
+    },
+    {
+      "english": "I need to vent, just for a minute.",
+      "norwegian": "Jeg må lufte litt, bare et øyeblikk.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468981"
+    },
+    {
+      "english": "I’ll be fine, I just need time.",
+      "norwegian": "Jeg kommer til å gå bra, jeg trenger tid.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468984"
+    },
+    {
+      "english": "I don’t want advice, I want support.",
+      "norwegian": "Jeg vil ikke ha råd, jeg vil ha støtte.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468986"
+    },
+    {
+      "english": "I’m soft right now, be gentle.",
+      "norwegian": "Jeg er litt myk nå, vær snill.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468989"
+    },
+    {
+      "english": "I’m letting it go, step by step.",
+      "norwegian": "Jeg slipper det, ett steg om gangen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468991"
+    },
+    {
+      "english": "I’m over it, but I still feel it.",
+      "norwegian": "Jeg er over det, men jeg kjenner det fortsatt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468994"
+    },
+    {
+      "english": "I’m proud of me, even today.",
+      "norwegian": "Jeg er stolt av meg, også i dag.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.468996"
+    },
+    {
+      "english": "I’m not blaming anyone, I’m just tired.",
+      "norwegian": "Jeg legger ikke skylden på noen, jeg er bare sliten.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469000"
+    },
+    {
+      "english": "I’ll say it straight, I’m frustrated.",
+      "norwegian": "Jeg sier det rett ut, jeg er frustrert.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469003"
+    },
+    {
+      "english": "My heart’s not racing, I’m calming down.",
+      "norwegian": "Hjertet mitt stresser ikke, jeg roer meg.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469005"
+    },
+    {
+      "english": "I’m okay with being imperfect, honestly.",
+      "norwegian": "Jeg er greit med å være uperfekt, ærlig talt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469008"
+    },
+    {
+      "english": "I’ll try again tomorrow, no hard feelings.",
+      "norwegian": "Jeg prøver igjen i morgen, ingen vonde følelser.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469011"
+    },
+    {
+      "english": "I’m grateful, even for small calm moments.",
+      "norwegian": "Jeg er takknemlig, selv for små rolige øyeblikk.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469013"
+    },
+    {
+      "english": "Quick question, what time starts?",
+      "norwegian": "Kjapp spørsmål, hva tid starter det?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469015"
+    },
+    {
+      "english": "I’m on my way, be there soon.",
+      "norwegian": "Jeg er på vei, jeg er der snart.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469018"
+    },
+    {
+      "english": "Let’s grab coffee after work, yeah?",
+      "norwegian": "Vi tar en kaffe etter jobb, da?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469020"
+    },
+    {
+      "english": "I totally forgot, my bad.",
+      "norwegian": "Jeg glemte det helt, sorry.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-06T10:31:17.469022"
     }
   ],
-  "last_updated": "2026-11-05T10:29:37.820872"
+  "last_updated": "2026-11-06T10:31:17.469024"
 }
