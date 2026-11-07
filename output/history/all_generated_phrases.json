@@ -14399,7 +14399,727 @@
       "norwegian": "Jeg glemte det helt, sorry.",
       "category": "Common Native Slang",
       "generated_at": "2026-11-06T10:31:17.469022"
+    },
+    {
+      "english": "Can you help me for a minute?",
+      "norwegian": "Kan du hjelpe meg et øyeblikk?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433587"
+    },
+    {
+      "english": "I’m home, do you need anything?",
+      "norwegian": "Jeg er hjemme, trenger du noe?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433603"
+    },
+    {
+      "english": "Where are the keys, please?",
+      "norwegian": "Hvor er nøklene, vær så snill?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433605"
+    },
+    {
+      "english": "Dinner’s ready, come eat!",
+      "norwegian": "Middagen er klar, kom og spis!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433608"
+    },
+    {
+      "english": "Shoes off, we’re keeping it clean.",
+      "norwegian": "Ta av deg skoene, vi holder det rent.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433610"
+    },
+    {
+      "english": "No worries, it’s okay.",
+      "norwegian": "Ingen fare, det går bra.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433612"
+    },
+    {
+      "english": "Wait, I’ll be right back.",
+      "norwegian": "Vent, jeg kommer straks tilbake.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433615"
+    },
+    {
+      "english": "Who forgot to turn off the lights?",
+      "norwegian": "Hvem glemte å slå av lysene?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433619"
+    },
+    {
+      "english": "Did you lock the door, please?",
+      "norwegian": "Låste du døren, vær så snill?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433622"
+    },
+    {
+      "english": "That smell is amazing, wow!",
+      "norwegian": "Den lukten er helt fantastisk, wow!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433624"
+    },
+    {
+      "english": "Be quiet, the baby is sleeping.",
+      "norwegian": "Vær stille, babyen sover.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433627"
+    },
+    {
+      "english": "Are you okay, talk to me?",
+      "norwegian": "Har du det bra, si det til meg?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433632"
+    },
+    {
+      "english": "I can’t find it, where is it?",
+      "norwegian": "Jeg finner den ikke, hvor er den?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433634"
+    },
+    {
+      "english": "We need milk, don’t forget!",
+      "norwegian": "Vi må ha melk, ikke glem!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433636"
+    },
+    {
+      "english": "Come here, it’s urgent.",
+      "norwegian": "Kom hit, det er viktig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433638"
+    },
+    {
+      "english": "All set, everything is ready.",
+      "norwegian": "Nå er alt klart, det er i orden.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433640"
+    },
+    {
+      "english": "That was loud, sorry!",
+      "norwegian": "Det var høyt, unnskyld!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433642"
+    },
+    {
+      "english": "Do you want to help me?",
+      "norwegian": "Vil du hjelpe meg?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433644"
+    },
+    {
+      "english": "Let’s tidy up, right now.",
+      "norwegian": "La oss rydde opp, nå.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433646"
+    },
+    {
+      "english": "We’ll do it later, promise.",
+      "norwegian": "Vi gjør det senere, lov meg.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433648"
+    },
+    {
+      "english": "I’m going to make coffee.",
+      "norwegian": "Jeg skal lage kaffe.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433650"
+    },
+    {
+      "english": "Is anyone home?",
+      "norwegian": "Er det noen hjemme?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433652"
+    },
+    {
+      "english": "Please speak up, I can’t hear.",
+      "norwegian": "Snakk litt høyere, jeg hører ikke.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433654"
+    },
+    {
+      "english": "Oh no, we ran out of time.",
+      "norwegian": "Oi da, vi har ikke mer tid.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433655"
+    },
+    {
+      "english": "Try again, you’ve got this.",
+      "norwegian": "Prøv igjen, du klarer det.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433658"
+    },
+    {
+      "english": "I told you, that won’t work.",
+      "norwegian": "Jeg sa det, det funker ikke.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433660"
+    },
+    {
+      "english": "Give me a hug, please.",
+      "norwegian": "Gi meg en klem, vær så snill.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433661"
+    },
+    {
+      "english": "Thanks, that really helps.",
+      "norwegian": "Takk, det hjelper virkelig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433663"
+    },
+    {
+      "english": "I’ll clean it up, don’t worry.",
+      "norwegian": "Jeg rydder opp, ikke bekymre deg.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433665"
+    },
+    {
+      "english": "What do you need for tomorrow at home?",
+      "norwegian": "Hva trenger du til i morgen hjemme?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433668"
+    },
+    {
+      "english": "Could you check the laundry, please?",
+      "norwegian": "Kan du sjekke klesvasken, vær så snill?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433670"
+    },
+    {
+      "english": "Do you want tea or coffee today?",
+      "norwegian": "Vil du ha te eller kaffe i dag?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433672"
+    },
+    {
+      "english": "How was school, what happened today?",
+      "norwegian": "Hvordan var skolen, hva skjedde i dag?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433674"
+    },
+    {
+      "english": "Where should we put these dishes?",
+      "norwegian": "Hvor skal vi legge disse tallerkenne?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433675"
+    },
+    {
+      "english": "Can you recommend a good cleaning spray?",
+      "norwegian": "Kan du anbefale en god rengjøringsspray?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433677"
+    },
+    {
+      "english": "Do we have enough batteries at home?",
+      "norwegian": "Har vi nok batterier hjemme?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433679"
+    },
+    {
+      "english": "Should we buy more snacks for guests?",
+      "norwegian": "Bør vi kjøpe mer snacks til gjester?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433681"
+    },
+    {
+      "english": "What’s for dinner, do you know yet?",
+      "norwegian": "Hva blir det til middag, vet du det ennå?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433684"
+    },
+    {
+      "english": "Did you remember to call grandma today?",
+      "norwegian": "Husket du å ringe bestemor i dag?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433687"
+    },
+    {
+      "english": "Is it okay if I borrow your charger?",
+      "norwegian": "Er det greit om jeg låner laderen din?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433689"
+    },
+    {
+      "english": "Any advice for keeping the house tidy?",
+      "norwegian": "Har du tips for å holde huset ryddig?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433691"
+    },
+    {
+      "english": "Where do we keep the extra blankets?",
+      "norwegian": "Hvor har vi ekstra tepper?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433694"
+    },
+    {
+      "english": "Do we need to book a visit this week?",
+      "norwegian": "Må vi booke et besøk denne uka?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433696"
+    },
+    {
+      "english": "How do you like your coffee, sweet or strong?",
+      "norwegian": "Hvordan liker du kaffen, søt eller sterk?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433697"
+    },
+    {
+      "english": "Can I help with dinner, just tell me?",
+      "norwegian": "Kan jeg hjelpe til med middag, bare si ifra?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433699"
+    },
+    {
+      "english": "What time do we eat together tonight?",
+      "norwegian": "Når spiser vi sammen i kveld?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433703"
+    },
+    {
+      "english": "Should I take out the trash now?",
+      "norwegian": "Bør jeg ta ut søpla nå?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433704"
+    },
+    {
+      "english": "Do you want to plan tomorrow’s chores together?",
+      "norwegian": "Vil du planlegge morgendagens gjøremål sammen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433707"
+    },
+    {
+      "english": "Can you show me where the spices are?",
+      "norwegian": "Kan du vise meg hvor krydderne er?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433709"
+    },
+    {
+      "english": "What’s the fastest way to clean the kitchen?",
+      "norwegian": "Hva er den raskeste måten å vaske kjøkkenet?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433711"
+    },
+    {
+      "english": "Do you want to sit together for a minute?",
+      "norwegian": "Vil du sitte sammen et øyeblikk?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433713"
+    },
+    {
+      "english": "How are the kids doing with schoolwork?",
+      "norwegian": "Hvordan går det med skolearbeidet til barna?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433715"
+    },
+    {
+      "english": "Should I water the plants, or later?",
+      "norwegian": "Skal jeg vanne plantene, eller senere?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433716"
+    },
+    {
+      "english": "What do you prefer, quiet night or fun?",
+      "norwegian": "Hva foretrekker du, stille kveld eller moro?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433718"
+    },
+    {
+      "english": "Can we talk about weekend plans, please?",
+      "norwegian": "Kan vi snakke om helgeplanene, vær så snill?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433720"
+    },
+    {
+      "english": "Do you know if the neighbors are home?",
+      "norwegian": "Vet du om naboene er hjemme?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433722"
+    },
+    {
+      "english": "What should I bring, do we have a list?",
+      "norwegian": "Hva skal jeg ta med, har vi en liste?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433723"
+    },
+    {
+      "english": "Can you check the fridge, I’m unsure?",
+      "norwegian": "Kan du sjekke kjøleskapet, jeg er ikke sikker?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433726"
+    },
+    {
+      "english": "Thanks, what’s next after this step?",
+      "norwegian": "Takk, hva er neste steg etter dette?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433729"
+    },
+    {
+      "english": "You’re doing great, keep going, one step.",
+      "norwegian": "Du gjør det kjempebra, fortsett, ett skritt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433731"
+    },
+    {
+      "english": "Home feels safer when you try calmly.",
+      "norwegian": "Hjemmet kjennes tryggere når du prøver rolig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433733"
+    },
+    {
+      "english": "Small helps count, especially in family life.",
+      "norwegian": "Små ting teller, spesielt i familielivet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433735"
+    },
+    {
+      "english": "Let’s reset, breathe, then try again.",
+      "norwegian": "La oss nullstille, pust rolig, så prøver vi igjen.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433737"
+    },
+    {
+      "english": "I notice your effort, that matters a lot.",
+      "norwegian": "Jeg merker innsatsen din, den betyr mye.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433739"
+    },
+    {
+      "english": "We can handle this, together, no stress.",
+      "norwegian": "Vi klarer dette, sammen, ingen stress.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433741"
+    },
+    {
+      "english": "Kind words at home, start with you.",
+      "norwegian": "Gode ord hjemme, start med deg.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433743"
+    },
+    {
+      "english": "Give yourself credit, you’re improving every day.",
+      "norwegian": "Gi deg selv ros, du blir bedre hver dag.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433745"
+    },
+    {
+      "english": "Your patience makes the whole house better.",
+      "norwegian": "Tålmodigheten din gjør hele hjemmet bedre.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433747"
+    },
+    {
+      "english": "Let’s turn mistakes into learning, not worry.",
+      "norwegian": "La oss gjøre feil om til læring, ikke bekymring.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433749"
+    },
+    {
+      "english": "Thanks for helping, it truly lightens things.",
+      "norwegian": "Takk for hjelpen, det gjør det lettere virkelig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433751"
+    },
+    {
+      "english": "Today, we choose calm, even when it’s busy.",
+      "norwegian": "I dag velger vi ro, selv når det er travelt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433755"
+    },
+    {
+      "english": "Ask for help early, it’s a strength.",
+      "norwegian": "Spør om hjelp tidlig, det er styrke.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433757"
+    },
+    {
+      "english": "We don’t blame, we solve, step by step.",
+      "norwegian": "Vi skylder ikke, vi fikser, steg for steg.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433760"
+    },
+    {
+      "english": "Family meals are better when we slow down.",
+      "norwegian": "Familie-måltider blir bedre når vi senker tempoet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433764"
+    },
+    {
+      "english": "Your home effort counts, even on hard days.",
+      "norwegian": "Hjemmeinnsatsen din teller, også på tunge dager.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433765"
+    },
+    {
+      "english": "Celebrate small wins, the day feels easier.",
+      "norwegian": "Feir små seire, da føles dagen lettere.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433768"
+    },
+    {
+      "english": "You’re not behind, you’re just building.",
+      "norwegian": "Du er ikke bakpå, du bygger bare.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433770"
+    },
+    {
+      "english": "Keep your voice gentle, we’ll be okay.",
+      "norwegian": "Hold stemmen myk, så går det bra.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433772"
+    },
+    {
+      "english": "If it’s messy, we’ll fix it together.",
+      "norwegian": "Hvis det er rotete, fikser vi det sammen.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433775"
+    },
+    {
+      "english": "Try again now, the next attempt helps.",
+      "norwegian": "Prøv igjen nå, neste forsøk hjelper.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433776"
+    },
+    {
+      "english": "Warm hugs aren’t always needed, support works.",
+      "norwegian": "Klemmer trengs ikke alltid, støtte holder.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433779"
+    },
+    {
+      "english": "We’re a team, even during chores.",
+      "norwegian": "Vi er et lag, også når vi rydder.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433781"
+    },
+    {
+      "english": "Routine gives comfort, let’s stick to it.",
+      "norwegian": "Rutiner gir trygghet, la oss holde oss til det.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433783"
+    },
+    {
+      "english": "Good enough is powerful, especially at home.",
+      "norwegian": "Godt nok er kraftfullt, særlig hjemme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433786"
+    },
+    {
+      "english": "You’re allowed to rest, then continue.",
+      "norwegian": "Du har lov til å hvile, så fortsetter vi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433789"
+    },
+    {
+      "english": "Let’s speak kindly, even when we’re tired.",
+      "norwegian": "La oss snakke pent, selv når vi er slitne.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433791"
+    },
+    {
+      "english": "Your calm today sets the tone for all.",
+      "norwegian": "Roligheten din i dag setter tonen for alt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433793"
+    },
+    {
+      "english": "Home is where we learn patience and love.",
+      "norwegian": "Hjemmet er der vi lærer tålmodighet og kjærlighet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433795"
+    },
+    {
+      "english": "No perfection, just progress, let’s move forward.",
+      "norwegian": "Ingen perfeksjon, bare framgang, la oss gå videre.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433797"
+    },
+    {
+      "english": "I feel calmer, when we talk honestly.",
+      "norwegian": "Jeg føler meg roligere, når vi snakker ærlig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433799"
+    },
+    {
+      "english": "I’m tired, but I still want to help.",
+      "norwegian": "Jeg er sliten, men jeg vil fortsatt hjelpe.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433801"
+    },
+    {
+      "english": "Can you hear me, without rushing to fix?",
+      "norwegian": "Kan du høre meg, uten å skynde deg?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433803"
+    },
+    {
+      "english": "Let’s pause, I need a moment to breathe.",
+      "norwegian": "La oss ta en pause, jeg trenger et øyeblikk.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433805"
+    },
+    {
+      "english": "I’m not mad, I’m just overwhelmed right now.",
+      "norwegian": "Jeg er ikke sint, jeg er bare overveldet nå.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433808"
+    },
+    {
+      "english": "I wish we had more patience tonight.",
+      "norwegian": "Jeg skulle ønske vi hadde mer tålmodighet i kveld.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433809"
+    },
+    {
+      "english": "Home memories matter, even on ordinary days.",
+      "norwegian": "Hjemmeminner betyr mye, også på vanlige dager.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433813"
+    },
+    {
+      "english": "I’m trying to listen, not just answer.",
+      "norwegian": "Jeg prøver å lytte, ikke bare svare.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433815"
+    },
+    {
+      "english": "What I feel matters, and so does yours.",
+      "norwegian": "Det jeg føler betyr noe, det samme med deg.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433817"
+    },
+    {
+      "english": "Sometimes I just need comfort, not advice.",
+      "norwegian": "Noen ganger trenger jeg bare trøst, ikke råd.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433819"
+    },
+    {
+      "english": "I’m proud of us, for keeping going.",
+      "norwegian": "Jeg er stolt av oss, for at vi fortsetter.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433821"
+    },
+    {
+      "english": "Give me a minute, I’m thinking.",
+      "norwegian": "Gi meg ett minutt, jeg tenker.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433823"
+    },
+    {
+      "english": "I notice my tone, and I’ll soften it.",
+      "norwegian": "Jeg merker tonen min, og jeg mykner den.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433825"
+    },
+    {
+      "english": "We can talk later, when feelings settle.",
+      "norwegian": "Vi kan snakke senere, når følelsene roer seg.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433827"
+    },
+    {
+      "english": "Thank you, your support means a lot.",
+      "norwegian": "Takk, støtten din betyr mye.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433829"
+    },
+    {
+      "english": "I feel safe when we speak kindly.",
+      "norwegian": "Jeg føler meg trygg når vi snakker vennlig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433831"
+    },
+    {
+      "english": "I’m learning, and it takes time.",
+      "norwegian": "Jeg lærer, og det tar tid.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433834"
+    },
+    {
+      "english": "Let’s own our feelings, no blaming.",
+      "norwegian": "La oss ta ansvar for følelsene, uten å legge skyld.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433836"
+    },
+    {
+      "english": "When I’m quiet, I’m still here.",
+      "norwegian": "Når jeg er stille, er jeg fortsatt her.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433839"
+    },
+    {
+      "english": "I miss you, and I need closeness.",
+      "norwegian": "Jeg savner deg, og jeg trenger nærhet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433840"
+    },
+    {
+      "english": "Today I choose calm, and I mean it.",
+      "norwegian": "I dag velger jeg ro, og jeg mener det.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433842"
+    },
+    {
+      "english": "Let’s talk feelings, not just routines.",
+      "norwegian": "La oss snakke om følelser, ikke bare rutiner.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433845"
+    },
+    {
+      "english": "I’m trying again, even if it’s slow.",
+      "norwegian": "Jeg prøver igjen, selv om det går sakte.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433847"
+    },
+    {
+      "english": "Your words hurt, but I want repair.",
+      "norwegian": "Ordene dine sårer, men jeg vil prøve å reparere.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433848"
+    },
+    {
+      "english": "I appreciate you, especially when it’s hard.",
+      "norwegian": "Jeg setter pris på deg, særlig når det er vanskelig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433851"
+    },
+    {
+      "english": "We don’t have to win, we need peace.",
+      "norwegian": "Vi trenger ikke å vinne, vi trenger fred.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433853"
+    },
+    {
+      "english": "I’m proud of your effort, not the result.",
+      "norwegian": "Jeg er stolt av innsatsen din, ikke bare resultatet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433855"
+    },
+    {
+      "english": "Let’s slow down, so we feel seen.",
+      "norwegian": "La oss senke farten, så vi blir sett.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433857"
+    },
+    {
+      "english": "Can you help me, just for ten minutes?",
+      "norwegian": "Kan du hjelpe meg, bare i ti minutter?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433858"
+    },
+    {
+      "english": "Before bed, we tidy one small thing.",
+      "norwegian": "Før vi legger oss, rydder vi én liten ting.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433860"
+    },
+    {
+      "english": "Put it back, please, so it’s easy later.",
+      "norwegian": "Legg det tilbake, vær så snill, så det blir lett senere.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-07T09:43:28.433862"
     }
   ],
-  "last_updated": "2026-11-06T10:31:17.469024"
+  "last_updated": "2026-11-07T09:43:28.433864"
 }
