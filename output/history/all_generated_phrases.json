@@ -15119,7 +15119,727 @@
       "norwegian": "Legg det tilbake, vær så snill, så det blir lett senere.",
       "category": "Family & Home",
       "generated_at": "2026-11-07T09:43:28.433862"
+    },
+    {
+      "english": "Good morning, smile first, breathe easy.",
+      "norwegian": "God morgen, smil først, pust rolig.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529276"
+    },
+    {
+      "english": "Aw, nice! That made my day.",
+      "norwegian": "Å, så hyggelig! Det gjorde dagen min.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529291"
+    },
+    {
+      "english": "Wow, you nailed it, I feel great.",
+      "norwegian": "Oi, du traff blink, jeg føler meg bra.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529295"
+    },
+    {
+      "english": "Tell me everything, I’m all ears.",
+      "norwegian": "Fortell meg alt, jeg er bare øre.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529298"
+    },
+    {
+      "english": "Thanks a lot, you’re seriously awesome.",
+      "norwegian": "Tusen takk, du er skikkelig rå.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529302"
+    },
+    {
+      "english": "Wait, really? That’s so good!",
+      "norwegian": "Vent, mener du det? Så bra!",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529305"
+    },
+    {
+      "english": "Nice one, I love the energy!",
+      "norwegian": "Kjempebra, jeg elsker energien din!",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529308"
+    },
+    {
+      "english": "This is it, I’m finally happy.",
+      "norwegian": "Dette er det, jeg er endelig glad.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529314"
+    },
+    {
+      "english": "No worries, we’ll sort it out.",
+      "norwegian": "Ingen stress, vi ordner det.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529318"
+    },
+    {
+      "english": "Hey, let’s go, good vibes only.",
+      "norwegian": "Hei, kom igjen, bare god energi!",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529321"
+    },
+    {
+      "english": "I’m in a good mood today.",
+      "norwegian": "Jeg er i godt humør i dag.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529324"
+    },
+    {
+      "english": "That’s sweet, I really needed this.",
+      "norwegian": "Så søtt, jeg trengte dette.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529329"
+    },
+    {
+      "english": "Let’s celebrate, you deserve it.",
+      "norwegian": "La oss feire, du fortjener det.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529332"
+    },
+    {
+      "english": "Honestly, this feels amazing, wow.",
+      "norwegian": "Ærlig talt, dette er helt fantastisk.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529335"
+    },
+    {
+      "english": "I got you, you’re not alone.",
+      "norwegian": "Jeg har deg, du er ikke alene.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529338"
+    },
+    {
+      "english": "Come here, hug time, let’s relax.",
+      "norwegian": "Kom hit, klemmetid, la oss slappe av.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529341"
+    },
+    {
+      "english": "What a relief, I can breathe again.",
+      "norwegian": "Så deilig, jeg kan puste igjen.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529343"
+    },
+    {
+      "english": "Good news! I’m smiling already.",
+      "norwegian": "Gode nyheter! Jeg smiler allerede.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529346"
+    },
+    {
+      "english": "That’s hilarious, I can’t stop laughing.",
+      "norwegian": "Det er så gøy, jeg klarer ikke å slutte å le.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529349"
+    },
+    {
+      "english": "I needed a break, and wow.",
+      "norwegian": "Jeg trengte en pause, og vips.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529352"
+    },
+    {
+      "english": "Feeling grateful, today’s a win.",
+      "norwegian": "Jeg føler meg takknemlig, i dag er en seier.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529355"
+    },
+    {
+      "english": "No kidding, this is actually perfect.",
+      "norwegian": "For real? Dette er faktisk helt perfekt.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529358"
+    },
+    {
+      "english": "You got it, I’m proud of you.",
+      "norwegian": "Klart du får det, jeg er stolt av deg.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529362"
+    },
+    {
+      "english": "Let it go, we’ll handle it.",
+      "norwegian": "Slipp det, vi fikser resten.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529365"
+    },
+    {
+      "english": "I’m good, thanks, just feeling light.",
+      "norwegian": "Jeg har det bra, takk, jeg føler meg lett.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529368"
+    },
+    {
+      "english": "That’s the spirit, keep that smile!",
+      "norwegian": "Det er holdningen, behold smilet!",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529371"
+    },
+    {
+      "english": "Seriously though, I’m happy for us.",
+      "norwegian": "Helt seriøst, jeg er glad på våre vegne.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529374"
+    },
+    {
+      "english": "Alright, I’m ready, let’s do this.",
+      "norwegian": "Ok, jeg er klar, vi kjører!",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529377"
+    },
+    {
+      "english": "How do you stay happy, day to day?",
+      "norwegian": "Hvordan holder du deg glad, dag for dag?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529380"
+    },
+    {
+      "english": "Can I ask, what’s your best happiness tip?",
+      "norwegian": "Kan jeg spørre, hva er ditt beste lykketips?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529383"
+    },
+    {
+      "english": "Do you talk to someone, when you feel low?",
+      "norwegian": "Snakker du med noen, når du føler deg lav?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529387"
+    },
+    {
+      "english": "Where do you get your best energy from?",
+      "norwegian": "Hvor får du energien din fra, egentlig?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529389"
+    },
+    {
+      "english": "When you’re stressed, what helps you most?",
+      "norwegian": "Når du er stresset, hva hjelper deg mest?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529392"
+    },
+    {
+      "english": "What’s one small thing that cheers you up?",
+      "norwegian": "Hva er én liten ting som gjør deg glad?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529395"
+    },
+    {
+      "english": "Could you share, what you do for joy?",
+      "norwegian": "Kan du dele, hva du gjør for glede?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529397"
+    },
+    {
+      "english": "Do you prefer morning walks, or quiet nights?",
+      "norwegian": "Foretrekker du morgenturer, eller rolige kvelder?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529400"
+    },
+    {
+      "english": "How do you cope, when plans fall apart?",
+      "norwegian": "Hvordan takler du det, når planene faller fra hverandre?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529402"
+    },
+    {
+      "english": "What’s your go-to trick for a better mood?",
+      "norwegian": "Hva er ditt vanlige knep for bedre humør?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529405"
+    },
+    {
+      "english": "Are you okay, or do you need a chat?",
+      "norwegian": "Er du i orden, eller trenger du en prat?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529407"
+    },
+    {
+      "english": "How do you make yourself feel seen?",
+      "norwegian": "Hvordan får du deg til å føle deg sett?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529409"
+    },
+    {
+      "english": "What do you do, when you lose motivation?",
+      "norwegian": "Hva gjør du når motivasjonen forsvinner?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529412"
+    },
+    {
+      "english": "Can you recommend something simple, for today?",
+      "norwegian": "Kan du anbefale noe enkelt, for i dag?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529423"
+    },
+    {
+      "english": "Do you journal, or keep it all in your head?",
+      "norwegian": "Skriver du dagbok, eller holder du det inni hodet?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529426"
+    },
+    {
+      "english": "What’s your favorite way to recharge?",
+      "norwegian": "Hva liker du best for å lade opp?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529429"
+    },
+    {
+      "english": "When life feels heavy, what’s your anchor?",
+      "norwegian": "Når livet kjennes tungt, hva er din forankring?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529432"
+    },
+    {
+      "english": "How do you handle it, when you overthink?",
+      "norwegian": "Hvordan håndterer du det, når du tenker for mye?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529434"
+    },
+    {
+      "english": "What’s a kind question to ask yourself?",
+      "norwegian": "Hvilket snilt spørsmål kan du stille deg selv?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529437"
+    },
+    {
+      "english": "Could we talk, what’s been lifting you lately?",
+      "norwegian": "Kan vi snakke, hva har løftet deg i det siste?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529440"
+    },
+    {
+      "english": "Do you want advice, or just someone to listen?",
+      "norwegian": "Vil du ha råd, eller vil du bare at noen lytter?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529443"
+    },
+    {
+      "english": "How often do you check in with your feelings?",
+      "norwegian": "Hvor ofte sjekker du inn med følelsene dine?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529445"
+    },
+    {
+      "english": "What helps you, when you feel stuck?",
+      "norwegian": "Hva hjelper deg, når du føler deg fast?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529447"
+    },
+    {
+      "english": "Can you tell me, what you’re grateful for?",
+      "norwegian": "Kan du si meg, hva du er takknemlig for?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529450"
+    },
+    {
+      "english": "What’s the best way to start a happy day?",
+      "norwegian": "Hva er den beste måten å starte en glad dag?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529453"
+    },
+    {
+      "english": "Do you set small goals, to stay motivated?",
+      "norwegian": "Setter du små mål, for å holde motivasjonen oppe?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529455"
+    },
+    {
+      "english": "What do you do first, when you need comfort?",
+      "norwegian": "Hva gjør du først, når du trenger trøst?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529458"
+    },
+    {
+      "english": "How can I support you, right now?",
+      "norwegian": "Hvordan kan jeg støtte deg, akkurat nå?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529461"
+    },
+    {
+      "english": "Want to try this together, one small step?",
+      "norwegian": "Vil du prøve dette sammen, ett lite steg?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529463"
+    },
+    {
+      "english": "You’ve got this, one breath at a time",
+      "norwegian": "Du klarer dette, ett pust om gangen",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529466"
+    },
+    {
+      "english": "Tell yourself, today counts, even in small ways",
+      "norwegian": "Si til deg selv, i dag teller, selv i små ting",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529469"
+    },
+    {
+      "english": "Slow down, your mood will follow",
+      "norwegian": "Senke farten, humøret følger etter",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529472"
+    },
+    {
+      "english": "I notice the good, and I keep it",
+      "norwegian": "Jeg legger merke til det gode, og jeg beholder det",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529474"
+    },
+    {
+      "english": "Warm words, to your own heart",
+      "norwegian": "Varme ord, til ditt eget hjerte",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529476"
+    },
+    {
+      "english": "Practice kindness, it comes back to you",
+      "norwegian": "Vær snill, det kommer tilbake til deg",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529479"
+    },
+    {
+      "english": "Celebrate progress, not just perfect days",
+      "norwegian": "Feir framgang, ikke bare perfekte dager",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529482"
+    },
+    {
+      "english": "I’m proud of you, keep going gently",
+      "norwegian": "Jeg er stolt av deg, fortsett rolig",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529485"
+    },
+    {
+      "english": "Find the tiny win, then breathe",
+      "norwegian": "Finn den lille seieren, så pust",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529489"
+    },
+    {
+      "english": "When thoughts spiral, choose one calm sentence",
+      "norwegian": "Når tankene spinner, velg en rolig setning",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529491"
+    },
+    {
+      "english": "Give yourself credit, you worked for this",
+      "norwegian": "Gi deg selv ros, du har jobbet for dette",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529493"
+    },
+    {
+      "english": "Today I choose lightness, not heaviness",
+      "norwegian": "I dag velger jeg letthet, ikke tyngde",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529496"
+    },
+    {
+      "english": "Say it: I’m allowed to feel good",
+      "norwegian": "Si det: Jeg har lov å ha det godt",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529499"
+    },
+    {
+      "english": "Let encouragement land, right where it fits",
+      "norwegian": "La oppmuntringen sitte, akkurat der den passer",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529501"
+    },
+    {
+      "english": "You did your best, that’s enough",
+      "norwegian": "Du gjorde ditt beste, det er nok",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529504"
+    },
+    {
+      "english": "Keep your promises to yourself",
+      "norwegian": "Hold løftene til deg selv",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529506"
+    },
+    {
+      "english": "Happiness grows where you pay attention",
+      "norwegian": "Lykken vokser der du følger med",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529508"
+    },
+    {
+      "english": "A small compliment can change your whole day",
+      "norwegian": "En liten ros kan snu hele dagen",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529511"
+    },
+    {
+      "english": "Be patient, your joy will return",
+      "norwegian": "Vær tålmodig, gleden kommer tilbake",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529513"
+    },
+    {
+      "english": "I’m learning, and that’s something to smile about",
+      "norwegian": "Jeg lærer, og det er noe å smile av",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529518"
+    },
+    {
+      "english": "Choose what supports you, and let the rest go",
+      "norwegian": "Velg det som støtter deg, og slipp resten",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529521"
+    },
+    {
+      "english": "Say thank you, even for ordinary moments",
+      "norwegian": "Si takk, også for vanlige øyeblikk",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529523"
+    },
+    {
+      "english": "Your feelings are real, be kind to them",
+      "norwegian": "Følelsene dine er ekte, vær snill med dem",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529525"
+    },
+    {
+      "english": "I can start again, no drama",
+      "norwegian": "Jeg kan starte på nytt, uten drama",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529528"
+    },
+    {
+      "english": "Today’s attitude, tomorrow’s energy",
+      "norwegian": "Dagens holdning, morgendagens energi",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529531"
+    },
+    {
+      "english": "Praise the effort, the results will follow",
+      "norwegian": "Skryt av innsatsen, så kommer resultatene",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529533"
+    },
+    {
+      "english": "Ask yourself, what helps me feel safe?",
+      "norwegian": "Spør deg selv, hva får meg til å føle meg trygg?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529536"
+    },
+    {
+      "english": "I build hope, by taking one honest step",
+      "norwegian": "Jeg bygger håp, med ett ærlig steg",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529539"
+    },
+    {
+      "english": "When you stumble, get back up calmly",
+      "norwegian": "Når du faller, reis deg rolig igjen",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529542"
+    },
+    {
+      "english": "Choose joy, because you deserve it",
+      "norwegian": "Velg glede, fordi du fortjener det",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529544"
+    },
+    {
+      "english": "I’m being honest, this feels heavy today",
+      "norwegian": "Jeg er ærlig, dette føles tungt i dag",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529547"
+    },
+    {
+      "english": "I can feel good, even if I’m scared",
+      "norwegian": "Jeg kan ha det bra, selv om jeg er redd",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529550"
+    },
+    {
+      "english": "Slow joy still counts, I’m noticing that",
+      "norwegian": "Langsom glede teller også, jeg merker det",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529553"
+    },
+    {
+      "english": "I don’t rush my heart, it learns at ease",
+      "norwegian": "Jeg haster ikke med hjertet, det lærer rolig",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529556"
+    },
+    {
+      "english": "Sometimes happiness is quiet, and I let it in",
+      "norwegian": "Noen ganger er lykken stille, og jeg slipper den inn",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529559"
+    },
+    {
+      "english": "Tell me what you’re feeling, no filter",
+      "norwegian": "Si hva du føler, uten filter",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529562"
+    },
+    {
+      "english": "I’m choosing kindness, even with mixed feelings",
+      "norwegian": "Jeg velger godhet, selv når jeg har blandede følelser",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529565"
+    },
+    {
+      "english": "I trust myself, I’ll figure it out",
+      "norwegian": "Jeg stoler på meg selv, jeg finner det ut",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529568"
+    },
+    {
+      "english": "My happiness comes back, when I rest",
+      "norwegian": "Lykken min kommer tilbake, når jeg hviler",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529570"
+    },
+    {
+      "english": "I’m making space for good thoughts today",
+      "norwegian": "Jeg lager plass til gode tanker i dag",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529573"
+    },
+    {
+      "english": "If I’m off, I’ll be gentle with myself",
+      "norwegian": "Hvis jeg er annerledes, blir jeg snill med meg selv",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529576"
+    },
+    {
+      "english": "I let the moment be, not perfect",
+      "norwegian": "Jeg lar øyeblikket være, ikke perfekt",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529578"
+    },
+    {
+      "english": "I’m proud that I keep showing up",
+      "norwegian": "Jeg er stolt av at jeg fortsetter å møte opp",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529580"
+    },
+    {
+      "english": "You don’t need to be okay all the time",
+      "norwegian": "Du trenger ikke å være i orden hele tiden",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529583"
+    },
+    {
+      "english": "I’m learning what makes me feel safe",
+      "norwegian": "Jeg lærer hva som gjør meg trygg",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529586"
+    },
+    {
+      "english": "Even small peace, feels like real happiness",
+      "norwegian": "Selv litt ro føles som ekte lykke",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529588"
+    },
+    {
+      "english": "I forgive myself quickly, then I move forward",
+      "norwegian": "Jeg tilgir meg selv fort, så går jeg videre",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529590"
+    },
+    {
+      "english": "Let your heart talk, I’m listening closely",
+      "norwegian": "La hjertet ditt snakke, jeg lytter nøye",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529593"
+    },
+    {
+      "english": "I don’t chase happiness, I nurture it",
+      "norwegian": "Jeg jager ikke lykke, jeg pleier den",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529596"
+    },
+    {
+      "english": "When I’m honest, my mood softens",
+      "norwegian": "Når jeg er ærlig, mykner humøret mitt",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529598"
+    },
+    {
+      "english": "I choose patience, even if it takes longer",
+      "norwegian": "Jeg velger tålmodighet, selv om det tar tid",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529602"
+    },
+    {
+      "english": "I’m allowed to want more, gently",
+      "norwegian": "Jeg har lov til å ønske mer, forsiktig",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529604"
+    },
+    {
+      "english": "Your feelings guide you, not judge you",
+      "norwegian": "Dine følelser leder deg, ikke dømmer deg",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529607"
+    },
+    {
+      "english": "I keep what’s good, and I drop the rest",
+      "norwegian": "Jeg beholder det som er bra, og slipper resten",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529610"
+    },
+    {
+      "english": "Happiness feels closer when I speak kindly",
+      "norwegian": "Lykken føles nærmere når jeg snakker vennlig",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529612"
+    },
+    {
+      "english": "I check in, then I decide what helps",
+      "norwegian": "Jeg sjekker inn, så velger jeg det som hjelper",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529614"
+    },
+    {
+      "english": "I’m not behind, I’m just taking my time",
+      "norwegian": "Jeg er ikke bak, jeg tar bare tiden jeg trenger",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529617"
+    },
+    {
+      "english": "If today hurts, I still deserve softness",
+      "norwegian": "Hvis i dag gjør vondt, fortjener jeg mykhet",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529619"
+    },
+    {
+      "english": "I trust the process, one honest breath at once",
+      "norwegian": "Jeg stoler på prosessen, én ærlig pust om gangen",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529622"
+    },
+    {
+      "english": "We can be real, and still find light",
+      "norwegian": "Vi kan være ekte, og likevel finne lys",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529624"
+    },
+    {
+      "english": "After work, I walk a few minutes, reset.",
+      "norwegian": "Etter jobb, jeg går noen minutter, lader om.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529628"
+    },
+    {
+      "english": "Before plans, I ask, what’s my energy today?",
+      "norwegian": "Før planer, spør jeg, hva er energien min i dag?",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529631"
+    },
+    {
+      "english": "Call a friend, vent a little, then breathe.",
+      "norwegian": "Ring en venn, tøm litt, og pust rolig.",
+      "category": "Happiness",
+      "generated_at": "2026-11-08T09:57:44.529634"
     }
   ],
-  "last_updated": "2026-11-07T09:43:28.433864"
+  "last_updated": "2026-11-08T09:57:44.529636"
 }
