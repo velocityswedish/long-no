@@ -16559,7 +16559,727 @@
       "norwegian": "Kom tidlig, la stressen roe seg.",
       "category": "Motivation",
       "generated_at": "2026-11-09T11:02:21.956392"
+    },
+    {
+      "english": "Hey, I'm hoping for the best, okay?",
+      "norwegian": "Hei, jeg håper det beste, greit?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588195"
+    },
+    {
+      "english": "I hope you're doing fine, seriously.",
+      "norwegian": "Jeg håper du har det bra, seriøst.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588214"
+    },
+    {
+      "english": "Fingers crossed, I hope so too.",
+      "norwegian": "Krysser fingrene, jeg håper det samme.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588217"
+    },
+    {
+      "english": "Maybe, I'm hoping we'll get lucky.",
+      "norwegian": "Kanskje, jeg håper vi får litt flaks.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588220"
+    },
+    {
+      "english": "Just hang on, I hope it helps.",
+      "norwegian": "Hold ut, jeg håper det hjelper.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588222"
+    },
+    {
+      "english": "I hope it's not too late.",
+      "norwegian": "Jeg håper det ikke er for sent.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588224"
+    },
+    {
+      "english": "Let's hope for a quick solution.",
+      "norwegian": "La oss håpe på en rask løsning.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588226"
+    },
+    {
+      "english": "I hope you understand, it’s simple.",
+      "norwegian": "Jeg håper du skjønner, det er enkelt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588231"
+    },
+    {
+      "english": "I’m hoping, but we’ll see, right?",
+      "norwegian": "Jeg håper, men vi får se, sant?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588235"
+    },
+    {
+      "english": "Hope you feel better, soon.",
+      "norwegian": "Håper du blir bedre snart.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588237"
+    },
+    {
+      "english": "I hope the weather stays nice.",
+      "norwegian": "Jeg håper været holder seg fint.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588239"
+    },
+    {
+      "english": "Good, I’m hoping it goes well.",
+      "norwegian": "Så bra, jeg håper det går fint.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588242"
+    },
+    {
+      "english": "Please, let’s hope for less trouble.",
+      "norwegian": "Vær så snill, la oss håpe på mindre trøbbel.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588244"
+    },
+    {
+      "english": "I hope we meet again, someday.",
+      "norwegian": "Jeg håper vi møtes igjen, en dag.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588246"
+    },
+    {
+      "english": "Hold tight, I hope this works out.",
+      "norwegian": "Hold fast, jeg håper dette ordner seg.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588248"
+    },
+    {
+      "english": "I hope you get it sorted today.",
+      "norwegian": "Jeg håper du får det i orden i dag.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588250"
+    },
+    {
+      "english": "I’m hoping for a calm day, please.",
+      "norwegian": "Jeg håper på en rolig dag, vær så snill.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588253"
+    },
+    {
+      "english": "No worries, I hope it’s manageable.",
+      "norwegian": "Ingen stress, jeg håper det er overkommelig.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588255"
+    },
+    {
+      "english": "I hope you’re not too disappointed.",
+      "norwegian": "Jeg håper du ikke blir så skuffet.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588258"
+    },
+    {
+      "english": "Fingers crossed, hope this message helps.",
+      "norwegian": "Krysser fingrene, håper denne meldingen hjelper.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588260"
+    },
+    {
+      "english": "I hope it doesn’t fall apart, okay?",
+      "norwegian": "Jeg håper det ikke faller fra hverandre, greit?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588262"
+    },
+    {
+      "english": "Let’s hope, and keep it simple.",
+      "norwegian": "La oss håpe, og ta det enkelt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588265"
+    },
+    {
+      "english": "I hope you’re free later, maybe.",
+      "norwegian": "Jeg håper du er ledig senere, kanskje.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588269"
+    },
+    {
+      "english": "I’m hoping, this time it’s different.",
+      "norwegian": "Jeg håper, denne gangen er det annerledes.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588272"
+    },
+    {
+      "english": "Hope you got my point, really.",
+      "norwegian": "Jeg håper du skjønner poenget mitt, virkelig.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588274"
+    },
+    {
+      "english": "Wait, I hope they answer soon.",
+      "norwegian": "Vent litt, jeg håper de svarer snart.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588350"
+    },
+    {
+      "english": "I hope it’s all sorted now, please.",
+      "norwegian": "Jeg håper alt er ordnet nå, vær så snill.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588352"
+    },
+    {
+      "english": "Just believe me, I’m hoping it works.",
+      "norwegian": "Bare stol på meg, jeg håper det funker.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588355"
+    },
+    {
+      "english": "I hope you have a good one, today.",
+      "norwegian": "Jeg håper du får en fin dag i dag.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588357"
+    },
+    {
+      "english": "Let’s hope for peace, not chaos.",
+      "norwegian": "La oss håpe på fred, ikke kaos.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588359"
+    },
+    {
+      "english": "Can you help me, I’m trying, just asking?",
+      "norwegian": "Kan du hjelpe meg, jeg prøver, bare spør.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588362"
+    },
+    {
+      "english": "What do you think, should I wait a bit?",
+      "norwegian": "Hva tror du, skal jeg vente litt?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588364"
+    },
+    {
+      "english": "Do you have a tip, for what to say?",
+      "norwegian": "Har du et tips, til hva jeg bør si?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588366"
+    },
+    {
+      "english": "When should we ask, you think tomorrow?",
+      "norwegian": "Når bør vi spørre, tror du det er i morgen?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588368"
+    },
+    {
+      "english": "Could we talk now, I really need your advice?",
+      "norwegian": "Kan vi prate nå, jeg trenger råd?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588371"
+    },
+    {
+      "english": "Is it okay, if I check with you later?",
+      "norwegian": "Er det greit, om jeg sjekker med deg senere?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588373"
+    },
+    {
+      "english": "I’m not sure yet, but what would you do?",
+      "norwegian": "Jeg er ikke sikker ennå, hva ville du gjort?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588375"
+    },
+    {
+      "english": "Should I call first, or do you prefer messages?",
+      "norwegian": "Bør jeg ringe først, eller foretrekker du meldinger?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588379"
+    },
+    {
+      "english": "How’s it going, are things getting better?",
+      "norwegian": "Hvordan går det, blir det bedre?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588382"
+    },
+    {
+      "english": "Can we make a plan, if this drags on?",
+      "norwegian": "Kan vi lage en plan, hvis dette drar ut?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588384"
+    },
+    {
+      "english": "What’s the next step, do you know the answer?",
+      "norwegian": "Hva er neste steg, vet du svaret?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588386"
+    },
+    {
+      "english": "If it’s hard, tell me, I’ll adjust.",
+      "norwegian": "Hvis det er vanskelig, si ifra, så tilpasser jeg.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588389"
+    },
+    {
+      "english": "Would you mind repeating that, I missed it?",
+      "norwegian": "Kan du gjenta det, jeg hørte ikke helt?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588392"
+    },
+    {
+      "english": "Do you think it’ll work, even with changes?",
+      "norwegian": "Tror du det vil funke, selv med endringer?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588394"
+    },
+    {
+      "english": "I’m asking politely, can we try one more time?",
+      "norwegian": "Jeg spør høflig, kan vi prøve en gang til?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588397"
+    },
+    {
+      "english": "Where do we start, what’s best for you?",
+      "norwegian": "Hvor starter vi, hva er best for deg?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588399"
+    },
+    {
+      "english": "Could you explain, step by step, please?",
+      "norwegian": "Kan du forklare, steg for steg, vær så snill?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588402"
+    },
+    {
+      "english": "What if it goes wrong, what should I do?",
+      "norwegian": "Hva om det går galt, hva gjør jeg da?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588404"
+    },
+    {
+      "english": "Have you tried this before, does it help?",
+      "norwegian": "Har du prøvd dette før, funker det?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588406"
+    },
+    {
+      "english": "Let me know, if you can spare a minute.",
+      "norwegian": "Si ifra, hvis du kan avse et minutt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588408"
+    },
+    {
+      "english": "Are you sure, should we do it today?",
+      "norwegian": "Er du sikker, bør vi gjøre det i dag?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588410"
+    },
+    {
+      "english": "Can you check that for me, please?",
+      "norwegian": "Kan du se over det for meg, vær så snill?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588412"
+    },
+    {
+      "english": "I’m hopeful, but what’s your realistic plan?",
+      "norwegian": "Jeg håper, men hva er planen din, realistisk?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588415"
+    },
+    {
+      "english": "What do you expect next, from them?",
+      "norwegian": "Hva forventer du nå, fra dem?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588417"
+    },
+    {
+      "english": "If you’re busy, tell me, I’ll wait.",
+      "norwegian": "Hvis du har det travelt, si fra, så venter jeg.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588420"
+    },
+    {
+      "english": "Do you have time for a quick call?",
+      "norwegian": "Har du tid til en rask telefonsamtale?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588422"
+    },
+    {
+      "english": "Should we ask around, or just wait quietly?",
+      "norwegian": "Bør vi spørre oss litt rundt, eller vente stille?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588425"
+    },
+    {
+      "english": "How can I help, I want to make it easier?",
+      "norwegian": "Hvordan kan jeg hjelpe, jeg vil gjøre det lettere.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588429"
+    },
+    {
+      "english": "What’s the safest option, in your opinion?",
+      "norwegian": "Hva er den tryggeste løsningen, etter din mening?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588431"
+    },
+    {
+      "english": "Can we confirm details, so we’re on track?",
+      "norwegian": "Kan vi bekrefte detaljene, så vi er på rett spor?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588434"
+    },
+    {
+      "english": "Fingers crossed, it holds up this time.",
+      "norwegian": "Håper inderlig, det holder denne gangen.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588436"
+    },
+    {
+      "english": "Let’s not panic, we’ll sort it out.",
+      "norwegian": "Ikke få panikk, vi fikser det.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588439"
+    },
+    {
+      "english": "Cross your heart, we’ll make it.",
+      "norwegian": "Hold meg fast, vi får det til.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588441"
+    },
+    {
+      "english": "I’ve got a good feeling, for once.",
+      "norwegian": "Jeg har et godt håp, for en gangs skyld.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588443"
+    },
+    {
+      "english": "Keep it light, things usually turn around.",
+      "norwegian": "Ta det rolig, det snur som regel.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588445"
+    },
+    {
+      "english": "If it works, great, if not, we learn.",
+      "norwegian": "Hvis det funker, knallbra, om ikke, så lærer vi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588450"
+    },
+    {
+      "english": "No stress, tomorrow might be kinder.",
+      "norwegian": "Ingen stress, i morgen kan det bli snillere.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588452"
+    },
+    {
+      "english": "Fingers crossed, that message lands right.",
+      "norwegian": "Kryss fingrene, at den beskjeden treffer.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588454"
+    },
+    {
+      "english": "Hold on, we’re closer than you think.",
+      "norwegian": "Stå på, vi er nærmere enn du tror.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588458"
+    },
+    {
+      "english": "Maybe it’s a sign, we’ll see.",
+      "norwegian": "Kanskje det er et tegn, vi får se.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588463"
+    },
+    {
+      "english": "Let’s hope for the best, plan anyway.",
+      "norwegian": "Vi håper på det beste, men planlegg.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588465"
+    },
+    {
+      "english": "Keep the faith, it’s not over yet.",
+      "norwegian": "Hold troen, det er ikke slutt ennå.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588468"
+    },
+    {
+      "english": "This can’t be the end, right?",
+      "norwegian": "Dette kan jo ikke være slutten, sant?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588471"
+    },
+    {
+      "english": "I’m betting on a good outcome.",
+      "norwegian": "Jeg satser på et bra utfall.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588473"
+    },
+    {
+      "english": "Hang in there, better news may come.",
+      "norwegian": "Heng i, kanskje det kommer bedre nyheter.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588475"
+    },
+    {
+      "english": "Let’s try, worst case we adjust.",
+      "norwegian": "La oss prøve, verste fall justerer vi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588477"
+    },
+    {
+      "english": "Don’t count it out yet, okay?",
+      "norwegian": "Ikke avskriv det ennå, ok?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588480"
+    },
+    {
+      "english": "We’ll see, but I’m optimistic.",
+      "norwegian": "Vi får se, men jeg er optimistisk.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588482"
+    },
+    {
+      "english": "It’ll work out, one way or another.",
+      "norwegian": "Det ordner seg, på en eller annen måte.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588484"
+    },
+    {
+      "english": "Fingers crossed, they finally answer.",
+      "norwegian": "Kryss fingrene, at de endelig svarer.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588487"
+    },
+    {
+      "english": "Keep going, something good might happen.",
+      "norwegian": "Bare fortsett, noe bra kan skje.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588489"
+    },
+    {
+      "english": "Let’s hope, but stay realistic.",
+      "norwegian": "Vi håper, men vi holder oss realistiske.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588492"
+    },
+    {
+      "english": "If not today, maybe next week.",
+      "norwegian": "Ikke i dag, kanskje neste uke.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588494"
+    },
+    {
+      "english": "Hope it clicks, then we’re golden.",
+      "norwegian": "Håper det sitter, da er vi i mål.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588496"
+    },
+    {
+      "english": "Let’s make it easy, take it stepwise.",
+      "norwegian": "La det bli enkelt, ta det steg for steg.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588499"
+    },
+    {
+      "english": "I trust it’ll land well, really.",
+      "norwegian": "Jeg tror det lander bra, virkelig.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588501"
+    },
+    {
+      "english": "Cross your fingers, we’re close.",
+      "norwegian": "Kryss fingrene, vi er snart der.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588503"
+    },
+    {
+      "english": "Let’s not rush, timing matters.",
+      "norwegian": "La oss ikke stresse, timing betyr mye.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588506"
+    },
+    {
+      "english": "I’m keeping it positive, no matter what.",
+      "norwegian": "Jeg holder humøret oppe, uansett.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588508"
+    },
+    {
+      "english": "Praying for luck, but we’ll do our part.",
+      "norwegian": "Vi håper på flaks, men vi gjør vår del.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588510"
+    },
+    {
+      "english": "I’m trying to stay calm, even now.",
+      "norwegian": "Jeg prøver å holde meg rolig, selv nå.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588512"
+    },
+    {
+      "english": "It feels heavy, but I won’t quit.",
+      "norwegian": "Det føles tungt, men jeg gir ikke opp.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588515"
+    },
+    {
+      "english": "I trust small steps, they add up.",
+      "norwegian": "Jeg stoler på små steg, de teller.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588517"
+    },
+    {
+      "english": "Honestly, I need time to feel safe.",
+      "norwegian": "Ærlig talt, jeg trenger tid for å føle meg trygg.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588519"
+    },
+    {
+      "english": "Some days, hope is just a whisper.",
+      "norwegian": "Noen dager er håp bare et lite sukk.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588522"
+    },
+    {
+      "english": "I’m not pretending, I’m choosing better.",
+      "norwegian": "Jeg later ikke som, jeg velger noe bedre.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588524"
+    },
+    {
+      "english": "I hold on to what we already know.",
+      "norwegian": "Jeg holder fast ved det vi allerede vet.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588526"
+    },
+    {
+      "english": "Let’s be patient, feelings follow action.",
+      "norwegian": "La oss være tålmodige, følelsene kommer etter.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588529"
+    },
+    {
+      "english": "I keep checking in with myself, gently.",
+      "norwegian": "Jeg sjekker inn med meg selv, mildt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588531"
+    },
+    {
+      "english": "If it hurts, that doesn’t mean it’s wrong.",
+      "norwegian": "Hvis det gjør vondt, betyr ikke det at det er feil.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588534"
+    },
+    {
+      "english": "I’ve got hope, but I pace my heart.",
+      "norwegian": "Jeg har håp, men jeg tar det i ro.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588542"
+    },
+    {
+      "english": "I’m listening for peace, not perfection.",
+      "norwegian": "Jeg lytter etter ro, ikke perfeksjon.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588546"
+    },
+    {
+      "english": "I can feel fear, and still move forward.",
+      "norwegian": "Jeg kan kjenne frykt, og likevel gå videre.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588549"
+    },
+    {
+      "english": "I hope we notice the small wins today.",
+      "norwegian": "Jeg håper vi legger merke til små seire i dag.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588552"
+    },
+    {
+      "english": "I’m learning to breathe, then decide.",
+      "norwegian": "Jeg lærer å puste, så bestemme.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588554"
+    },
+    {
+      "english": "To me, hope means showing up again.",
+      "norwegian": "For meg betyr håp at jeg møter opp igjen.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588556"
+    },
+    {
+      "english": "I don’t need miracles, just steady effort.",
+      "norwegian": "Jeg trenger ikke mirakler, bare jevn innsats.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588559"
+    },
+    {
+      "english": "I’m holding space for a better ending.",
+      "norwegian": "Jeg gir plass til en bedre slutt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588561"
+    },
+    {
+      "english": "Sometimes honesty is the bravest hope.",
+      "norwegian": "Noen ganger er ærlighet det modigste håpet.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588563"
+    },
+    {
+      "english": "I won’t rush the healing, it has its pace.",
+      "norwegian": "Jeg vil ikke haste med helingen, den har tempoet sitt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588566"
+    },
+    {
+      "english": "I’m trying to believe without forcing it.",
+      "norwegian": "Jeg prøver å tro, uten å tvinge det.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588569"
+    },
+    {
+      "english": "Even if it’s slow, I’m in it.",
+      "norwegian": "Selv om det går sakte, er jeg med.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588571"
+    },
+    {
+      "english": "I’ll be kind to myself, and to you.",
+      "norwegian": "Jeg skal være snill mot meg selv, og mot deg.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588574"
+    },
+    {
+      "english": "I’m not giving up, I’m adjusting.",
+      "norwegian": "Jeg gir ikke opp, jeg justerer kursen.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588576"
+    },
+    {
+      "english": "I’m choosing hope, even when it’s messy.",
+      "norwegian": "Jeg velger håp, selv når det er kaos.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588579"
+    },
+    {
+      "english": "I keep my hopes realistic, and still warm.",
+      "norwegian": "Jeg holder håpet realistisk, men varmt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588581"
+    },
+    {
+      "english": "Let’s talk about what we feel, first.",
+      "norwegian": "La oss snakke om hva vi føler, først.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588583"
+    },
+    {
+      "english": "I’m hopeful, but I’m listening for clues.",
+      "norwegian": "Jeg er håpefull, men jeg lytter etter tegn.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588586"
+    },
+    {
+      "english": "I won’t label this as failure yet.",
+      "norwegian": "Jeg vil ikke kalle dette et nederlag ennå.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588588"
+    },
+    {
+      "english": "I’m staying present, because hope grows here.",
+      "norwegian": "Jeg blir i øyeblikket, for håpet vokser her.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T10:52:08.588591"
     }
   ],
-  "last_updated": "2026-11-09T11:02:21.956394"
+  "last_updated": "2026-11-10T10:52:08.588593"
 }
