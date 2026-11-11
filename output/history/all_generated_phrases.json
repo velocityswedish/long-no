@@ -17279,7 +17279,727 @@
       "norwegian": "Jeg blir i øyeblikket, for håpet vokser her.",
       "category": "Hope",
       "generated_at": "2026-11-10T10:52:08.588591"
+    },
+    {
+      "english": "Excuse me, where is the nearest metro?",
+      "norwegian": "Unnskyld, hvor er nærmeste t-bane?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622201"
+    },
+    {
+      "english": "Sorry, can you point me to the train?",
+      "norwegian": "Beklager, kan du vise meg til toget?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622216"
+    },
+    {
+      "english": "Hi, how do I get to the bus?",
+      "norwegian": "Hei, hvordan kommer jeg til bussen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622220"
+    },
+    {
+      "english": "Quick question, where’s the closest tram stop?",
+      "norwegian": "Et kjapt spørsmål, hvor er nærmeste trikkeholdeplass?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622224"
+    },
+    {
+      "english": "I’m trying to find the city center, please.",
+      "norwegian": "Jeg prøver å finne sentrum, vær så snill.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622228"
+    },
+    {
+      "english": "Do I go straight, or turn here?",
+      "norwegian": "Går jeg rett fram, eller svinger her?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622231"
+    },
+    {
+      "english": "Is it on this street, or the next one?",
+      "norwegian": "Ligger det her på gaten, eller neste?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622234"
+    },
+    {
+      "english": "Can you help me, I’m a bit lost?",
+      "norwegian": "Kan du hjelpe meg, jeg er litt borte?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622243"
+    },
+    {
+      "english": "Great, thank you, so it’s near here?",
+      "norwegian": "Kjempebra, takk, så det er i nærheten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622247"
+    },
+    {
+      "english": "Sorry, I don’t understand, can you repeat?",
+      "norwegian": "Beklager, jeg skjønner ikke, kan du gjenta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622251"
+    },
+    {
+      "english": "Wait, which way is downtown from here?",
+      "norwegian": "Vent, hvilken vei går man til sentrum herfra?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622254"
+    },
+    {
+      "english": "Thanks, I’ll walk from here, I think.",
+      "norwegian": "Takk, jeg går fra her, tror jeg.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622258"
+    },
+    {
+      "english": "How far is it from here, roughly?",
+      "norwegian": "Hvor langt er det herfra, cirka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622261"
+    },
+    {
+      "english": "Is it safe to walk there at night?",
+      "norwegian": "Er det trygt å gå dit om natten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622263"
+    },
+    {
+      "english": "Where’s the entrance, like, the main one?",
+      "norwegian": "Hvor er inngangen, den vanlige?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622266"
+    },
+    {
+      "english": "Do I need to cross the street?",
+      "norwegian": "Må jeg krysse veien?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622271"
+    },
+    {
+      "english": "Is there a sign nearby, maybe?",
+      "norwegian": "Er det et skilt i nærheten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622273"
+    },
+    {
+      "english": "Oh, perfect, so it’s two blocks away.",
+      "norwegian": "Å, perfekt, så det er to kvartaler unna.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622278"
+    },
+    {
+      "english": "What’s the quickest way to get there?",
+      "norwegian": "Hva er den raskeste måten å komme dit?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622282"
+    },
+    {
+      "english": "Can I take a shortcut through here?",
+      "norwegian": "Kan jeg ta en snarvei her?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622284"
+    },
+    {
+      "english": "Which station should I get off at?",
+      "norwegian": "Hvilken holdeplass må jeg gå av på?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622286"
+    },
+    {
+      "english": "Is it closer by tram or on foot?",
+      "norwegian": "Er det nærmere med trikk, eller til fots?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622289"
+    },
+    {
+      "english": "Okay, I’ll follow your directions.",
+      "norwegian": "Greit, jeg følger veibeskrivelsen din.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622292"
+    },
+    {
+      "english": "Sorry to bother you, is this the right way?",
+      "norwegian": "Unnskyld, er dette riktig vei?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622295"
+    },
+    {
+      "english": "Just checking, is there a subway entrance nearby?",
+      "norwegian": "Bare så jeg vet, er det en t-baneinngang i nærheten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622297"
+    },
+    {
+      "english": "I need to get to the airport, please.",
+      "norwegian": "Jeg må til flyplassen, vær så snill.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622300"
+    },
+    {
+      "english": "Does this bus go to the museum?",
+      "norwegian": "Går denne bussen til museet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622303"
+    },
+    {
+      "english": "How long does it take, roughly, by foot?",
+      "norwegian": "Hvor lang tid tar det, cirka, til fots?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622306"
+    },
+    {
+      "english": "No worries, thanks for trying anyway!",
+      "norwegian": "Ingen problem, takk for at du prøvde!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622309"
+    },
+    {
+      "english": "Perfect, see you, thanks again!",
+      "norwegian": "Supert, ha det bra, takk igjen!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622312"
+    },
+    {
+      "english": "Could you tell me where to enter here?",
+      "norwegian": "Kan du si hvor jeg går inn her?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622314"
+    },
+    {
+      "english": "I’m looking for the pharmacy, any idea?",
+      "norwegian": "Jeg leter etter apoteket, har du en idé?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622317"
+    },
+    {
+      "english": "What’s the best way to avoid traffic?",
+      "norwegian": "Hva er den beste veien for å unngå trafikk?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622321"
+    },
+    {
+      "english": "Which way should I walk from this corner?",
+      "norwegian": "Hvilken vei bør jeg gå fra dette hjørnet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622323"
+    },
+    {
+      "english": "Is there a café nearby, for quick directions?",
+      "norwegian": "Er det en kafé i nærheten, for raske tips?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622327"
+    },
+    {
+      "english": "Can I ask, is this the right stop?",
+      "norwegian": "Kan jeg spørre, er dette riktig stopp?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622330"
+    },
+    {
+      "english": "How do I get there, without walking too much?",
+      "norwegian": "Hvordan kommer jeg dit, uten å gå så mye?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622333"
+    },
+    {
+      "english": "Do buses run often here, especially in evenings?",
+      "norwegian": "Går bussen ofte her, spesielt om kvelden?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622335"
+    },
+    {
+      "english": "Is this near the river, or am I off?",
+      "norwegian": "Er dette nær elva, eller bommer jeg?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622338"
+    },
+    {
+      "english": "Which street name am I standing on?",
+      "norwegian": "Hva heter gata jeg står på?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622340"
+    },
+    {
+      "english": "Can I go that way, or is it closed?",
+      "norwegian": "Kan jeg gå den veien, eller er den stengt?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622342"
+    },
+    {
+      "english": "Is there a shortcut, but still safe?",
+      "norwegian": "Finnes det en snarvei, men fortsatt trygt?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622345"
+    },
+    {
+      "english": "What landmark should I look for first?",
+      "norwegian": "Hvilket landemerke skal jeg se først?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622347"
+    },
+    {
+      "english": "Is there a ticket machine nearby, by the tram?",
+      "norwegian": "Finnes det en billettautomat i nærheten, ved trikken?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622349"
+    },
+    {
+      "english": "Can you confirm, I’m heading the right way?",
+      "norwegian": "Kan du bekrefte at jeg går riktig?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622353"
+    },
+    {
+      "english": "Do I need cash, or can I tap?",
+      "norwegian": "Må jeg ha kontanter, eller kan jeg betale med kort?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622355"
+    },
+    {
+      "english": "How far is it to the main road?",
+      "norwegian": "Hvor langt er det til hovedgata?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622358"
+    },
+    {
+      "english": "If I miss the turn, what do I do?",
+      "norwegian": "Hvis jeg bommer på svingen, hva gjør jeg da?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622361"
+    },
+    {
+      "english": "Are there stairs, or is it ramp-friendly?",
+      "norwegian": "Er det trapper, eller er det tilgjengelig med rullestol?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622368"
+    },
+    {
+      "english": "Is the street lighted, so I can walk?",
+      "norwegian": "Er gata belyst, så jeg kan gå?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622370"
+    },
+    {
+      "english": "Which line should I take from here?",
+      "norwegian": "Hvilken linje tar jeg herfra?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622372"
+    },
+    {
+      "english": "What’s the name of the next stop?",
+      "norwegian": "Hva heter neste holdeplass?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622376"
+    },
+    {
+      "english": "Do I get off before or after the bridge?",
+      "norwegian": "Skal jeg gå av før eller etter brua?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622378"
+    },
+    {
+      "english": "Could you point at it, like, on the map?",
+      "norwegian": "Kan du peke på det, som på kartet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622381"
+    },
+    {
+      "english": "Is there a bus stop just around the corner?",
+      "norwegian": "Er det en bussholdeplass like rundt hjørnet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622384"
+    },
+    {
+      "english": "How do locals usually go there from here?",
+      "norwegian": "Hvordan går folk dit vanligvis fra her?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622387"
+    },
+    {
+      "english": "If I take the tram, which direction?",
+      "norwegian": "Hvis jeg tar trikken, hvilken retning?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622391"
+    },
+    {
+      "english": "Is it better by bike, or on foot?",
+      "norwegian": "Er det bedre å sykle, eller gå?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622393"
+    },
+    {
+      "english": "What should I do if the road is blocked?",
+      "norwegian": "Hva gjør jeg hvis veien er sperret?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622397"
+    },
+    {
+      "english": "Thanks, so we’re aiming for that street, right?",
+      "norwegian": "Takk, så vi sikter på den gata, ikke sant?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622401"
+    },
+    {
+      "english": "Excuse me, can you help me find this place?",
+      "norwegian": "Unnskyld, kan du hjelpe meg å finne stedet her?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622404"
+    },
+    {
+      "english": "Where do I turn to get to the harbor?",
+      "norwegian": "Hvor skal jeg svinge for å komme til havna?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622406"
+    },
+    {
+      "english": "I’m not from here, what’s the easiest route?",
+      "norwegian": "Jeg er ikke herfra, hva er den enkleste veien?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622410"
+    },
+    {
+      "english": "Can you tell me, is it straight ahead?",
+      "norwegian": "Kan du si, er det rett frem?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622413"
+    },
+    {
+      "english": "Do I pass the school, then turn?",
+      "norwegian": "Passerer jeg skolen, så svinger jeg?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622415"
+    },
+    {
+      "english": "I think it’s around here, am I right?",
+      "norwegian": "Jeg tror det er her i nærheten, stemmer det?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622419"
+    },
+    {
+      "english": "Is there a sign pointing the way?",
+      "norwegian": "Finnes det skilt som viser veien?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622421"
+    },
+    {
+      "english": "Which way should I go to avoid hills?",
+      "norwegian": "Hvilken vei bør jeg ta for å slippe bakker?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622424"
+    },
+    {
+      "english": "From here, what’s the quickest walking option?",
+      "norwegian": "Fra her, hva er raskeste gå-ruten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622427"
+    },
+    {
+      "english": "If I go this way, is it to the left?",
+      "norwegian": "Hvis jeg går slik, er det til venstre?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622430"
+    },
+    {
+      "english": "I’m aiming for the big park, where from here?",
+      "norwegian": "Jeg skal til den store parken, hvor går man herfra?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622433"
+    },
+    {
+      "english": "Is it one block, or more, roughly?",
+      "norwegian": "Er det én gate, eller mer, cirka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622436"
+    },
+    {
+      "english": "What’s the local way, by tram or bus?",
+      "norwegian": "Hva er det folk pleier å ta, trikken eller bussen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622439"
+    },
+    {
+      "english": "Sorry, I forgot, what’s the street called?",
+      "norwegian": "Unnskyld, jeg glemte, hva heter gaten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622443"
+    },
+    {
+      "english": "Is there a bridge I must cross?",
+      "norwegian": "Må jeg over en bru?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622446"
+    },
+    {
+      "english": "Does this road lead straight to the station?",
+      "norwegian": "Går denne veien rett til stasjonen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622448"
+    },
+    {
+      "english": "I’d like to get there without detours.",
+      "norwegian": "Jeg vil dit uten å gå omveier.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622451"
+    },
+    {
+      "english": "You can’t miss it, it’s near the square.",
+      "norwegian": "Du tar den lett, det er ved torget.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622455"
+    },
+    {
+      "english": "Is the entrance on this side, or the other?",
+      "norwegian": "Er inngangen her, eller på andre siden?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622458"
+    },
+    {
+      "english": "If it’s crowded, is there another entrance?",
+      "norwegian": "Hvis det er fullt, finnes det en annen inngang?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622461"
+    },
+    {
+      "english": "Which stop should I aim for, then?",
+      "norwegian": "Hvilket stopp bør jeg sikte på?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622464"
+    },
+    {
+      "english": "How do I get there from the main road?",
+      "norwegian": "Hvordan kommer jeg dit fra hovedveien?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622466"
+    },
+    {
+      "english": "Do I walk past the cinema, then turn?",
+      "norwegian": "Går jeg forbi kinoen, og så svinger jeg?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622470"
+    },
+    {
+      "english": "Is it better to go underground, not by street?",
+      "norwegian": "Lønner det seg å ta undergrunnen, ikke gata?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622472"
+    },
+    {
+      "english": "Just tell me, left or right at the fork?",
+      "norwegian": "Bare si, venstre eller høyre ved veikrysset?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622475"
+    },
+    {
+      "english": "I’m trying to find the correct entrance quickly.",
+      "norwegian": "Jeg prøver å finne riktig inngang fort.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622478"
+    },
+    {
+      "english": "Is there a path through, or only roads?",
+      "norwegian": "Er det en sti, eller bare veier?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622481"
+    },
+    {
+      "english": "Once there, where do I look for the sign?",
+      "norwegian": "Når jeg er der, hvor ser jeg etter skiltet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622484"
+    },
+    {
+      "english": "Would you point it out, roughly, on your side?",
+      "norwegian": "Kan du peke omtrent, på din side?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622486"
+    },
+    {
+      "english": "Thanks, that helps a lot, I’ll manage now.",
+      "norwegian": "Takk, det hjelper mye, nå klarer jeg meg.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622490"
+    },
+    {
+      "english": "I’m a bit lost, can you speak slowly?",
+      "norwegian": "Jeg er litt lost, kan du snakke sakte?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622494"
+    },
+    {
+      "english": "I don’t want to rush, what’s nearby?",
+      "norwegian": "Jeg vil ikke stresse, hva ligger i nærheten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622498"
+    },
+    {
+      "english": "I’m trying to calm down, where am I?",
+      "norwegian": "Jeg prøver å roe meg, hvor er jeg?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622501"
+    },
+    {
+      "english": "I’m not sure, is this the right way?",
+      "norwegian": "Jeg er ikke helt sikker, er dette riktig vei?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622505"
+    },
+    {
+      "english": "Take your time, I just need directions.",
+      "norwegian": "Ta deg god tid, jeg trenger veibeskrivelse.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622507"
+    },
+    {
+      "english": "Honestly, I’m confused, can you guide me?",
+      "norwegian": "Ærlig talt, jeg er forvirret, kan du vise meg?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622511"
+    },
+    {
+      "english": "I might be off, is it still near here?",
+      "norwegian": "Jeg kan være på feil spor, er det fortsatt her?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622514"
+    },
+    {
+      "english": "I keep missing turns, where should I go?",
+      "norwegian": "Jeg bommer på svinger, hvor skal jeg gå?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622516"
+    },
+    {
+      "english": "I’m nervous about getting lost again.",
+      "norwegian": "Jeg blir lett nervøs, for å gå meg vill.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622519"
+    },
+    {
+      "english": "Can I check, is this close to the center?",
+      "norwegian": "Kan jeg dobbeltsjekke, ligger dette nær sentrum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622522"
+    },
+    {
+      "english": "I’d rather walk, what’s the simple route?",
+      "norwegian": "Jeg heller gå til fots, hva er den enkle veien?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622525"
+    },
+    {
+      "english": "I’m stuck here, what’s the next landmark?",
+      "norwegian": "Jeg sitter fast her, hva er neste landemerke?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622528"
+    },
+    {
+      "english": "Please, I’m trying to get there calmly.",
+      "norwegian": "Vær så snill, jeg vil komme frem rolig.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622532"
+    },
+    {
+      "english": "I’m worried I’ll take the wrong street, help.",
+      "norwegian": "Jeg er redd for å ta feil gate, hjelp.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622537"
+    },
+    {
+      "english": "If you can, just tell me what to look for.",
+      "norwegian": "Hvis du kan, si hva jeg skal se etter.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622541"
+    },
+    {
+      "english": "I’m not rushing, which road feels more direct?",
+      "norwegian": "Jeg stresser ikke, hvilken vei føles mest direkte?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622544"
+    },
+    {
+      "english": "I may be late, but I still need clarity.",
+      "norwegian": "Jeg kan være sen, men jeg trenger klarhet.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622547"
+    },
+    {
+      "english": "Let me be honest, I don’t know where to turn.",
+      "norwegian": "Jeg skal være ærlig, jeg vet ikke hvor jeg skal svinge.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622550"
+    },
+    {
+      "english": "I want the safe way, not the fastest.",
+      "norwegian": "Jeg vil ta det trygge, ikke det raskeste.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622553"
+    },
+    {
+      "english": "Could you tell me, quietly, where it is?",
+      "norwegian": "Kan du si det stille, hvor det er?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622556"
+    },
+    {
+      "english": "I’m having trouble, is there an easy shortcut?",
+      "norwegian": "Jeg har det litt vanskelig, finnes det en enkel snarvei?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622559"
+    },
+    {
+      "english": "I don’t mind walking, what’s nearby on that side?",
+      "norwegian": "Det gjør meg ingenting å gå, hva er der borte?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622562"
+    },
+    {
+      "english": "I’m unsure, but I think I’m close, right?",
+      "norwegian": "Jeg er usikker, men jeg tror jeg er nær, stemmer det?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622566"
+    },
+    {
+      "english": "I keep overthinking, what’s the simplest move?",
+      "norwegian": "Jeg overtenker alt, hva er det enkleste steget?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622569"
+    },
+    {
+      "english": "Please help me, I really want to get it right.",
+      "norwegian": "Hjelp meg, jeg vil virkelig gjøre det riktig.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622572"
+    },
+    {
+      "english": "I’m grateful, can you repeat the directions once?",
+      "norwegian": "Jeg er takknemlig, kan du gjenta én gang?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622575"
+    },
+    {
+      "english": "I don’t want to bother you, but where is it?",
+      "norwegian": "Jeg vil ikke forstyrre, men hvor er det?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622579"
+    },
+    {
+      "english": "I’ll take it step by step, what comes next?",
+      "norwegian": "Jeg tar det steg for steg, hva kommer nå?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622582"
+    },
+    {
+      "english": "I’m trying my best, can you confirm this turn?",
+      "norwegian": "Jeg gjør mitt beste, kan du bekrefte svingen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622585"
+    },
+    {
+      "english": "Thanks, I feel calmer now, is this correct?",
+      "norwegian": "Takk, jeg føler meg roligere nå, stemmer dette?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-11T10:28:58.622588"
     }
   ],
-  "last_updated": "2026-11-10T10:52:08.588593"
+  "last_updated": "2026-11-11T10:28:58.622590"
 }
