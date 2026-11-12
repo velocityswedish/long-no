@@ -1,1 +1,105 @@
-{"categories": []}
+{
+  "categories": [
+    {
+      "category": "Celebrations & Parties",
+      "date": "2020-01-01"
+    },
+    {
+      "category": "Self Improvement",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Creativity",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Strength",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Kindness",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Balance",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Love",
+      "date": "2020-01-12"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2020-01-13"
+    },
+    {
+      "category": "Friendship",
+      "date": "2020-01-14"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2020-01-15"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2020-01-16"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2020-01-17"
+    },
+    {
+      "category": "Success",
+      "date": "2020-01-18"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2020-01-19"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2020-01-20"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2020-01-21"
+    },
+    {
+      "category": "Happiness",
+      "date": "2020-01-22"
+    },
+    {
+      "category": "Motivation",
+      "date": "2020-01-23"
+    },
+    {
+      "category": "Hope",
+      "date": "2020-01-24"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2020-01-25"
+    }
+  ],
+  "last_updated": "2026-11-12T11:15:19.042957"
+}
