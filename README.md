@@ -1,6 +1,6 @@
 # Velocity Norwegian
 
-**56 Norwegian phrases in a ~10-minute lesson - a brand-new video every day.**
+**Up to 56 Norwegian phrases in a ~10-minute lesson - a brand-new video every day.**
 
 Velocity Norwegian is a daily Norwegian lesson for English speakers. Every episode is built from
 scratch: fresh topics, fresh phrases, natural Norsk audio and an English pronunciation
@@ -8,7 +8,7 @@ guide for every line. Watch, repeat out loud, and grow your Norwegian one chapte
 
 ## What is inside every lesson
 
-- **56 real-life phrases** across **8 themed chapters**
+- **Up to 56 real-life phrases** across **8 themed chapters**, trimmed to fit the clock
 - **Native audio** for every Norwegian line
 - **English pronunciation** with stressed syllables in CAPITALS
 - A **new topic mix every day** - no repeated phrase lists
