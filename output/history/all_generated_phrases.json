@@ -18783,7 +18783,399 @@
       "transliteration": "JEI SIT-ter FAST i KØ-en, je KOM-mer SENT.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-13T19:44:46.546561"
+    },
+    {
+      "english": "I wake up at 6:30 sharp.",
+      "norwegian": "Jeg våkner klokka 06.30 presis.",
+      "transliteration": "Jei VÅK-ner KLOK-ka 06.30 PRES-is",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I check my phone after getting up.",
+      "norwegian": "Jeg sjekker mobilen etter at jeg har stått opp.",
+      "transliteration": "Jei SHEK-ker MO-bil-en ETT-er AT jei HAR STÅTT OP",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I drink coffee while the kettle boils.",
+      "norwegian": "Jeg drikker kaffe mens kjelen koker.",
+      "transliteration": "Jei DRIK-ker Kaf-fe MENS CHEH-len KO-ker",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I shower, then I moisturize.",
+      "norwegian": "Jeg tar en dusj, så smører jeg meg inn.",
+      "transliteration": "Jei TAR en DUSJ, SÅ SMØR-er jei meg INN",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I eat something quick before work.",
+      "norwegian": "Jeg spiser noe raskt før jeg går på jobb.",
+      "transliteration": "Jei SPI- ser NOE RAS-k t Før JEi GAR på JOBB",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I pack my lunch the night before.",
+      "norwegian": "Jeg pakker med meg matpakke kvelden før.",
+      "transliteration": "Jei PAK-ker med MEG MAT-pak-ke KVEL-dn før",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I commute by bus most days.",
+      "norwegian": "Jeg pendler med buss de fleste dager.",
+      "transliteration": "Jei PEN-dler med BUSS de FLE-ste DA-ger",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I bike to clear my head.",
+      "norwegian": "Jeg sykler for å klare tankene.",
+      "transliteration": "JEG SYKLER for å KLARE TANkENE.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I love cooking new recipes on Sundays.",
+      "norwegian": "Jeg liker å lage nye retter på søndager.",
+      "transliteration": "JEG LIKER å LAge NYE RETter på SØNdaGER.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I do watercolor painting in the evening.",
+      "norwegian": "Jeg maler akvarell om kvelden.",
+      "transliteration": "JEG MAler AKvaRELL om KVELDEN.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "My weekend is for long hikes outdoors.",
+      "norwegian": "Helgen min er for lange fjellturer ute.",
+      "transliteration": "HELgen MIN er for LANge FJELLtuRer Ute.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’m learning guitar, slow and steady.",
+      "norwegian": "Jeg lærer gitar, sakte men sikkert.",
+      "transliteration": "JEG LÆRER GITAR, SAkte MEN SIKkerT.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I play chess at the café sometimes.",
+      "norwegian": "Jeg spiller sjakk på kafeen noen ganger.",
+      "transliteration": "JEG SPIller SJAKK på kaFEen NOEn GANGer.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I try pottery when I have spare time.",
+      "norwegian": "Jeg prøver keramikk når jeg har litt fritid.",
+      "transliteration": "JEG PRØver KERaMIKK når JEG har LITT FRItid.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’m sore after that workout.",
+      "norwegian": "Jeg er støl etter den treningen.",
+      "transliteration": "Jei ER STOEL et-ter TRE-ning-en.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "How’s your form today?",
+      "norwegian": "Hvordan er formen din i dag?",
+      "transliteration": "HOV-Dan er FOR-men din I DAG?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I need a good warm-up.",
+      "norwegian": "Jeg trenger en skikkelig oppvarming.",
+      "transliteration": "Jei TRENG-er en SKIK-ke-lig OP-Var-ming.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Let’s cool down together.",
+      "norwegian": "La oss kjøle ned sammen.",
+      "transliteration": "La OSK JOe-le ned sam-men.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Can you spot me on squats?",
+      "norwegian": "Kan du passe på meg i knebøy?",
+      "transliteration": "KAN du PAS-se pa MEg i NE-bøi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "What’s your personal best time?",
+      "norwegian": "Hva er din personlige bestenotering på tid?",
+      "transliteration": "Vha er din PER-son-lig BEStEN-o-TE-RING pa TID?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I ran out of energy.",
+      "norwegian": "Jeg gikk tom for energi.",
+      "transliteration": "Jei GIKK tom for EN-er-gi.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’ll ask anyway, even if it’s scary.",
+      "norwegian": "Jeg spør likevel, selv om det er litt skummelt.",
+      "transliteration": "JEG SPØR LIKEVEL, SELV OM DET ER LITT SKUMMELT.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Tell me the truth, I can handle it.",
+      "norwegian": "Si sannheten, jeg kan takle det.",
+      "transliteration": "SI SANNHETEN, JEG KAN TAKLE DET.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’m going to try, right now.",
+      "norwegian": "Jeg skal prøve, helt nå.",
+      "transliteration": "JEG SKAL PRØVE, HELT NÅ.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’m nervous, but I won’t back down.",
+      "norwegian": "Jeg er nervøs, men jeg gir meg ikke.",
+      "transliteration": "JEG ER NERVØS, MEN JEG GIR MEG IKKE.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’ll go even if it’s inconvenient.",
+      "norwegian": "Jeg drar, selv om det er upraktisk.",
+      "transliteration": "JEG DRAR, SELV OM DET ER UPRATISK.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I can say no without explaining everything.",
+      "norwegian": "Jeg kan si nei uten å forklare alt.",
+      "transliteration": "JEG KAN SI NEI UTEN Å FORKLARE ALT.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’ll make the call and face the result.",
+      "norwegian": "Jeg ringer, og så tar jeg resultatet.",
+      "transliteration": "JEG RINGER, OG SÅ TAR JEG RESULTATET.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I need to transfer money today.",
+      "norwegian": "Jeg må overføre penger i dag.",
+      "transliteration": "Jei MÅ ovERføre PEN-ger I DAG.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Can I withdraw cash with this card?",
+      "norwegian": "Kan jeg ta ut kontanter med dette kortet?",
+      "transliteration": "Kan jei ta UT KON-tan-ter med DET-te kort-et?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "What fees will I pay for the transfer?",
+      "norwegian": "Hva koster overføringen i gebyrer?",
+      "transliteration": "Va KOster ovE rfør-in-gen i GE-byrrer?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Is there a daily limit for transfers?",
+      "norwegian": "Finnes det en grense per dag for overføringer?",
+      "transliteration": "FIN-nes det en GREN-se per DAG for ovE rfør-in-ger?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I forgot my PIN, what now?",
+      "norwegian": "Jeg glemte pinkoden, hva gjør jeg nå?",
+      "transliteration": "Jei gleMTE PINKO-den, va GØR jei nå?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "My card was declined, can you check?",
+      "norwegian": "Kortet mitt ble avvist, kan du sjekke det?",
+      "transliteration": "Kortet MITT ble avVIST, kan du SJEK-ke det?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "How do I set up online banking?",
+      "norwegian": "Hvordan slår jeg på nettbank?",
+      "transliteration": "Hør-dan SÅR jei på NETT-bank?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Give me a second, please.",
+      "norwegian": "Gi meg et øyeblikk, vær så snill.",
+      "transliteration": "GI meg et ØYEBLIKk, vær så SNILL.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I can wait, no rush.",
+      "norwegian": "Jeg kan vente, ingen hast.",
+      "transliteration": "JEG kan VENTE, in-gen HAST.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Thanks, I’m just trying to process.",
+      "norwegian": "Takk, jeg prøver bare å prosessere.",
+      "transliteration": "TAKK, jeg PRØver ba-re å PRO-se-sse-re.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Wait, let me check the message.",
+      "norwegian": "Vent litt, jeg må sjekke meldingen.",
+      "transliteration": "VENT litt, jeg MÅ SJEKKE MEL-din-gen.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Let’s slow down, we’ll get there.",
+      "norwegian": "La oss senke tempoet, vi kommer dit.",
+      "transliteration": "LA OSS SENke TEM-poet, vi KOM-mer DIT.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Take your time, I’ll hold the line.",
+      "norwegian": "Ta deg god tid, jeg holder linjen.",
+      "transliteration": "TA deg GOD tid, jeg HOL-der LIN-jen.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I know it takes time, it’s okay.",
+      "norwegian": "Jeg vet det tar tid, det er greit.",
+      "transliteration": "JEG vet det TAR tid, det er GREIT.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "How much is this in total?",
+      "norwegian": "Hvor mye koster dette til sammen?",
+      "transliteration": "HvoR mye kosTER det-te til SA-mmen?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Do you have it in another size?",
+      "norwegian": "Har dere den i en annen størrelse?",
+      "transliteration": "Har de-RE den i en AN-nen STØR-relse?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Is there a sale on today?",
+      "norwegian": "Er det tilbud i dag?",
+      "transliteration": "Er det TIL-bud i DAG?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "norwegian": "Tar dere betaling uten kontakt?",
+      "transliteration": "Tar de-RE beTA-ling uten KON-takt?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "What’s the price after discount?",
+      "norwegian": "Hva koster den etter rabatten?",
+      "transliteration": "Hva kos-ter den ET-ter RA-bat-ten?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Is it in stock right now?",
+      "norwegian": "Har dere den på lager akkurat nå?",
+      "transliteration": "Har de-RE den på LA-ger akKUR-at NA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Can I try it on here?",
+      "norwegian": "Kan jeg prøve den her?",
+      "transliteration": "Kan jeG PRØ-ve den her?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Thanks for helping me today, really",
+      "norwegian": "Tusen takk for hjelpen i dag, virkelig.",
+      "transliteration": "TOO-sen TAKK for HYElp-en i dag, REEL-ig.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I appreciate you, more than you know",
+      "norwegian": "Jeg setter pris på deg, mer enn du aner.",
+      "transliteration": "JEY se-TER PRIS på deg, MER en du a-NEHR.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Thanks for listening, it meant a lot",
+      "norwegian": "Takk for at du lyttet, det betydde mye.",
+      "transliteration": "TAKK for at du LYTT-et, det BIYD-de mye.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "You made my day, thank you",
+      "norwegian": "Du gjorde dagen min, tusen takk.",
+      "transliteration": "du GJOR-de DAI-en min, TOO-sen TAKK.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "I’m grateful for your quick reply",
+      "norwegian": "Jeg er takknemlig for det raske svaret ditt.",
+      "transliteration": "JEY er TAKK-neh-melig for det RA-ske SA-var ditt.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Thank you for the ride home",
+      "norwegian": "Tusen takk for skyssen hjem.",
+      "transliteration": "TOO-sen TAKK for SKY-sen HYEHM.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Thanks for the warm welcome today",
+      "norwegian": "Takk for en så god og varm velkomst i dag.",
+      "transliteration": "TAKK for en SÅ GOD og VARM VEL-komst i DAG.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T18:06:17.961285"
     }
   ],
-  "last_updated": "2026-11-13T19:44:46.546561"
+  "last_updated": "2026-11-14T18:06:17.961285"
 }
