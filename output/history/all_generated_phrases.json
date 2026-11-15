@@ -19175,7 +19175,399 @@
       "transliteration": "TAKK for en SÅ GOD og VARM VEL-komst i DAG.",
       "category": "Gratitude",
       "generated_at": "2026-11-14T18:06:17.961285"
+    },
+    {
+      "english": "Which bus goes to the hospital?",
+      "norwegian": "Hvilken buss går til sykehuset?",
+      "transliteration": "VIL-kEN BUSS GÅR til SY-kehu-set?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Is the tram stop nearby?",
+      "norwegian": "Er trikkeholdeplassen i nærheten?",
+      "transliteration": "ER TRIK-keHOL-de-plASEN i NÆR-he-ten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "How much is a day ticket?",
+      "norwegian": "Hva koster et døgnbillett?",
+      "transliteration": "VA KOster et DØG-nBIL-ett?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "norwegian": "Hvor kan jeg kjøpe billett?",
+      "transliteration": "VOR kan JEG KJØ-pe BIL-let?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "What time does the last bus leave?",
+      "norwegian": "Når går siste bussen?",
+      "transliteration": "NÅR GÅR SIS-te BUS-sen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "The bus is late, right?",
+      "norwegian": "Bussen er forsinket, ikke sant?",
+      "transliteration": "BUS-sen er FOR-sink-et, IK-ke SANT?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Can you tell me platform three?",
+      "norwegian": "Kan du vise meg spor tre?",
+      "transliteration": "KAN du VI-se meg SPOR TRe?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Cheers to the people who showed up",
+      "norwegian": "Skål for alle som dukket opp",
+      "transliteration": "Skål for ALLE som DUkket opp",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Pass the cake, I’m ready",
+      "norwegian": "Gi meg kaken, jeg er klar",
+      "transliteration": "GI meg KAken, jeg ER klar",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Let’s dance like nobody’s watching",
+      "norwegian": "La oss danse som om ingen ser oss",
+      "transliteration": "LA oss DANse som OM INGEN ser OSS",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Tonight, we toast your new chapter",
+      "norwegian": "I kveld skåler vi for ditt nye kapittel",
+      "transliteration": "I KVELD SKÅler vi FOR ditt NYE KAptittel",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Your laugh makes this party better",
+      "norwegian": "Latteren din gjør festen bedre",
+      "transliteration": "LATteren DIN gjør FESTen BEDre",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I brought games, let’s start now",
+      "norwegian": "Jeg tok med spill, la oss begynne nå",
+      "transliteration": "JEG tok MED SPILL, la oss BEgynne NÅ",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Happy birthday, you deserve real joy",
+      "norwegian": "Gratulerer med dagen, du fortjener ekte glede",
+      "transliteration": "graTUleRER med DAgen, DU FORtjener EKTE gLEde",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Choose one habit to practice today",
+      "norwegian": "Velg én vane å øve på i dag",
+      "transliteration": "Velg én VAne å Øve på i DAG",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Notice your triggers, then adjust",
+      "norwegian": "Legg merke til triggerne dine, og juster",
+      "transliteration": "LEgg MERke til TRIGgerne diNE, og JUSter",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Talk to yourself like a friend",
+      "norwegian": "Snakk til deg selv som en venn",
+      "transliteration": "SNakk til deg SELV som en VENN",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Clean one small corner, clear your mind",
+      "norwegian": "Rydd én liten krok, og la hodet bli klarere",
+      "transliteration": "RYdd én LIten KROk, og LA hodet bli KLAreRe",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Ask, what do I need right now?",
+      "norwegian": "Spør deg selv, hva trenger jeg akkurat nå?",
+      "transliteration": "SPØr deg SELV, hva TREngER jeg AKkuRAT nå",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Turn guilt into a learning moment",
+      "norwegian": "Gjør skyld om til et læringsøyeblikk",
+      "transliteration": "GjØr SKYld OM til et LÆRingsØyeBLikk",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Plan tomorrow, but live in today",
+      "norwegian": "Planlegg i morgen, men lev i dag",
+      "transliteration": "PLANlegg i MORGEn, men LEV i DAG",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Let your curiosity lead the way.",
+      "norwegian": "La nysgjerrigheten lede deg.",
+      "transliteration": "La nySGJerrighe ten lede dEG.",
+      "category": "Creativity",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Try combining two ideas today.",
+      "norwegian": "Prøv å kombinere to ideer i dag.",
+      "transliteration": "PRØv å kombiNERE to IDEer i DAG.",
+      "category": "Creativity",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Make room for playful experiments.",
+      "norwegian": "Gi rom for lekne eksperimenter.",
+      "transliteration": "GI rom for LEKne eksperiMENter.",
+      "category": "Creativity",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Sketch first, decide later, please.",
+      "norwegian": "Skissér først, bestem deg senere.",
+      "transliteration": "SKISSer føRST, bestem deg SENere.",
+      "category": "Creativity",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Change one small thing, then iterate.",
+      "norwegian": "Bytt ut én liten ting, så prøver du igjen.",
+      "transliteration": "Bytt UT én LIten ting, så PRØver du IGJen.",
+      "category": "Creativity",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Steal joy from what you love.",
+      "norwegian": "Stjel glede fra det du elsker.",
+      "transliteration": "STJEL glede fra det du elSKer.",
+      "category": "Creativity",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Write badly on purpose for five minutes.",
+      "norwegian": "Skriv dårlig med vilje i fem minutter.",
+      "transliteration": "SKRIV dårLIg med VILje i FEM MINutter.",
+      "category": "Creativity",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I choose strength, even today",
+      "norwegian": "Jeg velger styrke, selv i dag",
+      "transliteration": "Jeg VEElger STYR-ke, SELV i DAG",
+      "category": "Strength",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I can handle hard conversations",
+      "norwegian": "Jeg klarer vanskelige samtaler",
+      "transliteration": "Jeg KLAReR VAN-ske-li-ge SAM-ta-ler",
+      "category": "Strength",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I stand by my boundaries",
+      "norwegian": "Jeg står ved grensene mine",
+      "transliteration": "Jeg STÅR veD GREN-sene mi-ne",
+      "category": "Strength",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I keep moving, step by step",
+      "norwegian": "Jeg fortsetter å gå framover",
+      "transliteration": "Jeg fort-set-ter å GÅ FRAM-o-ver",
+      "category": "Strength",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "No shame, I try again",
+      "norwegian": "Ingen skam, jeg prøver igjen",
+      "transliteration": "IN-gen skaM, jeg PRØ-ver IGJEN",
+      "category": "Strength",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "My effort counts, even if small",
+      "norwegian": "Innsatsen min teller, selv når den er liten",
+      "transliteration": "INN-sa-tsen min TEL-ler, SELV når DEN er LI-ten",
+      "category": "Strength",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I rest, then return stronger",
+      "norwegian": "Jeg hviler, og så kommer jeg sterkere tilbake",
+      "transliteration": "Jeg VI-ler, OG så KOM-mer jeg STREN-ke-re Til-ba-ke",
+      "category": "Strength",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I need to see a doctor today.",
+      "norwegian": "Jeg må få time hos legen i dag.",
+      "transliteration": "JEG MÅ FÅ TIME hOS LEGEN I DAG",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Do I need an appointment?",
+      "norwegian": "Må jeg bestille time?",
+      "transliteration": "mÅ JEG BESTILLE TIME?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I have a fever since yesterday.",
+      "norwegian": "Jeg har hatt feber siden i går.",
+      "transliteration": "JEG HAR HATT FEbER SINCE I GÅR",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Could this be an allergy?",
+      "norwegian": "Kan det være en allergi?",
+      "transliteration": "kan DET VÆRE en ALLErgi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I’m short of breath right now.",
+      "norwegian": "Jeg er litt andpusten akkurat nå.",
+      "transliteration": "JEG er LITT anDPUSEN AKKURAT NÅ",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I’d like advice on pain relief.",
+      "norwegian": "Jeg vil gjerne ha råd om smertelindring.",
+      "transliteration": "JEG VIL GJERNE ha RÅD OM SMERTElinDRING",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "How serious is it, really?",
+      "norwegian": "Hvor alvorlig er det egentlig?",
+      "transliteration": "VOR ALVORlig er DET EGENTLIG?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Hi, I’m glad to meet you.",
+      "norwegian": "Hei, jeg er glad for å møte deg.",
+      "transliteration": "HY, jeh er GLAD for å MØTE deg",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "So nice to see you again!",
+      "norwegian": "Så hyggelig å se deg igjen!",
+      "transliteration": "SÅ HY-gge-lig å SE deg EJ-en",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I hope your day’s going well.",
+      "norwegian": "Jeg håper dagen din går bra.",
+      "transliteration": "JEH ho-PRER da-gen din GÅR BRA",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I love your accent, it’s so clear.",
+      "norwegian": "Jeg liker aksenten din, den er så tydelig.",
+      "transliteration": "JEH LI-ker AK-Sen-ten din, den er SÅ TY-de-lig",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Do you have any plans after this?",
+      "norwegian": "Har du planer etter dette?",
+      "transliteration": "HAR du PLAN-er ET-ter DET-te",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Thanks for taking the time to chat.",
+      "norwegian": "Takk for at du tar deg tid til å prate.",
+      "transliteration": "TAKK for at du tar DEG tid TIL å PRA-te",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "It’s my pleasure to meet you here.",
+      "norwegian": "Det er et stort hyggelig å møte deg her.",
+      "transliteration": "DET er et STO RT HY-ygge-lig å MØTE deg HER",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Can I get a recommendation?",
+      "norwegian": "Kan jeg få en anbefaling, takk?",
+      "transliteration": "Kan JEG få en anbeFALing, TAKK?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I’ll have the chicken, please.",
+      "norwegian": "Jeg vil gjerne ha kylling, takk.",
+      "transliteration": "JEG vil gjerne ha K YLLing, TAKK.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "What’s the house specialty today?",
+      "norwegian": "Hva er dagens husets spesialitet, da?",
+      "transliteration": "VÅ hva ER daYENS husetS spesiA LI tet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Is this dish spicy, honestly?",
+      "norwegian": "Er denne retten sterk, egentlig?",
+      "transliteration": "ER denNE retTEN STÆRK, EGENTlig?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Could we have it without onions?",
+      "norwegian": "Kan dere lage den uten løk, vær så snill?",
+      "transliteration": "Kan deRE lage den U TEN løk, VÆR så SNILL?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "norwegian": "Har dere vegetarretter i dag?",
+      "transliteration": "HAR deRE VEge TARretter i dag?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T18:54:25.718700"
+    },
+    {
+      "english": "I’m allergic to peanuts, just so you know.",
+      "norwegian": "Jeg er allergisk mot peanøtter, bare så dere vet det.",
+      "transliteration": "JEG er al LE rgisk mot pea NØt ter, BA re så deRE vet det.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T18:54:25.718700"
     }
   ],
-  "last_updated": "2026-11-14T18:06:17.961285"
+  "last_updated": "2026-11-15T18:54:25.718700"
 }
