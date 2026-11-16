@@ -259,7 +259,39 @@
     {
       "category": "Hotel & Accommodation",
       "date": "2026-11-16"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Motivation",
+      "date": "2026-11-16"
     }
   ],
-  "last_updated": "2026-11-16T08:07:53.322926"
+  "last_updated": "2026-11-16T08:15:24.653549"
 }

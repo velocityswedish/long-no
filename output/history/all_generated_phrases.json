@@ -19959,7 +19959,399 @@
       "transliteration": "Kan JEG få en EKSTRA STOL, Takk?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-16T08:07:53.309972"
+    },
+    {
+      "english": "I hear you, but I disagree.",
+      "norwegian": "Jeg hører deg, men jeg er uenig.",
+      "transliteration": "Jeg hører deg, men JEg er uenig.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "That s not how I see it.",
+      "norwegian": "Det er ikke sånn jeg ser det.",
+      "transliteration": "Det er ikke SÅNN jeg ser det.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I mostly agree, with one tweak.",
+      "norwegian": "Jeg er stort sett enig, med én liten justering.",
+      "transliteration": "Jeg er STORT sett enig, med én LITEN justering.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "You make a good case, though.",
+      "norwegian": "Du har et godt poeng, men likevel.",
+      "transliteration": "Du har et GODT poeng, men LIKEVEL.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I get it, but not fully.",
+      "norwegian": "Jeg skjønner, men ikke helt.",
+      "transliteration": "JEG skjønner, men ikke HELT.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I m on the fence, honestly.",
+      "norwegian": "Jeg er litt usikker, ærlig talt.",
+      "transliteration": "Jeg er LITT uSikker, ÆRLIG talt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I can see why you think that.",
+      "norwegian": "Jeg skjønner hvorfor du tenker sånn.",
+      "transliteration": "Jeg SKJØNNer hvorfor DU tenker SÅNN.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Let’s pick one next step today.",
+      "norwegian": "La oss velge ett neste steg i dag.",
+      "transliteration": "La OSS VELGE ett neste STEG i DAG.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "What’s your ideal time window?",
+      "norwegian": "Hva er ditt ideelle tidsrom?",
+      "transliteration": "Hva er DITT iDEelle TIDSrom?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I’m ready, what do we schedule?",
+      "norwegian": "Jeg er klar, hva skal vi avtale?",
+      "transliteration": "JEg er KLAR, hva SKAL vi avTALE?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Let’s make it flexible, not fixed.",
+      "norwegian": "La oss lage en plan som er fleksibel, ikke fast.",
+      "transliteration": "La OSS LAge en PLAN som er FLEksibel, ikke FAST.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Can we plan around your energy?",
+      "norwegian": "Kan vi planlegge etter energien din?",
+      "transliteration": "kan vi PLANlegge etTER ENerGIn din?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Let’s write it down, so it sticks.",
+      "norwegian": "La oss skrive det ned, så husker vi det.",
+      "transliteration": "La OSS SKRIVE det NED, så HUSker vi det.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Should we confirm the time together?",
+      "norwegian": "Skal vi bekrefte tidspunktet sammen?",
+      "transliteration": "SKAL vi beKREFte TIDspunktet SAMmen?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Success is doing it tired too.",
+      "norwegian": "Suksess er å gjøre det selv når du er sliten.",
+      "transliteration": "SUKSESS er å GJØRE det SELV når du er SLITEN.",
+      "category": "Success",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Small steps build unstoppable momentum.",
+      "norwegian": "Små steg bygger et uerstattelig driv.",
+      "transliteration": "SMÅ STEG BYGGER et UERSTATTELIG DRIV.",
+      "category": "Success",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Ask, then try, then refine.",
+      "norwegian": "Spør, prøv, og juster.",
+      "transliteration": "SPØR, PRØV, og JUSter.",
+      "category": "Success",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Write it down, make it real.",
+      "norwegian": "Skriv det ned, så blir det virkelighet.",
+      "transliteration": "SKRIV det NED, så blir det VIRKELIGHET.",
+      "category": "Success",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Don’t wait for motivation, start anyway.",
+      "norwegian": "Ikke vent på motivasjon, start likevel.",
+      "transliteration": "IKKE VENT på MOtiVAsjon, START likeVEL.",
+      "category": "Success",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Be stubborn about practice, flexible about plans.",
+      "norwegian": "Vær sta på øving, men fleksibel med planene.",
+      "transliteration": "VÆR STAbit på ØVING, men FLEKSIBEL med PLANene.",
+      "category": "Success",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Success leaves clues in your habits.",
+      "norwegian": "Suksess etterlater seg spor i vanene dine.",
+      "transliteration": "SUKSESS ETTERLATER seg SPOR i VANene dine.",
+      "category": "Success",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Call 113 now, I can stay.",
+      "norwegian": "Ring 113 nå, jeg kan bli her.",
+      "transliteration": "Ring 113 nå, JEG kan BI her.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Tell me, where does it hurt?",
+      "norwegian": "Si meg, hvor gjør det vondt?",
+      "transliteration": "Si meg, HVOR gjør det VONDT?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Is it chest pain or pressure?",
+      "norwegian": "Er det brystsmerter eller trykk?",
+      "transliteration": "ER det BRYSTsmerter eller TRYKK?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Do you feel short of breath?",
+      "norwegian": "Føler du at du puster for lite?",
+      "transliteration": "FØLER du at du PUSTER for LITE?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "If you can, sit up slowly.",
+      "norwegian": "Hvis du kan, sett deg opp sakte.",
+      "transliteration": "HVIS du kan, SETT deg opp SAKTE.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Keep your eyes open, stay with me.",
+      "norwegian": "Hold blikket oppe, bli hos meg.",
+      "transliteration": "HOLD BIkket OPPe, BLI hos MEG.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Check your hands, any numbness?",
+      "norwegian": "Sjekk hendene, har du nummenhet?",
+      "transliteration": "SJEKK hendene, HAR du NUMMENhet?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Wanna grab a quick bite?",
+      "norwegian": "Skal vi ta en kjapp matbit?",
+      "transliteration": "skal vi ta en KJAPP matbit",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I m running late, sorry!",
+      "norwegian": "Jeg er forsinket igjen, sorry!",
+      "transliteration": "jeG er forSIKket IKke NOEn ganger, sorry",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Wait, you serious right now?",
+      "norwegian": "Vent, mener du det nå?",
+      "transliteration": "vent, MEner du det nå",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Bro, that s wild, honestly.",
+      "norwegian": "Pokker, det der er helt vilt.",
+      "transliteration": "PokkER, det DER er HELT vilt",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I m not judging, just curious.",
+      "norwegian": "Jeg dømmer ikke, jeg bare spør.",
+      "transliteration": "jeG DØMmer ikke, jeG baRE SPØr",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I m beat, I need quiet.",
+      "norwegian": "Jeg er helt ferdig, jeg trenger ro.",
+      "transliteration": "jeG er HELT FERdig, jeG TREnger ro",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Hold up, let me think.",
+      "norwegian": "Vent litt, la meg tenke.",
+      "transliteration": "vent LITT, la meg TEnke",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Let’s make dinner together tonight.",
+      "norwegian": "La oss lage middag sammen i kveld.",
+      "transliteration": "La OSS lage MID-dag SAM-men i KVELD.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I’ll do the dishes, you rest.",
+      "norwegian": "Jeg tar oppvasken, du kan slappe av.",
+      "transliteration": "JEg TAR opp-VAS-ken, DU kan SLAP-pe av.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Can we hug before we talk?",
+      "norwegian": "Kan vi gi hverandre en klem før vi snakker?",
+      "transliteration": "Kan vi gi HVER-an-dre en KLEM før vi SNAK-ker?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Our home feels warmer with you here.",
+      "norwegian": "Hjemmet vårt føles varmere når du er her.",
+      "transliteration": "HJEM-met VÅRT fø-LES VAR-mere når DU er HER.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I’m proud of how we tried.",
+      "norwegian": "Jeg er stolt av at vi prøvde.",
+      "transliteration": "JEg er STOLT av at vi PRØvde.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Let’s plan tomorrow, not fight tonight.",
+      "norwegian": "La oss planlegge i morgen, ikke slåss i kveld.",
+      "transliteration": "La OSS PLAN-legge i MOR-gen, IK-ke SLI-SS i KVELD.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I heard you, and I care.",
+      "norwegian": "Jeg hørte deg, og jeg bryr meg.",
+      "transliteration": "JEg HØR-te DEG, og JEg BRYR meg.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I celebrate tiny wins, right now.",
+      "norwegian": "Jeg feirer små seire, akkurat nå.",
+      "transliteration": "Jeg feirer S MÅ seire, AKKURAT nå.",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Gratitude finds me in ordinary minutes.",
+      "norwegian": "Takknemlighet finner meg i vanlige minutter.",
+      "transliteration": "TAKKnemlighet finner meg i VANlige MINutter.",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I let laughter loosen my shoulders.",
+      "norwegian": "Jeg lar latter løsne skuldrene mine.",
+      "transliteration": "Jeg lar LATter LØSne S KULDrene mine.",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "My body deserves rest, and I listen.",
+      "norwegian": "Kroppen min fortjener hvile, og jeg lytter.",
+      "transliteration": "KROppen min FORTjener H VILE, og JE g lytter.",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Today I choose wonder over worry.",
+      "norwegian": "I dag velger jeg undring framfor bekymring.",
+      "transliteration": "I dag VELger jeg UNDring FRAMfor beKYMRing.",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I sip joy slowly, without guilt.",
+      "norwegian": "Jeg nyter glede i små slurker, uten dårlig samvittighet.",
+      "transliteration": "Jeg NYter gleDE i SMÅ SLURker, UTEN dårLig SAMvittighet.",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I’m proud of what I’m learning.",
+      "norwegian": "Jeg er stolt av det jeg lærer.",
+      "transliteration": "Jeg er STOLT av det jeg LÆRer.",
+      "category": "Happiness",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I choose effort, not perfection.",
+      "norwegian": "Jeg velger innsats, ikke perfeksjon.",
+      "transliteration": "Jeg velger INNSATS, ikke PERFEKSJON.",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Today I do the next right thing.",
+      "norwegian": "I dag gjør jeg neste riktige ting.",
+      "transliteration": "I dag GJØR jeg NESte RIKtiGE ting.",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "Make it small, then keep going.",
+      "norwegian": "Gjøre det lite, så fortsetter du.",
+      "transliteration": "GJØre det LITE, så FORsetter du.",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I can begin while it feels hard.",
+      "norwegian": "Jeg kan begynne selv når det er vanskelig.",
+      "transliteration": "Jeg kan BEGYNne SELV når det er VANSkelig.",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "My pace is allowed to be slow.",
+      "norwegian": "Jeg har lov til å gå sakte.",
+      "transliteration": "Jeg HAR lov til å GÅ SAkte.",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I’ll do one task before scrolling.",
+      "norwegian": "Jeg gjør én oppgave før jeg scroller.",
+      "transliteration": "Jeg GJØR EN oppgave før jeg SCROLLER.",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T08:15:24.638932"
+    },
+    {
+      "english": "I turn motivation into a habit.",
+      "norwegian": "Jeg gjør motivasjon til en vane.",
+      "transliteration": "Jeg gjør motiVASJON til en VANE.",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T08:15:24.638932"
     }
   ],
-  "last_updated": "2026-11-16T08:07:53.309972"
+  "last_updated": "2026-11-16T08:15:24.638932"
 }
