@@ -419,7 +419,39 @@
     {
       "category": "Doctor & Pharmacy",
       "date": "2026-11-18"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-19"
     }
   ],
-  "last_updated": "2026-11-18T20:34:44.367818"
+  "last_updated": "2026-11-19T20:40:01.270712"
 }
