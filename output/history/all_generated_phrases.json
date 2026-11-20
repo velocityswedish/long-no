@@ -22311,7 +22311,399 @@
       "transliteration": "Jei VAN-ner MÅ-le-ne mi-ne MED DAG-lie VALE.",
       "category": "Growth",
       "generated_at": "2026-11-19T20:40:01.258848"
+    },
+    {
+      "english": "Hope can be quiet, not gone.",
+      "norwegian": "Håp kan være stille, ikke borte.",
+      "transliteration": "HåP kan væRe stilLe, ikKe borte.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I choose hope, even on hard days.",
+      "norwegian": "Jeg velger håp, selv på vonde dager.",
+      "transliteration": "JEG velGer HÅP, SELV på VONde daGer.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Let me try again, softly.",
+      "norwegian": "La meg prøve igjen, forsiktig.",
+      "transliteration": "La meg PRØVE IGEN, forSIKtig.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Today I hope for one small thing.",
+      "norwegian": "I dag håper jeg på én liten ting.",
+      "transliteration": "I DAG håPer jeg på EN liTen ting.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Hope is showing up, not pretending.",
+      "norwegian": "Håp er å møte opp, ikke å late som.",
+      "transliteration": "HåP er å MØte OPp, ikke å laTE som.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I can want better, and rest.",
+      "norwegian": "Jeg kan ønske meg noe bedre, og hvile.",
+      "transliteration": "JEG kan ØNske meg noe BEDre, og VIle.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "When doubt speaks, I answer with hope.",
+      "norwegian": "Når tvilen snakker, svarer jeg med håp.",
+      "transliteration": "NÅR TviLen snakKer, SVARer JEG med HÅP.",
+      "category": "Hope",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Be curious, not judgmental today.",
+      "norwegian": "Vær nysgjerrig, ikke dømmende i dag.",
+      "transliteration": "VÆR nyS G JER RIG, ikke DØMM en de i DAG.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Let anger cool before you respond.",
+      "norwegian": "La vreden roe seg før du svarer.",
+      "transliteration": "La VRE den ROE seg før du SVA rer.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Choose honesty, even when it costs.",
+      "norwegian": "Velg ærlighet, selv når det koster.",
+      "transliteration": "VELG æR LIKH et, selv når det KO ster.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Do small good, it adds up.",
+      "norwegian": "Gjør små gode ting, de teller.",
+      "transliteration": "GJØR små GO de ting, de TEL ler.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Make peace, then set the rule.",
+      "norwegian": "Skaff fred, så sett rammene.",
+      "transliteration": "SKAFF FRED, så SETT RAM me ne.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Know what you want, then act.",
+      "norwegian": "Finn ut hva du vil, så gjør det.",
+      "transliteration": "FINN ut hva du VIL, så GJØR det.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Don’t chase, build quietly.",
+      "norwegian": "Jage mindre, bygg mer i det stille.",
+      "transliteration": "JAGE min dre, BYGG mer i det STIL le.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I tidy my thoughts, not my room.",
+      "norwegian": "Jeg rydder tankene mine, ikke rommet.",
+      "transliteration": "JeG rydder tan-KE-ne mi-ne, ikke RO-mmet.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I turn stress into one manageable task.",
+      "norwegian": "Jeg gjør stress om til én håndterbar oppgave.",
+      "transliteration": "JeG gjør STRESS OM til EN HÅN-dter-bar OP-på-ve.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I choose one honest yes today.",
+      "norwegian": "Jeg velger ett ærlig ja i dag.",
+      "transliteration": "JeG VEL-ger ett ÆR-lig ja i DAG.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I say no kindly, and I’m okay.",
+      "norwegian": "Jeg sier nei vennlig, og det er greit.",
+      "transliteration": "JeG sier NEi VENN-lig, og det er GE-it.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "My kindness starts with how I speak.",
+      "norwegian": "Min vennlighet starter med hvordan jeg snakker.",
+      "transliteration": "Min VENN-lig-het STAR-ter med H VOR-dan jeG SNAK-ker.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I let curiosity lead, not fear.",
+      "norwegian": "Jeg lar nysgjerrighet styre, ikke frykt.",
+      "transliteration": "JeG lar NYS-jerr-ig-het STYu-re, ikke FRYKT.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I celebrate effort, even when it’s small.",
+      "norwegian": "Jeg feirer innsats, selv når den er liten.",
+      "transliteration": "JeG FEi-rer INNSATS, SELV når den er LI-ten.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Set a timer, then just start.",
+      "norwegian": "Sett en timer, og bare start.",
+      "transliteration": "SETT en TImer, og BARE START.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I can take the hard version.",
+      "norwegian": "Jeg kan ta den vanskelige varianten.",
+      "transliteration": "JEG kan TA den VAN-ske-LI-ge vaRian-ten.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Keep going, even if it feels ugly.",
+      "norwegian": "Fortsett, selv om det føles skikkelig rotete.",
+      "transliteration": "FORS-SET, SELV OM det FØ-les SKIK-ke-lig RO-te-te.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Tiny steps, big stubborn energy.",
+      "norwegian": "Små steg, stor sta energi.",
+      "transliteration": "SMÅ STEG, stor STA EN-er-gi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "When I fail, I restart kindly.",
+      "norwegian": "Når jeg faller, starter jeg igjen, snilt.",
+      "transliteration": "NÅR JEG FAL-ler, STAR-ter JEG IGJEN, SNILT.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Answer again, even slower is fine.",
+      "norwegian": "Svar igjen, selv om det går litt saktere.",
+      "transliteration": "SVAR IGJEN, SELV om det GÅR litt SA-kre.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I pause, then come back stronger.",
+      "norwegian": "Jeg tar en pause, og kommer tilbake sterkere.",
+      "transliteration": "JEG tar en PAU-se, og KOM-mer TIL-bake STER-ker-e.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Relax your grip, feel the moment",
+      "norwegian": "Slipp grepet, kjenn øyeblikket",
+      "transliteration": "Slipp GREEPET, kjenn øYEBLIKket",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Unclench your eyes, soften your gaze",
+      "norwegian": "Klem øynene? Nei, myk blikket",
+      "transliteration": "KLEM øYENE? Nei, MYK BLIkket",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Notice your jaw again, just gently",
+      "norwegian": "Legg merke til kjeven igjen, helt rolig",
+      "transliteration": "LEGG MERKE til KJEven IGJEN, HELT ROlig",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Feel the chair holding your weight",
+      "norwegian": "Kjenn stolen holde vekten din",
+      "transliteration": "KJENN STOlen HOLDE vekten DIN",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Let your shoulders drop, right now",
+      "norwegian": "La skuldrene sige ned, akkurat nå",
+      "transliteration": "LA SKULDrene SIGE ned, AKKURAT nå",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Count one breath, then stop counting",
+      "norwegian": "Telle ett pust, så slutt å telle",
+      "transliteration": "TELLE ett PUST, så SLUTT å TELLE",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Feel your heartbeat under your ribs",
+      "norwegian": "Kjenn hjerteslaget under ribbeina",
+      "transliteration": "KJENN HJERteslaget UNDERV ribBEina",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "What are you doing tonight?",
+      "norwegian": "Hva gjør du i kveld, da?",
+      "transliteration": "Hva gJØR du i KVELD, da?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "You smell amazing, honestly.",
+      "norwegian": "Du lukter utrolig godt, ærlig talt.",
+      "transliteration": "Du LU KTER inNÆRlig GODT, æRlig talt.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I feel butterflies when you look at me.",
+      "norwegian": "Jeg får sommerfugler når du ser på meg.",
+      "transliteration": "Jeg får SOMmerfugler når du SER på MEg.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Can I steal you for a drink?",
+      "norwegian": "Kan jeg ta deg med på en drink?",
+      "transliteration": "Kan jeg ta DEG med på en DRINK?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Let’s keep it simple, just you and me.",
+      "norwegian": "La oss holde det enkelt, bare du og jeg.",
+      "transliteration": "La oss HOLde det ENkelt, BARE du og JEG.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Your eyes are so expressive.",
+      "norwegian": "Øynene dine sier alt, på en fin måte.",
+      "transliteration": "ØYnene DIne sier ALT, på en FIN måte.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I’m nervous, but I really want you.",
+      "norwegian": "Jeg er nervøs, men jeg vil så gjerne bli kjent med deg.",
+      "transliteration": "Jeg er NERVøs, men jeg vil så GJERne bli KJENT med deg.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I turn doubt into a draft.",
+      "norwegian": "Jeg gjør tvil om til et utkast.",
+      "transliteration": "JeG GJØR tvil OM TIL et uTkast.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Start with one question, then write.",
+      "norwegian": "Start med ett spørsmål, og så skriver du.",
+      "transliteration": "Start MED ett SPØRsmål, og SÅ SKRIver du.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I collect good lines like postcards.",
+      "norwegian": "Jeg samler gode linjer som postkort.",
+      "transliteration": "JeG SAMler GODe linjer SOM postKORT.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "A messy sketch still counts today.",
+      "norwegian": "En rotete skisse teller fortsatt i dag.",
+      "transliteration": "En ROteTE SKISse TELler fortSATT i DAG.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I borrow energy from small routines.",
+      "norwegian": "Jeg låner energi fra små rutiner.",
+      "transliteration": "JeG LÅner ENerGi fra små RUtiNER.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I read one page, then I move.",
+      "norwegian": "Jeg leser én side, og så går jeg videre.",
+      "transliteration": "JeG LESer EN side, og SÅ GÅR jeG VIdere.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "A new playlist opens fresh paths.",
+      "norwegian": "En ny spilleliste åpner nye veier.",
+      "transliteration": "En ny SPILleLISTe ÅPner nye VEier.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I brought tea for both of us.",
+      "norwegian": "Jeg tok med te til oss begge.",
+      "transliteration": "Jeg tok MED te til OSS BEGGE.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Can we start with a hug today?",
+      "norwegian": "Kan vi starte med en klem i dag?",
+      "transliteration": "KAN vi STARte med en KLEM i DAG.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "I feel lighter when we laugh.",
+      "norwegian": "Jeg blir lettere til sinns når vi ler.",
+      "transliteration": "Jeg BLIR letTERE til SINNS når vi LER.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "No blame, just what we need.",
+      "norwegian": "Ingen skyld, bare hva vi trenger.",
+      "transliteration": "INgen SYLD, BARe hva vi TREnger.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Let me fix it with you.",
+      "norwegian": "La meg finne en løsning sammen med deg.",
+      "transliteration": "LA meg FINne en LØsning SAMmen med DEG.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Please talk softer, I’m overstimulated.",
+      "norwegian": "Kan du snakke litt roligere, jeg blir lett overveldet.",
+      "transliteration": "KAN du SNak ke LITT ROligere, jeg BLIR lett overVELdet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T20:23:39.487948"
+    },
+    {
+      "english": "Dinner smells amazing, thank you.",
+      "norwegian": "Det lukter så godt til middag, takk.",
+      "transliteration": "Det LUKter så GODt til MIDdag, TAKK.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-20T20:23:39.487948"
     }
   ],
-  "last_updated": "2026-11-19T20:40:01.258848"
+  "last_updated": "2026-11-20T20:23:39.487948"
 }
