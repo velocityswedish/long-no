@@ -515,7 +515,39 @@
     {
       "category": "Travel & Airport",
       "date": "2026-11-21"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-22"
     }
   ],
-  "last_updated": "2026-11-21T19:18:11.246830"
+  "last_updated": "2026-11-22T19:43:25.757006"
 }

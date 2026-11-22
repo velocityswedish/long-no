@@ -23095,7 +23095,399 @@
       "transliteration": "KAN du SJEKKE passet MITT, VÆR så SNILL?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-21T19:18:11.234723"
+    },
+    {
+      "english": "Thank you for your patience, really",
+      "norwegian": "Takk for tålmodigheten, virkelig",
+      "transliteration": "takk FOR tålmoDIGHeten, VIRkelig",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "That was thoughtful of you, thanks",
+      "norwegian": "Det var veldig gjennomtenkt av deg, tusen takk",
+      "transliteration": "det var VELdig gjenOMtenkt av deg, TUsen takk",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Could we go a bit slower?",
+      "norwegian": "Kan vi ta det litt roligere?",
+      "transliteration": "kan vi ta det litt ROligere?",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "You make this feel safe",
+      "norwegian": "Du får det til å føles trygt",
+      "transliteration": "du får det til å FEles TRYgt",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Thanks for speaking with respect",
+      "norwegian": "Takk for at du snakker med respekt",
+      "transliteration": "takk FOR at du snakker MED RESpekt",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I’m rooting for you, always",
+      "norwegian": "Jeg heier på deg, alltid",
+      "transliteration": "JEg HEier på deg, ALt iD",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Let me take one thing off you",
+      "norwegian": "La meg ta én ting av deg",
+      "transliteration": "la meg ta EN ting av deg",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "How do families celebrate big birthdays?",
+      "norwegian": "Hvordan feirer familier store bursdager?",
+      "transliteration": "HVAordan FEIRer FAMILier STORE BURsdager?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Do people exchange gifts during Christmas Eve?",
+      "norwegian": "Utveksler folk gaver på julaften?",
+      "transliteration": "UTveksler FOLK GAver på JULaften?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Tell me about the bunad traditions.",
+      "norwegian": "Fortell om tradisjonene rundt bunad.",
+      "transliteration": "FORTell OM tradISjonene RUNDt BUNad.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "What foods are special at Easter?",
+      "norwegian": "Hvilke matretter er spesielle til påske?",
+      "transliteration": "HVILke MATretter er SPESielle TIL PÅske?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Is there a church ritual on Palm Sunday?",
+      "norwegian": "Er det en kirketradisjon på palmesøndag?",
+      "transliteration": "ER det en KIRkeTRADISjon på PALmesønDAG?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Do you have May Day traditions in spring?",
+      "norwegian": "Har dere 1. mai-tradisjoner om våren?",
+      "transliteration": "HAR dere ENmai-TRADISjoner OM VÅren?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Where do you hang folk art at home?",
+      "norwegian": "Hvor henger dere folkekunst hjemme?",
+      "transliteration": "HVOR HENGer dere FOLKEkunst HJEMme?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I belong in this room.",
+      "norwegian": "Jeg hører hjemme her i rommet.",
+      "transliteration": "JEG hører HJEMME her i rommet",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I can start before I feel ready.",
+      "norwegian": "Jeg kan begynne før jeg føler meg klar.",
+      "transliteration": "JEG kan BEGINNE før JEG føler meg KLAR",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I make progress, not perfection.",
+      "norwegian": "Jeg tar små steg framover, ikke perfeksjon.",
+      "transliteration": "JEG tar små STEG FRAMOVER, ikke perFEKSjon",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I’ll ask the question I need.",
+      "norwegian": "Jeg spør om det jeg egentlig trenger å vite.",
+      "transliteration": "JEG SPØR om det JEG egentlig trenger å VITE",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I pause, then I choose.",
+      "norwegian": "Jeg stopper opp, så velger jeg.",
+      "transliteration": "JEG STOPPER opp, så VELGER jeg",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "My voice is allowed to be heard.",
+      "norwegian": "Stemmen min får lov å bli hørt.",
+      "transliteration": "STEMmen min får LOV å bli HØRT",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "It’s okay to not know yet.",
+      "norwegian": "Det er helt greit å ikke vite ennå.",
+      "transliteration": "det er helt GREIT å IKKE vite ENNÅ",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "No cap, that was crazy",
+      "norwegian": "Ikke tull, det var skikkelig crazy",
+      "transliteration": "IK-ke TULL, det var skik-kelig CRA-zy",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I m not trying to fight",
+      "norwegian": "Jeg prøver ikke å krangle nå",
+      "transliteration": "JEG prø-VER ikke å KRAN-le nå",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Yo, chill, we re good",
+      "norwegian": "Yo, slapp av, alt er bra",
+      "transliteration": "YO, slapp av, ALT er BRA",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Mind your business, please",
+      "norwegian": "Ikke bland deg, vær så snill",
+      "transliteration": "IK-ke BLAND deg, VÆR så snill",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I m tapped out, for real",
+      "norwegian": "Jeg er helt ferdig, seriøst",
+      "transliteration": "JEG er HELT FER-dig, se-RI-øst",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I m just keeping it real",
+      "norwegian": "Jeg sier bare som det er",
+      "transliteration": "JEG SI-er bare SOM det ER",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Stop overthinking, please",
+      "norwegian": "Slutt å tenke så mye",
+      "transliteration": "SLUTT å TEN-ke så MYE",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I want to forgive, truly.",
+      "norwegian": "Jeg vil tilgi, virkelig.",
+      "transliteration": "Jeg vil tilgi, VIRkelig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Let’s heal, not keep punishing.",
+      "norwegian": "La oss lege, ikke fortsette å straffe.",
+      "transliteration": "La OSS lege, ikke fortsette å STRaffe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "We can be kind again, today.",
+      "norwegian": "Vi kan være snille igjen, i dag.",
+      "transliteration": "Vi kan være SNILle igjen, I dag.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I forgive you, and I mean it.",
+      "norwegian": "Jeg tilgir deg, og jeg mener det.",
+      "transliteration": "Jeg TILgir DEG, og jeg MEner det.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I’m ready to release the anger.",
+      "norwegian": "Jeg er klar til å slippe taket i sinnet.",
+      "transliteration": "Jeg er KLAR til å SLIPpe taket i SINnet.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "That chapter ends here for me.",
+      "norwegian": "Det kapitlet slutter her for meg.",
+      "transliteration": "Det KAPitlet SLUTter her for MEg.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Can we stop the blame, please?",
+      "norwegian": "Kan vi slutte med å legge skylden, vær så snill?",
+      "transliteration": "Kan vi SLUTte med å LEgge SKYlden, VÆR så SNILL?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Hi, can you hear me now?",
+      "norwegian": "Hei, kan du høre meg nå?",
+      "transliteration": "Hei, kan du HØRE meg nå?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I’m outside, should I wait?",
+      "norwegian": "Jeg er utenfor, skal jeg vente?",
+      "transliteration": "Jeg er U TENFOR, skal jeg VEN te?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Please text me when you arrive.",
+      "norwegian": "Send meg en SMS når du er fremme.",
+      "transliteration": "Send meg en SMS når du er FREMME.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Could we move our call to later?",
+      "norwegian": "Kan vi flytte samtalen til senere?",
+      "transliteration": "Kan vi FLYT te SAM ta len til SE NER E?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Sorry, wrong number, my bad.",
+      "norwegian": "Beklager, feil nummer, jeg bommet.",
+      "transliteration": "BeKla ger, FEIL num mer, jeg BOM met.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I can talk for five minutes.",
+      "norwegian": "Jeg kan snakke i fem minutter.",
+      "transliteration": "Jeg kan SNAK ke i FEM MIN ut ter.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Let’s confirm the time by SMS.",
+      "norwegian": "La oss bekrefte tidspunktet via SMS.",
+      "transliteration": "La oss be KREF te TIDS punktet VIK SMS.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I feel hopeful about tomorrow",
+      "norwegian": "Jeg føler håp for i morgen",
+      "transliteration": "Jeg føleR HÅP for I MORgen",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "My chest feels tight right now",
+      "norwegian": "Brystet mitt føles stramt akkurat nå",
+      "transliteration": "BRYSTet mitt Føles STRAMT akKURat nå",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I’m carrying worry, but I’m trying",
+      "norwegian": "Jeg bærer på bekymring, men jeg prøver",
+      "transliteration": "Jeg BÆrer PÅ BEKYMring, men JEG PRØver",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "That made me feel seen",
+      "norwegian": "Det fikk meg til å føle meg sett",
+      "transliteration": "DET fikk MEG til å Føle meg SETT",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I feel a rush of excitement",
+      "norwegian": "Jeg kjenner en bølge av spenning",
+      "transliteration": "Jeg KJENner en BØlge av SPENning",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I’m feeling lonely, not broken",
+      "norwegian": "Jeg føler meg ensom, ikke ødelagt",
+      "transliteration": "Jeg Føler meg ENsom, ikke ØdeLAGT",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Now I feel jealousy, and I pause",
+      "norwegian": "Nå merker jeg sjalusi, og jeg stopper opp",
+      "transliteration": "NÅ MERker jeg SJALOsi, OG JEG STOPper OPp",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Can you reset my access?",
+      "norwegian": "Kan du tilbakestille tilgangen min?",
+      "transliteration": "KaN du tiLBAKEstille tiLgan min?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Where is the copy paper kept?",
+      "norwegian": "Hvor er kopipapiret oppbevart?",
+      "transliteration": "VOR er KOpiPApiRet opPBEvart?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I need a new badge today.",
+      "norwegian": "Jeg trenger et nytt adgangskort i dag.",
+      "transliteration": "JEg TRENger et NYtt adgangsKORT i DAG.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "The Wi-Fi is dropping again.",
+      "norwegian": "Wi-Fi-en faller ut igjen.",
+      "transliteration": "Wi-Fi-en FALler UT IGjen.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Could you help me set up VPN?",
+      "norwegian": "Kan du hjelpe meg å sette opp VPN?",
+      "transliteration": "Kan du HJELpe meg a SETHte OPP VPN?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "I have a meeting room key issue.",
+      "norwegian": "Jeg har et problem med nøkkelen til møterommet.",
+      "transliteration": "JEg har et PROblem med NØkkelen til MEte-rommet.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Is there a quiet room nearby?",
+      "norwegian": "Er det et rolig rom i nærheten?",
+      "transliteration": "ER det et ROlig ROM i NÆrheten?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T19:43:25.737949"
     }
   ],
-  "last_updated": "2026-11-21T19:18:11.234723"
+  "last_updated": "2026-11-22T19:43:25.737949"
 }
