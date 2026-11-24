@@ -579,7 +579,39 @@
     {
       "category": "Weather & Small Talk",
       "date": "2026-11-23"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Self Improvement",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-24"
     }
   ],
-  "last_updated": "2026-11-23T23:56:06.679704"
+  "last_updated": "2026-11-24T22:29:17.515743"
 }
