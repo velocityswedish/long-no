@@ -23487,7 +23487,399 @@
       "transliteration": "ER det et ROlig ROM i NÆrheten?",
       "category": "Work & Office",
       "generated_at": "2026-11-22T19:43:25.737949"
+    },
+    {
+      "english": "Let’s pick the easiest option first.",
+      "norwegian": "La oss velge det enkleste først.",
+      "transliteration": "La oss VELGE det ENKLESTE først.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "What’s one thing we can do?",
+      "norwegian": "Hva er én ting vi kan gjøre nå?",
+      "transliteration": "Hva er EN ting vi kan GJØRE nå?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I can do mornings, maybe.",
+      "norwegian": "Jeg kan på morgenen, kanskje.",
+      "transliteration": "JEG kan på MORgenen, kanSKJE.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Can we agree on a backup plan?",
+      "norwegian": "Kan vi bli enige om en plan B?",
+      "transliteration": "Kan vi bli ENIG om en PLAN B?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Let’s set a time, not a fight.",
+      "norwegian": "La oss sette en tid, ikke en kamp.",
+      "transliteration": "La oss SETTE en TID, ikke en KAMP.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I’ll check my calendar, then decide.",
+      "norwegian": "Jeg sjekker kalenderen min, så bestemmer vi.",
+      "transliteration": "JEG SJEKKER kalenderen MIN, så bestemMER vi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Should we keep it local and near?",
+      "norwegian": "Skal vi holde oss lokalt og nært?",
+      "transliteration": "SKAL vi HO LLE oss LO KALT og NÆRT?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I’m grateful for your steady presence.",
+      "norwegian": "Jeg er takknemlig for din rolige tilstedeværelse.",
+      "transliteration": "je er takknemlig for din RO-lige til-ste-de-vÆ-relse",
+      "category": "Friendship",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "You make hard days feel lighter.",
+      "norwegian": "Du får vonde dager til å føles lettere.",
+      "transliteration": "du får VOn-de da-ger til å fø-les LET-te-re",
+      "category": "Friendship",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Thanks for always being in my corner.",
+      "norwegian": "Takk for at du alltid står på min side.",
+      "transliteration": "takk for at du ALL-tiD står på min SI-de",
+      "category": "Friendship",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Let’s catch up, no pressure, just us.",
+      "norwegian": "La oss ta en prat, uten press, bare oss to.",
+      "transliteration": "la oss ta en PRÅT, u-ten PRESS, ba-re oss TO",
+      "category": "Friendship",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "We argue less, we understand more.",
+      "norwegian": "Vi krangler mindre, og forstår mer.",
+      "transliteration": "vi KRAN-gleR MI-dre, og FOR-står mer",
+      "category": "Friendship",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I love how you check in.",
+      "norwegian": "Jeg liker så godt hvordan du tar kontakt.",
+      "transliteration": "je LI-ker så godt HÅVordan du tar KON-takt",
+      "category": "Friendship",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Your humor keeps me grounded.",
+      "norwegian": "Humoren din holder meg på jorda.",
+      "transliteration": "hu-MO-ren din HOL-der meg på JOR-da",
+      "category": "Friendship",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I feel joy in small moments.",
+      "norwegian": "Jeg kjenner glede i små øyeblikk.",
+      "transliteration": "JEg KjenNER gleDE i SMå ØYeblikk.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Today I’m grateful, and I breathe slow.",
+      "norwegian": "I dag er jeg takknemlig, og jeg puster rolig.",
+      "transliteration": "I DAG er JEg TAKkNEmlig, og JEg PUSter ROlig.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "This song makes me grin immediately.",
+      "norwegian": "Denne sangen får meg til å smile med en gang.",
+      "transliteration": "DEnne SAnGen får MEg til å SMiLe MED en gang.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "My thoughts are quiet, my mood is bright.",
+      "norwegian": "Tankene mine er stille, humøret mitt er lyst.",
+      "transliteration": "TANkene miNe er STILle, HUMøret MITT er LYST.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I got a pleasant surprise, finally.",
+      "norwegian": "Jeg fikk en hyggelig overraskelse, endelig.",
+      "transliteration": "JEg FIKk en HYGgeLIg overRAskelse, ENdeLIg.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "A warm hug, and everything feels better.",
+      "norwegian": "En varm klem, og alt føles bedre.",
+      "transliteration": "EN varm KLEM, og ALT føLES BEDre.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I love how the day turns golden.",
+      "norwegian": "Jeg liker måten dagen blir gullfarget på.",
+      "transliteration": "JEg LIker MÅten DAGen BliR GUlFARget på.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Thank you for your honest help",
+      "norwegian": "Takk for din ærlige hjelp.",
+      "transliteration": "Takk for din AERlige hjelp.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I’m grateful you remembered my request",
+      "norwegian": "Jeg er takknemlig for at du husket forespørselen min.",
+      "transliteration": "Jeg er takKNEMlig for at du HUSket forespørselEN min.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Thanks for picking up the call",
+      "norwegian": "Takk for at du tok telefonen.",
+      "transliteration": "Takk for at du tok TELE-fonen.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "You made things easier for me",
+      "norwegian": "Du gjorde det mye lettere for meg.",
+      "transliteration": "Du GJORde det mye LETtere for meg.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Thanks for saving me time today",
+      "norwegian": "Takk for at du sparte meg tid i dag.",
+      "transliteration": "Takk for at du SPARte meg tid i dag.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I appreciate your calm, steady support",
+      "norwegian": "Jeg setter pris på den rolige, faste støtten din.",
+      "transliteration": "Jeg SETter PRIS på den ROlige, FASte støtten din.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Thank you for the clear instructions",
+      "norwegian": "Takk for de klare instruksjonene.",
+      "transliteration": "Takk for de KLAre inSTRUKsjo-nene.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Thanks, I’ll handle this slowly.",
+      "norwegian": "Takk, jeg tar det rolig nå.",
+      "transliteration": "TAKK, jeg tar det ro-lig nå.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I’m on my way, give me time.",
+      "norwegian": "Jeg er på vei, gi meg litt tid.",
+      "transliteration": "JEG er på VEI, GI meg litt TID.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Just a moment, I’m looking it up.",
+      "norwegian": "Bare et øyeblikk, jeg sjekker det nå.",
+      "transliteration": "BA-RE et ØYEBLIKk, jeg SJEKK-er det nå.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Please, don’t rush me, I’m careful.",
+      "norwegian": "Vær snill, ikke stress meg, jeg er nøye.",
+      "transliteration": "VÆR snill, ikke STRESS meg, jeg er NØYE.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I hear you, I’ll respond soon.",
+      "norwegian": "Jeg skjønner, jeg svarer snart.",
+      "transliteration": "JEG skjønner, jeg SVA-rer snart.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "We’re waiting on one small step.",
+      "norwegian": "Vi venter på ett lite steg.",
+      "transliteration": "VI VEN-TER på ett LI-te STEG.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Hang tight, the process takes time.",
+      "norwegian": "Hold ut, prosessen tar tid.",
+      "transliteration": "HOLD ut, PRO-ses-sen tar TID.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I’d like to deposit cash, please.",
+      "norwegian": "Jeg vil gjerne sette inn kontanter, vær så snill.",
+      "transliteration": "jeg vil GJERNE set-te INN KON-tan-ter, vær så snill",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Can I pay my bill here?",
+      "norwegian": "Kan jeg betale regningen her?",
+      "transliteration": "kan jeg BEtale REG-ning-en HER",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "How do I turn on SMS alerts?",
+      "norwegian": "Hvordan slår jeg på SMS-varsler?",
+      "transliteration": "HEN-vor-dan SLÅR jeg på SMS-VAR-sler",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Where can I download my bank statements?",
+      "norwegian": "Hvor kan jeg laste ned kontoutskriftene mine?",
+      "transliteration": "HVor kan jeg LAST-e ned KON-to-UTSKRIF-tene MI-ne",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I need a bank transfer receipt.",
+      "norwegian": "Jeg trenger en bekreftelse på bankoverføringen.",
+      "transliteration": "jeg TREN-ger en BEKREF-telse på BANK-o-ver-FØR-in-gen",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Can you help me with a chargeback?",
+      "norwegian": "Kan du hjelpe meg med en tilbakeføring av beløpet?",
+      "transliteration": "kan du HJEL-pe meg med en TIL-bake-FØR-ing av BElø-pet",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Why is my card app showing pending?",
+      "norwegian": "Hvorfor står beløpet som venter i kortappen?",
+      "transliteration": "HVO-FOR står BElø-pet som VEN-ter i KORT-ap-pen",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I need a spotter for bench",
+      "norwegian": "Jeg trenger en spotter til benkpress",
+      "transliteration": "jeG TRENGer EN SPOTter TIL BENKpress",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Can you help me adjust my weights?",
+      "norwegian": "Kan du hjelpe meg å justere vektene mine?",
+      "transliteration": "KAN du HJELpe meg Å JUStere VEKtne MINE",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "My grip is slipping, any tips?",
+      "norwegian": "Grepet mitt sklir, har du noen tips?",
+      "transliteration": "GREpet MITT SKLIR, HAR du NOen tips",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "What’s the best pace for intervals?",
+      "norwegian": "Hva er best tempo for intervaller?",
+      "transliteration": "HVA ER BEST TEMpo for INterVAlER",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "I’m out of breath on stairs",
+      "norwegian": "Jeg blir fort andpusten i trappa",
+      "transliteration": "jeG BLIR fort ANDpusten i TRAPpa",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Can we do mobility after training?",
+      "norwegian": "Kan vi gjøre bevegelighet etter økta?",
+      "transliteration": "KAN vi GJØre BEVEgeLIGHet ETter ØKta",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "How should I breathe during lifts?",
+      "norwegian": "Hvordan bør jeg puste under løftene?",
+      "transliteration": "HENner BØR jeG PUSTe UNder LØFteNE",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "What a chilly morning, right?",
+      "norwegian": "For en kald morgen, ikke sant?",
+      "transliteration": "For en KALD morgen, ikke SANT?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "The clouds are moving fast.",
+      "norwegian": "Skyene flytter seg ganske fort.",
+      "transliteration": "SKY-ene FLYT-ter seg ganske FORT.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Is the wind picking up?",
+      "norwegian": "Blir det mer vind snart?",
+      "transliteration": "BLIR det MER vind SNART?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "Do you hear any thunder?",
+      "norwegian": "Hører du noe torden?",
+      "transliteration": "HØR-er du NOE TORDEN?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "We might get a quick shower.",
+      "norwegian": "Vi kan få en rask regnskur.",
+      "transliteration": "VI kan FÅ en RASK regn-SKUR.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "It smells like rain, doesn’t it?",
+      "norwegian": "Det lukter som regn, gjør det ikke?",
+      "transliteration": "DET LUK-ter som REGN, gjør det IKKE?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T23:56:06.659628"
+    },
+    {
+      "english": "My skin feels a bit dry.",
+      "norwegian": "Huden min føles litt tørr.",
+      "transliteration": "HU-dEN MIN Føles litt TØRR.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T23:56:06.659628"
     }
   ],
-  "last_updated": "2026-11-22T19:43:25.737949"
+  "last_updated": "2026-11-23T23:56:06.659628"
 }
