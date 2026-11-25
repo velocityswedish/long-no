@@ -611,7 +611,39 @@
     {
       "category": "Strength",
       "date": "2026-11-24"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-25"
     }
   ],
-  "last_updated": "2026-11-24T22:29:17.515743"
+  "last_updated": "2026-11-25T21:44:38.000981"
 }

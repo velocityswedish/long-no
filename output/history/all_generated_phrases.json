@@ -24271,7 +24271,399 @@
       "transliteration": "JEg kan VÆ-re SNILL uten å KRIM-pe meg.",
       "category": "Strength",
       "generated_at": "2026-11-24T22:29:17.492933"
+    },
+    {
+      "english": "I’ll start messy, then refine",
+      "norwegian": "Jeg starter rotete, og så finpusser jeg",
+      "transliteration": "JeG STARTer rote te, og SÅ finPUSSer jeg",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Let’s test the idea in real life",
+      "norwegian": "La oss teste ideen i praksis",
+      "transliteration": "La OSS TES te ideen i PRAksis",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I can remix this into something new",
+      "norwegian": "Jeg kan mikse dette om til noe nytt",
+      "transliteration": "JeG kan MI kse deTTE om til noe NYTT",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "What if I ask a beginner question?",
+      "norwegian": "Hva om jeg spør som en nybegynner?",
+      "transliteration": "VÅ H om JeG SPØR som en NY begynner",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m allowed to surprise myself",
+      "norwegian": "Jeg får lov til å overraske meg selv",
+      "transliteration": "JeG FÅR lov til å o VERraske meg SELV",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’ll give it a deadline, not pressure",
+      "norwegian": "Jeg gir det en frist, ikke press",
+      "transliteration": "JeG GIR det en FRIST, ikke PRESS",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’ll keep the best bits, drop the rest",
+      "norwegian": "Jeg beholder det beste, og lar resten falle bort",
+      "transliteration": "JeG BE HOL der deT beste, og lar RES ten falle BORT",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "norwegian": "Har dere dette på lager?",
+      "transliteration": "Har dere DETte på LA-ger?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’d like the generic version.",
+      "norwegian": "Jeg vil gjerne ha en generisk variant.",
+      "transliteration": "Jeg vil GJERne ha en ge-NE-risk VARi-ant.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Can a pharmacist check my dose?",
+      "norwegian": "Kan apoteket kontrollere dosen min?",
+      "transliteration": "Kan apote-KET konTROLle-re DOsen MIN?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "What should I expect today?",
+      "norwegian": "Hva kan jeg forvente i dag?",
+      "transliteration": "HVA kan jeg for-VENTE i DAG?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Should I stop this medicine now?",
+      "norwegian": "Bør jeg slutte med denne medisinen nå?",
+      "transliteration": "BØR jeg SLUT-te med DENne ME-di-si-nen nå?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Is this medicine safe for pregnancy?",
+      "norwegian": "Er dette trygt under graviditet?",
+      "transliteration": "ER DET-te TRYGGT UN-der GRI-avid-i-tet?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Do I need to fast for tests?",
+      "norwegian": "Må jeg faste før prøver?",
+      "transliteration": "MÅ jeg FAste før PRØ-ver?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Is breakfast still available right now?",
+      "norwegian": "Er frokosten fortsatt tilgjengelig akkurat nå?",
+      "transliteration": "Er FROKOSTen fortsatt TILgjengelig AKKurat nå?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Do you have quiet rooms upstairs?",
+      "norwegian": "Har dere stille rom i etasjene oppe?",
+      "transliteration": "Har DERE stille ROM i ETAsjene oppe?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Where is the breakfast room?",
+      "norwegian": "Hvor ligger frokostsalen?",
+      "transliteration": "HVOR LIGger FROKOSTsalen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Can I get a wake-up call?",
+      "norwegian": "Kan jeg få en vekketjeneste?",
+      "transliteration": "Kan jeg få en VEKKetjeneste?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’d like to pay by card.",
+      "norwegian": "Jeg vil gjerne betale med kort.",
+      "transliteration": "JEG vil gjerne BETALE med KORT.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "What’s the Wi-Fi password, please?",
+      "norwegian": "Hva er passordet til Wi-Fi, vær så snill?",
+      "transliteration": "HVA er PASSordet til WI-FI, vær så SNILL?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Does Wi-Fi reach my room?",
+      "norwegian": "Rekker Wi-Fi til rommet mitt?",
+      "transliteration": "REKker WI-FI til ROMmet mitt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m reaching out to introduce myself",
+      "norwegian": "Jeg tar kontakt for å introdusere meg selv.",
+      "transliteration": "JeG taar kontakt FOR å inTRUduRE meg SElV",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m writing to request a quote",
+      "norwegian": "Jeg skriver for å be om et pristilbud.",
+      "transliteration": "JeG skrIVer FOR å BE om et PRIStilBUD",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I called to check on your order",
+      "norwegian": "Jeg ringte for å høre hvordan bestillingen din går.",
+      "transliteration": "JeG RINgte FOR å HØRe hvorDAN besTILlingen din gaar",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m emailing to share the updated file",
+      "norwegian": "Jeg sender en e-post for å dele den oppdaterte filen.",
+      "transliteration": "JeG SENder en EPpost FOR å DEle den opPDaTERte FIlen",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m stopping by to drop off forms",
+      "norwegian": "Jeg stikker inn for å levere skjemaene.",
+      "transliteration": "JeG STIKker inn FOR å LEvere SJEMaaene",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m asking to confirm the start time",
+      "norwegian": "Jeg vil gjerne bekrefte starttidspunktet.",
+      "transliteration": "JeG vil GJERne beKREfte STARTTIDspunktet",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m calling to sort out the confusion",
+      "norwegian": "Jeg ringer for å rydde opp i misforståelsen.",
+      "transliteration": "JeG RINger FOR å rydde OPP i misforSTÅelsen",
+      "category": "Purpose",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Help, I might faint right now.",
+      "norwegian": "Hjelp, jeg kan være i ferd med å besvime nå.",
+      "transliteration": "Hjelp, jeg kan være i ferd med å BESVIME nå.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Are you having an allergic reaction?",
+      "norwegian": "Har du en allergisk reaksjon akkurat nå?",
+      "transliteration": "Har du en ALLERGISK reaksjon AKKURAT nå?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "My lips or face are swelling.",
+      "norwegian": "Leppene eller ansiktet mitt svulmer.",
+      "transliteration": "LIPPene eller ANSIKTet mitt SVULMER.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I think it s a severe burn.",
+      "norwegian": "Jeg tror det er en alvorlig brannskade.",
+      "transliteration": "Jeg tror det er en ALVORLIG brannskade.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Cool the burn with running water.",
+      "norwegian": "Kjøl brannskaden med rennende vann.",
+      "transliteration": "KJØL brannskaden med RENNende vann.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Cover it loosely, no tight wrap.",
+      "norwegian": "Dekk til løst, uten å binde stramt.",
+      "transliteration": "DEKK til LØST, uten å BINDE stramt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I swallowed something I shouldn t.",
+      "norwegian": "Jeg svelget noe jeg ikke skulle.",
+      "transliteration": "Jeg SVELGET noe jeg IKKE skulle.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’d like to order now, please.",
+      "norwegian": "Jeg vil gjerne bestille nå, vær så snill.",
+      "transliteration": "Jei vil GJERNE BESTILLE nå, vær så SNILL",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "What’s fresh on the menu today?",
+      "norwegian": "Hva er ferskt i dag, på menyen?",
+      "transliteration": "Hva er FERSKT i dag, på ME-Nyen",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Can I get that to go?",
+      "norwegian": "Kan jeg få det med meg, takk?",
+      "transliteration": "Kan jeg få det MED meg, TAKK",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Is the bread included with meals?",
+      "norwegian": "Er brødet inkludert til maten?",
+      "transliteration": "Er BRØ-det inn-klu-dert til MA-ten",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Do you have smaller portions?",
+      "norwegian": "Har dere mindre porsjoner?",
+      "transliteration": "Har DERE MIN-dre POR-sjo-ner",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’ll start with the soup, please.",
+      "norwegian": "Jeg tar gjerne suppen som forrett.",
+      "transliteration": "Jei tar GJERNE SUPPen som FOR-rett",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Could I substitute potatoes for rice?",
+      "norwegian": "Kan jeg bytte ris mot poteter?",
+      "transliteration": "Kan jei BYT-te ris mot po-TE-ter",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Excuse me, how far is it?",
+      "norwegian": "Unnskyld, hvor langt er det?",
+      "transliteration": "UNNSKYLD, hvor LANGT er det?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "norwegian": "Kan du vise meg på kartet?",
+      "transliteration": "kan du VISE meg på KARtet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m new here, where do I start?",
+      "norwegian": "Jeg er ny her, hvor begynner jeg?",
+      "transliteration": "jeg er NY her, hvor BEGYNNer jeg?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Should I go through the park?",
+      "norwegian": "Bør jeg gå gjennom parken?",
+      "transliteration": "bør JEG gå gjenNOM parken?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Is there a bridge nearby to cross?",
+      "norwegian": "Er det en bro i nærheten å krysse?",
+      "transliteration": "er det en BRO i NÆRheten å KRYsse?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Which street has the clearest signs?",
+      "norwegian": "Hvilken gate har de tydeligste skiltene?",
+      "transliteration": "HVILken GATE har de TYdeligste SKYltene?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I see stairs, is that the right way?",
+      "norwegian": "Jeg ser trapper, er det riktig vei?",
+      "transliteration": "jeg SER trapper, er det RIKtig vei?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m expanding my comfort zone",
+      "norwegian": "Jeg utvider komfortsonen min, litt etter litt.",
+      "transliteration": "Jeg utvider KOMF0RTsonen min, liTt etter litt.",
+      "category": "Growth",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I grow by asking better questions",
+      "norwegian": "Jeg vokser av å stille bedre spørsmål.",
+      "transliteration": "Jeg VOKSer av å SILLE BETre SPØRsmål.",
+      "category": "Growth",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Today I choose progress over perfection",
+      "norwegian": "I dag velger jeg framgang framfor perfeksjon.",
+      "transliteration": "I DAG VELger jeg FRAMgang FRAMfor perFEKSjon.",
+      "category": "Growth",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I keep showing up, even tired",
+      "norwegian": "Jeg dukker opp igjen, selv om jeg er sliten.",
+      "transliteration": "Jeg DUKker opp IGJEN, SELV om jeg er SLITen.",
+      "category": "Growth",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "My focus gets wider each week",
+      "norwegian": "Fokuset mitt blir bredere for hver uke.",
+      "transliteration": "FOkuset MITT blir BREdere for HVER uke.",
+      "category": "Growth",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "I’m building confidence with practice",
+      "norwegian": "Jeg bygger selvtillit gjennom øving.",
+      "transliteration": "Jeg BYgger SELVtillit gjenNOm ØVing.",
+      "category": "Growth",
+      "generated_at": "2026-11-25T21:44:37.980619"
+    },
+    {
+      "english": "Small improvements stack up quietly",
+      "norwegian": "Små forbedringer legger seg lagvis, stille og rolig.",
+      "transliteration": "SMÅ forBEdringer LEGger seg LAGvis, STILLE og rolig.",
+      "category": "Growth",
+      "generated_at": "2026-11-25T21:44:37.980619"
     }
   ],
-  "last_updated": "2026-11-24T22:29:17.492933"
+  "last_updated": "2026-11-25T21:44:37.980619"
 }
